@@ -3,6 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+/MassBalanceCalculator/src/main/java/h2_database/H2_database
 
 ##############################
 ## Java
