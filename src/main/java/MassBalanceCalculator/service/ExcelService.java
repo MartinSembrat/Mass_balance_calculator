@@ -19,11 +19,12 @@ public class ExcelService {
 
         try {
             List<Sale> sales = ExcelHelper.excelToSales(file.getInputStream());
+            saleRepository.saveAll(sales);
         } catch (IOException e) {
             throw new RuntimeException("fail to store excel data: " + e.getMessage());
         }
-
     }
-
-
+    public List<Sale> getAllSales(){
+        return saleRepository.findAll();
+    }
 }
