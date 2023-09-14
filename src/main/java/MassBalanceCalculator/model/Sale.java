@@ -3,15 +3,17 @@ package MassBalanceCalculator.model;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import lombok.ToString;
 
 import javax.persistence.*;
 import java.math.BigInteger;
 import java.util.Date;
 
-
+@ToString
 @Setter
 @Getter
 @Entity
+@Table(name ="sales")
 @NoArgsConstructor
 public class Sale {
     @Id
@@ -48,4 +50,5 @@ public class Sale {
         this.iloscKG = iloscKG;
         this.wartoscNetto = wartoscNetto;
     }
+
 }
