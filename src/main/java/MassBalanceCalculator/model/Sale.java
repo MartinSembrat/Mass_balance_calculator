@@ -13,28 +13,28 @@ import java.util.Date;
 @Setter
 @Getter
 @Entity
-@Table(name ="sales")
+@Table(name = "sales")
 @NoArgsConstructor
 public class Sale {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "id", nullable = false)
-        Integer id;
-        Integer nr_Mag;
-        Integer idPlatnika;
-        String platnik_Nazwa;
-        Integer idOdbiorcy;
-        String odbiorca_Nazwa;
-        Date dataWystawienia;
-        Integer wk;
-        String indeks;
-        String nazwa;
-        String jm;
-        BigInteger ilosc;
-        BigInteger iloscKG;
-        Float wartoscNetto;
+    Integer id;
+    Integer nr_Mag;
+    Integer idPlatnika;
+    String platnik_Nazwa;
+    Integer idOdbiorcy;
+    String odbiorca_Nazwa;
+    Date dataWystawienia;
+    Integer wk;
+    String indeks;
+    String nazwa;
+    String jm;
+    Float ilosc;
+    Float iloscKG;
+    BigInteger wartoscNetto;
 
-    public Sale(Integer id, Integer nr_Mag, Integer idPlatnika, String platnik_Nazwa, Integer idOdbiorcy, String odbiorca_Nazwa, Date dataWystawienia, Integer wk, String indeks, String nazwa, String jm, BigInteger ilosc, BigInteger iloscKG, Float wartoscNetto) {
+    public Sale(Integer id, Integer nr_Mag, Integer idPlatnika, String platnik_Nazwa, Integer idOdbiorcy, String odbiorca_Nazwa, Date dataWystawienia, Integer wk, String indeks, String nazwa, String jm, Float ilosc, Float iloscKG, BigInteger wartoscNetto) {
         this.id = id;
         this.nr_Mag = nr_Mag;
         this.idPlatnika = idPlatnika;

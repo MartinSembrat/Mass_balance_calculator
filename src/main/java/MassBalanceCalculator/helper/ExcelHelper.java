@@ -28,108 +28,28 @@ public class ExcelHelper {
         }return true;
     }
 
-//    public static List<Sale> excelToSales(InputStream is) {
-//        long start = System.currentTimeMillis();
-//        try {
-//            Workbook workBook = new XSSFWorkbook(is);
-//            Sheet sheet = workBook.getSheet(SHEET);
-//            //npe
-//            Iterator<Row> rowIterator = sheet.iterator();
-//            //Omit column names in first row
-//            rowIterator.next();
-//            List<Sale> listSales = new ArrayList<>();
-//
-//            while (rowIterator.hasNext()) {
-//                Row currentRow = rowIterator.next();
-//                Iterator<Cell> cellIterator = currentRow.iterator();
-//                Sale sale = new Sale();
-//               // int rowIndex = currentRow.getRowNum();
-//
-//                while (cellIterator.hasNext()) {
-//                    Cell currentCell = cellIterator.next();
-//
-//                    int columnIndex = currentCell.getColumnIndex();
-//                    switch (columnIndex) {
-//                        case 0:
-//                            sale.setNr_Mag((int) currentCell.getNumericCellValue());
-//                            break;
-//                        case 1:
-//                            sale.setIdPlatnika((int) currentCell.getNumericCellValue());
-//                            break;
-//                        case 2:
-//                            sale.setPlatnik_Nazwa(currentCell.getStringCellValue());
-//                            break;
-//                        case 3:
-//                            sale.setIdOdbiorcy((int) currentCell.getNumericCellValue());
-//                            break;
-//                        case 4:
-//                            sale.setOdbiorca_Nazwa(currentCell.getStringCellValue());
-//                            break;
-//                        case 5:
-//                            sale.setDataWystawienia(currentCell.getDateCellValue());
-//                            break;
-//                        case 6:
-//                            sale.setWk((int) currentCell.getNumericCellValue());
-//                            break;
-//                        case 7:
-//                            sale.setIndeks(currentCell.getStringCellValue());
-//                            break;
-//                        case 8:
-//                            sale.setNazwa(currentCell.getStringCellValue());
-//                            break;
-//                        case 9:
-//                            sale.setJm(currentCell.getStringCellValue());
-//                            break;
-//                        case 10:
-//                            sale.setIlosc(BigDecimal.valueOf(currentCell.getNumericCellValue()).toBigInteger());
-//                            break;
-//                        case 11:
-//                            sale.setIloscKG(BigDecimal.valueOf(currentCell.getNumericCellValue()).toBigInteger());
-//                            break;
-//                        case 12:
-//                            sale.setWartoscNetto((float) currentCell.getNumericCellValue());
-//                            break;
-//                        default: break;
-//                    } listSales.add(sale);
-//                }
-//            }
-//            workBook.close();
-//            long end = System.currentTimeMillis();
-//            System.out.printf("Import done in %d ms/n", (end - start));
-//            return listSales;
-//        } catch (Exception e) {
-//            throw new RuntimeException("fail to parse Excel file: " + e.getMessage());
-//        }
-//    }
-
     public static List<Sale> excelToSales(InputStream is) {
+        long start = System.currentTimeMillis();
         try {
-            Workbook workbook = new XSSFWorkbook(is);
+            Workbook workBook = new XSSFWorkbook(is);
+            Sheet sheet = workBook.getSheet(SHEET);
+            //npe
+            Iterator<Row> rowIterator = sheet.iterator();
+            //Omit column names in first row
+            rowIterator.next();
+            List<Sale> listSales = new ArrayList<>();
 
-            Sheet sheet = workbook.getSheet(SHEET);
-            Iterator<Row> rows = sheet.iterator();
-
-            List<Sale> sales = new ArrayList<Sale>();
-
-            int rowNumber = 0;
-            while (rows.hasNext()) {
-                Row currentRow = rows.next();
-
-                // skip header
-                if (rowNumber == 0) {
-                    rowNumber++;
-                    continue;
-                }
-
-                Iterator<Cell> cellsInRow = currentRow.iterator();
-
+            while (rowIterator.hasNext()) {
+                Row currentRow = rowIterator.next();
+                Iterator<Cell> cellIterator = currentRow.iterator();
                 Sale sale = new Sale();
+               // int rowIndex = currentRow.getRowNum();
 
-                int cellIdx = 0;
-                while (cellsInRow.hasNext()) {
-                    Cell currentCell = cellsInRow.next();
+                while (cellIterator.hasNext()) {
+                    Cell currentCell = cellIterator.next();
 
-                    switch (cellIdx) {
+                    int columnIndex = currentCell.getColumnIndex();
+                    switch (columnIndex) {
                         case 0:
                             sale.setNr_Mag((int) currentCell.getNumericCellValue());
                             break;
@@ -161,30 +81,25 @@ public class ExcelHelper {
                             sale.setJm(currentCell.getStringCellValue());
                             break;
                         case 10:
-                            sale.setIlosc(BigDecimal.valueOf(currentCell.getNumericCellValue()).toBigInteger());
+                            sale.setIlosc(Float.parseFloat(currentCell.getStringCellValue()));
                             break;
                         case 11:
-                            sale.setIloscKG(BigDecimal.valueOf(currentCell.getNumericCellValue()).toBigInteger());
+//                            sale.setIloscKG((float)currentCell.getNumericCellValue());
+                            sale.setIloscKG(Float.parseFloat(currentCell.getStringCellValue()));
                             break;
                         case 12:
-                            sale.setWartoscNetto((float) currentCell.getNumericCellValue());
+                            sale.setWartoscNetto(BigDecimal.valueOf(currentCell.getNumericCellValue()).toBigInteger());
                             break;
                         default: break;
-                    }
-
-                    cellIdx++;
+                    } listSales.add(sale);
                 }
-
-                sales.add(sale);
             }
-
-            workbook.close();
-
-            return sales;
-        } catch (IOException e) {
+            workBook.close();
+            long end = System.currentTimeMillis();
+            System.out.printf("Import done in %d ms/n", (end - start));
+            return listSales;
+        } catch (Exception e) {
             throw new RuntimeException("fail to parse Excel file: " + e.getMessage());
         }
     }
-
-
 }
