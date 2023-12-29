@@ -43,15 +43,15 @@ public class ExcelController {
     }
 
     @GetMapping("/sales")
-    public ResponseEntity<List<Sale>> getAllTutorials() {
+    public ResponseEntity<List<Sale>> getAllSales() {
         try {
-            List<Sale> tutorials = fileService.getAllSales();
+            List<Sale> sales = fileService.getAllSales();
 
-            if (tutorials.isEmpty()) {
+            if (sales.isEmpty()) {
                 return new ResponseEntity<>(HttpStatus.NO_CONTENT);
             }
 
-            return new ResponseEntity<>(tutorials, HttpStatus.OK);
+            return new ResponseEntity<>(sales, HttpStatus.OK);
         } catch (Exception e) {
             return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
         }
