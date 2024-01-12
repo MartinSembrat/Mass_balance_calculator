@@ -1,1 +1,2 @@
-CREATE TABLE TBL_WYROBY AS SELECT * FROM CSVREAD('tbl_wyroby.csv');
+CREATE TABLE TBL_WYROBY AS SELECT * FROM CSVREAD('./MassBalanceCalculator/src/main/resources/tbl_wyroby.txt');
+--CREATE TABLE TBL_WYROBY AS SELECT * FROM CSVREAD('C:\Users\m.sembrat.MCCAMBRIDGEGRP\Desktop\MassBalance CSV\tbl_wyroby.txt');

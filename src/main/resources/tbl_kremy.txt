@@ -1,0 +1,75 @@
+"ID_kremu","Nazwa_kremu","Nr receptury","Data zatwierdzenia","Aktualna","wersja"
+47,"Krem czekoladowy RA - Torcik","125",17.1.2018 00:00:00,1,11
+52,"Krem czekoladowy","233",22.4.2009 00:00:00,1,12
+54,"krem o smaku waniliowym","236",6.9.2016 00:00:00,1,22
+55,"Krem śmietankowy","249",9.12.2009 00:00:00,1,15
+64,"krem o smaku waniliowym","259",12.8.2010 00:00:00,1,36
+69,"Krem o smaku jogurtowym","295",6.4.2015 00:00:00,1,11
+70,"Krem o smaku waniliowym","300",16.1.2023 00:00:00,1,22
+76,"Krem maślany Celebration","324",6.5.2016 00:00:00,0,20
+91,"Różowa polewa do dekoracji","333",16.10.2015 00:00:00,1,15
+132,"Biały ""ROYAL ICING"" FREE RANGE- MAŁY NAMIAR","371B",23.2.2022 00:00:00,1,27
+157,"Polewa czerwona","394",21.7.2014 00:00:00,1,12
+158,"Polewa żółta","395",21.7.2014 00:00:00,1,16
+159,"Polewa pomarańczowa","396",20.6.2016 00:00:00,1,12
+183,"Różowe mallow - Pricess Celebration Cake","425",8.9.2014 00:00:00,0,13
+213,"Białko (namoczone) FREE RANGE-MAŁY NAMIAR","467B",27.5.2019 00:00:00,1,24
+220," Guma cukrowa ( sugar gum) na gumie ksantanowej","478",23.9.2015 00:00:00,1,39
+231,"Farba Brązowy Bursztyn- Brown Amber Paint","494",10.4.2018 00:00:00,1,24
+237,"Krem Celebration o smaku waniliowym","504",19.7.2023 00:00:00,1,28
+238,"Nakropka -bez soli","508",5.1.2023 00:00:00,1,56
+240,"Masa cukrowa jasnoróżowa- Classic","512",15.1.2019 00:00:00,0,17
+241,"Masa cukrowa ciemnoróżowa- Classic","513",2.8.2016 00:00:00,1,11
+244,"Masa cukrowa karmelowa jasna- Classic","516",31.12.2020 00:00:00,0,12
+245,"Krem Celebration jasnoróżowy","517",19.7.2023 00:00:00,1,20
+256,"Polewa mleczna RA Mix","532",11.7.2023 00:00:00,1,19
+288,"Roztwór 60% Spirytusu","577",29.5.2018 00:00:00,1,16
+289,"Roztwór 40% Spirytusu","578",29.5.2018 00:00:00,1,19
+290,"Guma Cukrowa (Palm Free)","583",9.4.2018 00:00:00,1,7
+294,"Polewa niebieska","592",9.5.2018 00:00:00,1,8
+310,"Krem czekoladowy maślany RA - Tesco Yule","B634",4.5.2021 00:00:00,1,13
+311,"Krem czekoladowy - Rolady Royal","636",18.4.2019 00:00:00,1,3
+315,"Krem Kakaowy - Choceur Cake Bar Aldi","651",10.7.2023 00:00:00,1,13
+316,"Krem Celebration kremowy o smaku waniliowym (Brexit)","B504",2.3.2020 00:00:00,0,9
+317,"Krem Celebration różowy (Brexit)","B517",2.3.2020 00:00:00,0,4
+318,"Krem Celebration zielony (Brexit)","B518",2.3.2020 00:00:00,0,4
+319,"Krem Celebration pomarańczowy","653",6.3.2020 00:00:00,1,10
+321,"Krem Celebration Czekoladowy RA (Brexit)","B481",4.3.2022 00:00:00,1,14
+322,"Masa cukrowa zielona (Brexit)","B520",6.3.2020 00:00:00,1,4
+323,"Masa cukrowa czerwona (Brexit)","B515",6.3.2020 00:00:00,1,6
+325,"Krem czek-maślany Cubes & Shapes (Brexit)","B341",6.3.2020 00:00:00,1,7
+328,"Krem czek.-maślany RA (Cubes) Brexit","B615",5.1.2023 00:00:00,1,15
+329,"Masa cukrowa żółta (Brexit)","B519",16.2.2022 00:00:00,1,13
+331,"Krem maślany czekoladowy Belgijski Aldi (Brexit)","B536",28.5.2020 00:00:00,0,8
+332,"Masa cukrowa karmelowa (Brexit)","B516",16.2.2022 00:00:00,0,4
+333,"Krem maślany Celebration (Brexit)","B324",11.2.2022 00:00:00,1,14
+334,"Masa cukrowa jasnoróżowa (Brexit)","B512",11.2.2022 00:00:00,0,16
+335,"Masa cukrowa ciemnoróżowa (Brexit)","B513",11.2.2022 00:00:00,0,17
+339,"Masa cukrowa pomarańczowa - Brexit","B514",26.5.2020 00:00:00,1,11
+342,"Krem waniliowy - roladki malinowe Brexit","B640",20.10.2021 00:00:00,1,14
+343,"Krem czekoladowo-maślany z ciemną czekoladą Brexit UTZ","B638",4.6.2020 00:00:00,1,6
+345,"Masa cukrowa pomarańczowa- Tymczasowa","T514",20.11.2020 00:00:00,0,5
+346,"Masa cukrowa fioletowa - Brexit","B591",29.4.2021 00:00:00,0,3
+348,"Masa cukrowa BIAŁA (Brexit)","B505",25.3.2021 00:00:00,1,24
+349,"Masa cukrowa BIAŁA (Palm Free) (Brexit)","B584",25.3.2021 00:00:00,1,7
+350,"Masa cukrowa BIAŁA bez Sorbinianu Potasu (Brexit)","B630",25.3.2021 00:00:00,0,4
+351,"Marcepan bez sorbinianu potasu (Brexit)","B629",25.3.2021 00:00:00,0,4
+352,"Marcepan standard (Brexit)","B372",25.3.2021 00:00:00,1,19
+353,"Krem Kakaowy - Brexit","B534",8.4.2021 00:00:00,1,2
+354,"Farba złoto-karmelowa połysk","668",27.4.2021 00:00:00,0,5
+355,"Krem maślano-czekoladowy RA Babeczki Tesco","B410",4.5.2021 00:00:00,1,6
+356,"Marcepan Co-op AOI","673",9.7.2021 00:00:00,0,3
+357,"Krem waniliowy - Sainsbury Rolady","677",7.9.2021 00:00:00,1,3
+362,"Krem Celebration o smaku waniliowym brexit","682",20.1.2023 00:00:00,1,7
+363,"Krem o smaku waniliowym - Dagrofa","681",7.3.2022 00:00:00,0,2
+364,"Krem o smaku waniliowy - Aldi","686",10.8.2022 00:00:00,1,2
+367,"Krem Celebration Ciemnoróżowy","700",30.3.2023 00:00:00,1,3
+368,"Krem Celebration o smaku cytrynowym","699",30.3.2023 00:00:00,1,5
+369,"Biszkopt Celebration Cytrynowy","698",30.3.2023 00:00:00,0,1
+375,"Krem Czekoladowy Celebration RA Molly","715",6.6.2023 00:00:00,1,4
+377,"Krem Celebration ciemnozielony","716",7.6.2023 00:00:00,1,3
+378,"Krem mleczny","719",11.7.2023 00:00:00,1,3
+379,"Mix mikrokropli czekoladowych (mleczne+ deserowe)  RA","720",19.10.2023 00:00:00,1,2
+380,"Polewa żółta (więcej barwnika)","397",24.10.2023 00:00:00,1,1
+381,"Krem o smaku waniliowym Hull","723",30.10.2023 00:00:00,0,3
+382,"Mix krokropli (Mleczne, Deserowe, Białe) RA","724",10.11.2023 00:00:00,1,4

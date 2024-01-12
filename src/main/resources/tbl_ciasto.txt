@@ -1,0 +1,103 @@
+"ID_ciasta","Nazwa Ciasta","Nr receptury","Data zatwierdzenia","Aktualna","Wersja"
+62,"Ciasto kruche do tart - SPODY","193",10.6.2008 00:00:00,1,17
+109,"Biszkopt czekoladowy -Babeczki","200/K015",27.4.2020 00:00:00,1,26
+135,"Biszkopt żółty - Fronhoffs","241",12.1.2018 00:00:00,1,11
+184,"Ciasto kruche do tart- SPODY","284",19.5.2015 00:00:00,1,42
+195,"Ciasto kruche maślane do Mini Pies- SPODY","290",9.5.2017 00:00:00,1,35
+196,"Ciasto kruche maślane do Mini Pies  - PRZYKRYWKI","291",9.5.2017 00:00:00,1,49
+203,"Biszkopt żółty","298",9.9.2021 00:00:00,1,16
+204,"Biszkopt Kakaowy","299/K013",9.9.2021 00:00:00,1,18
+210,"Biszkopt czekoladowy","306",4.10.2022 00:00:00,1,24
+224,"Biszkopt żółty","322",9.10.2013 00:00:00,1,22
+286,"Iceland Luxury Fruit Cake Palm Free 2022","489",19.7.2021 00:00:00,0,27
+287,"Iceland Standard Fruit Cake Palm Free 2023","488",17.7.2023 00:00:00,1,32
+289,"Lidl Favorina Fruit Cake (TIR i Mini Gift) 2021","493",7.6.2021 00:00:00,0,23
+309,"Co-op Standard Fruit Cake 2022 tylko do Iced Bar","545",8.4.2021 00:00:00,0,14
+317,"Biszkopt Zółty Mini Rolletjes","239",15.12.2017 00:00:00,1,28
+325,"Ciasto kruche do tart z mniejszą ilością cukru- SPODY","565",12.10.2018 00:00:00,1,16
+329,"Biszkopt czekoladowy RA - Torcik","570",17.1.2018 00:00:00,1,11
+332,"Biszkopt czekoladowy - Cubes (Free Range Egg)","574",5.3.2021 00:00:00,1,12
+339,"Co-op Standard Fruit Cake 2022 tylko AOI","585",8.4.2021 00:00:00,0,12
+345,"Biszkopt różowy Princess z proszkiem niskosodowym","597/K017",22.6.2018 00:00:00,1,8
+346,"Biszkopt Jasny Princess z proszkiem niskosodowym","598",22.6.2018 00:00:00,0,9
+350,"Biszkopt żółty - Royal","606",9.9.2021 00:00:00,0,7
+351,"Biszkopt kakaowy - Royal","607/K012",9.9.2021 00:00:00,1,11
+353,"Biszkopt czekoladowy Rolady na Herculesie","612/K014",14.4.2020 00:00:00,1,8
+354,"Biszkopt czekoladowy UTZ - Tesco Rolady","613",14.4.2020 00:00:00,1,11
+358,"Biszkopt żółty Rolady na Herculesie","619",18.1.2019 00:00:00,1,3
+368,"Asda Core Mini Gift Fruit Cake 2021","627",1.4.2021 00:00:00,0,15
+369,"JS By Sainsbury Fruited Mini Gift Cake 2021","628",25.3.2021 00:00:00,0,9
+370,"Biszkopt czekoladowy RA - Babeczki","633",28.3.2019 00:00:00,1,12
+371,"Biszkopt Czekoladowy Classic - Rolady RA","635/K19",15.9.2021 00:00:00,1,14
+372,"Biszkopt czekoladowy Rolady UTZ - Aldi Caterpillar","637",28.12.2020 00:00:00,1,9
+373,"Biszkopt żółty - mini roladki śliwkowo-malinowe","639",10.5.2019 00:00:00,1,8
+377,"Lidl Luxury Fruit Cake 2021 (AOI, RFR)- CAŁE MIGDAŁY","645a",7.6.2021 00:00:00,0,10
+378,"Biszkopt czekoladowy RA - Xmas Mini Rolls","646",18.6.2019 00:00:00,1,15
+381,"Lidl Lux Mince Pies -Ciasto kruche- PRZYKRYWKI","648",10.6.2021 00:00:00,1,9
+382,"Lidl Lux Mince Pies- Ciasto kruche - SPODY","649",10.6.2021 00:00:00,1,13
+384,"Biszkopt Słodowy (Jaffa)","652",6.11.2019 00:00:00,1,5
+385,"Biszkopt Jasny Celebration - Brexit","B566",5.5.2023 00:00:00,0,12
+386,"Biszkopt Czekoladowy Celebration UTZ (Brexit)","B616",4.3.2022 00:00:00,0,28
+391,"Biszkopt czekoladowy (taśma) RA - Brexit","B614",29.4.2020 00:00:00,1,12
+392,"Biszkopt czekoladowy (taśma) Cubes & Korpusy- Brexit","B392",29.4.2020 00:00:00,1,3
+393,"Biszkopt Jasny Celebration Aldi (Brexit)","B621",29.4.2020 00:00:00,0,10
+394,"Waitrose Core Fruit Cake","658",30.4.2020 00:00:00,1,9
+395,"Biszkopt Jasny z proszkiem niskosodowym (Brexit)","B598",20.1.2023 00:00:00,1,23
+396,"Biszkopt różowy Princess (Brexit)","B597",11.2.2022 00:00:00,1,19
+397,"Lidl Favorina Fruit Cake (mniej wiśni)","660",19.5.2020 00:00:00,0,3
+398,"Biszkopt Czekoladowy UTZ ALDI","B535",27.5.2020 00:00:00,0,3
+399,"Biszkopt żółty Mini Rolls Royal","663",3.8.2020 00:00:00,1,8
+400,"Biszkopt żółty Mini Rolls Cabico","661",29.9.2020 00:00:00,1,5
+401,"Blat biszkoptowy waniliowy Jaja KAT - Fronhoffs","662",24.11.2020 00:00:00,1,14
+403,"Coop Standard Fruit Cake - Iced Bar 2022","545",8.4.2021 00:00:00,0,3
+405,"Biszkopt Kakaowo-Słodowy","533",7.4.2021 00:00:00,1,2
+406,"Tesco Finest Rich Fruit Cake (AOI, RFR) 2022","664",26.4.2021 00:00:00,0,9
+407,"Tesco Finest Rich Fruit Cake (Iced Bar) 2022","665",26.4.2021 00:00:00,0,7
+408,"Tesco Finest Rich Fruit Cake (F.Mini Gift) 2022","666",26.4.2021 00:00:00,0,6
+409,"Tesco Standard Rich Fruit Cake (Mini Gift) 2021","667",27.4.2021 00:00:00,0,5
+410,"Lild Luxury Fruit Cake 2021 (Iced Bar)-KOSTKA MIGDAŁY","645b",7.6.2021 00:00:00,0,3
+411,"Iceland Lux Mince Pies- Ciasto kruche- spody","669",10.6.2021 00:00:00,0,6
+412,"Iceland Lux Mince Pies- Ciasto kruche-PRZYKRYWKI","670",10.6.2021 00:00:00,0,5
+413,"Lidl Favorina Fruit Cake (Iced Bar) 2021","671",15.6.2021 00:00:00,0,5
+414,"Tesco Ciasto kruche maślane do Mini Pies - SPODY","549",22.4.2021 00:00:00,1,14
+416,"Biszkopt czekoladowy Rolady Jumbo","672",7.7.2021 00:00:00,1,4
+417,"Lidl Lux Mince Pies - Ciasto kruche - SPODY","649/K018",30.8.2021 00:00:00,0,3
+418,"Cabico Standard Fruit Cake 2022","674",16.9.2022 00:00:00,1,8
+421,"Biszkopt czekoladowy - Sainsbury Rolady","675",7.9.2021 00:00:00,1,4
+422,"Biszkopt jasny - Sainsbury Rolady","676",7.9.2021 00:00:00,1,2
+428,"Biszkopt czekoladowy (taśma- korpus) Monkey","680",16.2.2022 00:00:00,0,2
+429,"Ciasto kruche do tart- Bookers- SPODY","683",4.4.2022 00:00:00,1,5
+430,"Lidl Favorina Fruit Cake","684",15.4.2022 00:00:00,1,6
+431,"Lidl Luxury Fruit Cake 2022","685",15.4.2022 00:00:00,1,8
+433,"Asda Extra Special Rich Fruit Cake","687",28.3.2023 00:00:00,1,7
+434,"Co-op Standard Fruit Cake 2023 (Iced Bar)","688",8.3.2023 00:00:00,1,4
+435,"Ciasto kruche MIDI Sargents -SPODY","689",23.5.2023 00:00:00,1,9
+436,"Ciasto kruche MIDI Sargents -PRZYKRYWKI","690",23.5.2023 00:00:00,1,11
+437,"Ciasto kruche MIDI Morrisons- SPODY","691",19.5.2023 00:00:00,1,5
+438,"Ciasto kruche MIDI Morrisons- PRZYKRYWKI","692",10.3.2023 00:00:00,1,3
+439,"Tesco Finest Rich Fruit Cake (AOI, RFR) 2023","693",15.3.2023 00:00:00,1,3
+440,"Tesco Finest Rich Fruit Cake (Iced Bar) 2023","694",15.3.2023 00:00:00,1,3
+441,"Tesco Finest Rich Fruit Cake (F. Mini Gift) 2023","695",15.3.2023 00:00:00,1,4
+442,"Ciasto kruche MIDI Asda- SPODY","696",15.3.2023 00:00:00,1,4
+443,"Ciasto kruche MIDI Asda- PRZYKRYWKI","697",15.3.2023 00:00:00,1,4
+444,"Biszkopt Celebration Cytrynowy","698",19.5.2023 00:00:00,1,6
+445,"Aldi Holly Lane Rich Fruit Cake 2023","701",6.4.2023 00:00:00,1,9
+446,"Ciasto kruche MIDI Waitrose- SPODY","702",16.5.2023 00:00:00,1,5
+447,"Ciasto kruche MIDI Waitrose - PRZYKRYWKI","703",16.5.2023 00:00:00,1,6
+448,"Ciasto Kruche MIDI Dunnes - Spody","704",13.4.2023 00:00:00,1,6
+449,"Ciasto Kurche MIDI Dunnes - Pokrywki","705",13.4.2023 00:00:00,1,4
+450,"Ciasto kruche MIDI Brakes - Pokrywka","706",14.4.2023 00:00:00,0,3
+451,"Xmas Iceland Premium Fruit Cake","707",5.5.2023 00:00:00,1,6
+453,"Biszkopt Jasny Celebration","708",19.7.2023 00:00:00,1,7
+454,"Biszkopt Różowy Celebration","709",19.7.2023 00:00:00,1,8
+456,"Ciasto kruche MIDI  ALDI- Spody","710",28.4.2023 00:00:00,1,4
+457,"Ciasto kruche MIDI  ALDI - Przykrywki","711",19.5.2023 00:00:00,1,6
+458,"Ciasto Kruche MIDI Bookers - Spód","712",23.5.2023 00:00:00,1,6
+459,"Ciasto Kruche MIDI Bookers - Pokrywka","713",23.5.2023 00:00:00,1,6
+461,"Biszkopt Czekoladowy Celebrabion RA Molly","714",6.6.2023 00:00:00,1,2
+462,"Biszkopt kakaowy - Choceur Cake Bar Aldi","717",10.7.2023 00:00:00,1,5
+463,"Biszkopt mleczny","718",10.7.2023 00:00:00,1,3
+464,"Krem mleczny","719",11.7.2023 00:00:00,0,1
+465,"Biszkopt Czekoladowy Celebration Hull RA","721",19.10.2023 00:00:00,1,1
+466,"Biszkopt o smaku waniliowym Hull","722",30.10.2023 00:00:00,0,3
+467,"Biszkopt Czekoladowy RFA Cubes Free Range Egg","725",11.12.2023 00:00:00,1,1

@@ -1,0 +1,758 @@
+"ID_wyrobu","Opis_wyrobu","Kod FG","Nazwa_wyrobu","Data_wprowadzenia","Indeks CMJ","Waga jednostki netto","ID_rodzaj_wyrobu","Ilosc_w_pudle"
+1,"Tesco Jumbo Choc/Van Swiss Roll","FG040037","-Jumbo Chocolate & Vanilla Swiss Roll (RSPO-MB)",28.6.2008 00:00:00,"22R00010",390.00,3,12.00
+2,"Tesco Jumbo Straw/Van Swiss Roll","FG040038","-Jumbo Strawberry & Vanilla Swiss Roll (RSPO-MB)",26.6.2009 00:00:00,"22R00011",390.00,3,12.00
+3,"Tesco Standard Double Chocolate Swiss Roll","FG040123","-Chocolate Swiss Roll (Standard Double)",28.6.2008 00:00:00,"22R00012",195.00,3,24.00
+9,"Tesco 6 Value Apple pie","FG180019","-6 Everyday Value Apple Pies (RSPO-MB)",24.8.2008 00:00:00,"22T10111",282.00,1,12.00
+11,"Tesco 6 Chocolate Mini Roll","FG030029","-6 Chocolate Mini Rolls (RSPO-MB)",9.6.2010 00:00:00,"22C08062",177.00,2,12.00
+12,"Tesco 12 Chocolate Mini Rolls","FG030030","-12 Chocolate Mini Rolls (RSPO-MB)",9.6.2010 00:00:00,"22C08071",354.00,2,8.00
+21,"Co-Op Choc Midi SwissRoll","FG040121","-The Co-operative Chocolate Swiss Roll",8.2.2010 00:00:00,"22R01000",280.00,3,12.00
+22,"Co-op Raspberry & Vanila Midi Swiss","FG040120","-The Co-operative Raspberry & Vanilla Swiss Roll",8.2.2010 00:00:00,"22R01010",280.00,3,12.00
+86,"Sainsbury's Basic Raspberry & Vanila 6 Mini rolls *30","FG030107","-6 Mini rolls with raspberry and vanilla flavoured filling",16.2.2010 00:00:00,"22C10010",126.00,6,30.00
+88,"Tesco 6 Lemon Curd Tarts","FG120093","-6 Lemon Curd Tarts (RSPO-MB) - TESCO",30.6.2008 00:00:00,"22T00411",180.00,1,12.00
+119,"Aldi 9 Mini Mince Pies","FG200108","-9 Mini Mince Pies",1.8.2011 00:00:00,"22T10104",180.00,1,24.00
+120,"Morrisons 9 Mini Mince Pies","FG020106","-9 Mini Mince Pies",8.8.2008 00:00:00,"22T10103",180.00,1,12.00
+140,"Mini roladki czekoladowe z kremem o smaku waniliowym w czekoladzie mlecznej.","HO059","-6 Choco Mini-Rolletjes HO059",18.11.2008 00:00:00,"22C20010",156.00,2,12.00
+144,"Simple Value Chocolate Swiss roll","FG040139","-Simple Value Chocolate Swiss Roll",9.2.2009 00:00:00,"22R01015",88.00,3,18.00
+161,"Rolada z marmoladą morelową (wys. 5,5-5,7cm, szerokość 6,7-7cm, dł. 27cm)","FG140786","-Rolada biszkoptowa z nadzieniem morelowym(RSPO-SG) KAT",7.1.2010 00:00:00,"22R00130",307.00,3,10.00
+187,"Ciastka kruche z kawałakami czekolady 140 g","Z00001","-Ciastka kruche z kawałkami czekolady - Pasja Smaku",24.3.2010 00:00:00,"22K03502",140.00,4,8.00
+191,"5 Chocolate Mini Rolls Weight Watchers","WWA04","-5 Chocolate Mini Rolls Weight Watchers- Australia (RSPO-MB)",26.2.2010 00:00:00,"22C09015",115.00,2,6.00
+202,"6 Assorted Jam Tarts","FG120125","-6 Assorted Jam Tarts - Hoppers",17.1.2011 00:00:00,"22T00242",180.00,1,12.00
+203,"6 Lemon Curd Tarts","FG120127","-6 Lemon Curd Tarts- Hoppers",17.1.2011 00:00:00,"22T00243",180.00,1,12.00
+209,"Roladki malinowe z kremem waniliowym","BB003","-Cremerol Framboos BB 003",31.8.2010 00:00:00,"22C20062",150.00,6,12.00
+210,"Roladki malinowe z kremem waniliowym","HO056","-Frambozen cremerolls DK001",31.8.2010 00:00:00,"22C20063",150.00,6,12.00
+228,"6 Assorted Jam Tarts","FG120129","6 Assorted Jam Tarts (RSPO-SG)- Sainsbury's",3.1.2011 00:00:00,"22T00205",159.00,1,12.00
+229,"6 Lemon Curd Tarts","FG120130","-6 Lemon Curd Tarts (RSPO-SG)- Sainsbury's",3.1.2011 00:00:00,"22T00206",159.00,1,12.00
+232,"Ciasteczka z czekoladą i orzechami 140g","Z00002","-Ciasteczka z czekoladą i orzechami- Pasja smaku",19.1.2011 00:00:00,"22K03503",140.00,4,8.00
+233,"Ciasteczka z migdałami i kokosem - 140g","Z00003","-Ciasteczka z migdałami i kokosem- Pasja smaku",19.1.2011 00:00:00,"22K03504",140.00,4,8.00
+234,"Miniroladki z kremem o smaku śmietankowym, oblewane mleczną czekoladą.","VO003","-6 Chocolade Cakerolletjes   VO003",16.2.2011 00:00:00,"22C20019",150.00,2,12.00
+235,"10 Miniroladek czekoladowych z kremem o smaku waniliowym oblane w mlecznej czekoladzie","FG030209","-10 Chocolate mini rolls",21.2.2011 00:00:00,"22C08081",270.00,2,12.00
+236,"Morisons 6 Chocolate logs","FG 030205","-Morrisons 6 Chocolate logs",17.3.2011 00:00:00,"22C08068",168.00,2,12.00
+237,"Mini roladki czekoladowe z kremem o smaku waniliowym w czekoladzie mlecznej.  (HO134)","HO134","-6 Choco Mini-Rolletjes HO134 (RSPO-MB)",18.11.2008 00:00:00,"22C20021",150.00,2,12.00
+238,"Mini choco rolli (DEE 06) 150 g x 12","DEE06","-6 Cake rolletjes chocolade DEE06",5.5.2011 00:00:00,"22C20018",150.00,2,12.00
+240,"Torcik kakaowy Perfetto 18*38g","---","Torcik kakaowy - Perfetto (RSPO-MB;RA-MB)",5.1.2011 00:00:00,"22C04732",38.00,2,40.00
+241,"Rolada YCB Jumbo Strawberry   & Vanilla Swiss Roll","FG040155","-Rolada YCB Jumbo Strawberry & Vanilla Swiss Roll",28.7.2010 00:00:00,"22R00103",390.00,3,12.00
+242,"Rolada YCB Jumbo Chocolate & Vanilla Swiss Roll","FG040148","-Rolada YCB Jumbo Chocolate & Vanilla Swiss Roll",28.7.2010 00:00:00,"22R00102",390.00,3,12.00
+243,"Roladki malinowe z kremem waniliowym","HO065","-Frambozen (Himbeere) mini rolls HO065",1.7.2011 00:00:00,"22C20065",150.00,6,12.00
+245,"Butterfield Cakes 5 Jaffa cake bars","FG220041","-Butterfield Cakes 5 Jaffa Cake Bars",26.7.2011 00:00:00,"22C08090",155.00,2,12.00
+246,"Secretto- Ciasteczka kruche z kawałkami czekolady","S00003","-Secretto- Ciasteczka kruche  z kawałkami czekolady",27.7.2011 00:00:00,"22K03401",125.00,4,21.00
+247,"Secretto- Ciasteczka kruche z kawałkami czekolady i rodzynkami","S00001","-Secretto- Ciasteczka kruche  z kawałkami czekolady i rodzynkami",27.7.2011 00:00:00,"22K03403",125.00,4,21.00
+248,"Secretto- Ciasteczka  kruche z kawałkami czekolady i orzechami laskowymi","S00002","-Secretto- Ciasteczka kruche z kawałkami czekolady i orzechami laskowymi",27.7.2011 00:00:00,"22K03402",125.00,4,21.00
+251,"12 Extra Special Mini Mince Pies","FG020137","-12 Extra Special Mini Mince Pies",18.8.2011 00:00:00,"22T10108",266.40,1,12.00
+252,"Rolada w czekoladzie z kremem śmietankowym i nadzieniem wiśniowym","EL002","-Szwarcwalder kirsch (Chocorol kersen) EL002",7.9.2011 00:00:00,"22C20001",300.00,2,6.00
+253,"Value Mince Pies","FG020169","-Savers Christmas 6 Mince Pies",1.9.2011 00:00:00,"22T10203",234.00,1,24.00
+256,"Roladki z kremem o smaku śmietankowym w czekoladzie z białą dekoracją","VOS01","Choco Cakerolletjes VOS01 (RSPO-MB)",14.10.2011 00:00:00,"22C20002",150.00,2,12.00
+261,"Roladki Truskawkowe z kremem o smaku waniliowym z dekoracją GK006","GK006","-6 Strawberry Mini Rolls with dark deco stripes GK006 (RSPO-MB)",29.12.2011 00:00:00,"22C20066",150.00,2,12.00
+262,"Babeczki z kremem w czekoladzie 4x130g","Z00004","-Babeczki z kremem w czekoladzie",22.12.2011 00:00:00,"22C00100",130.00,2,4.00
+263,"Mini roladki czekoladowe z kremem o smaku śmietankowym w czekoladzie mlecznej.","AL004P","-Choco mini rolletjes Melchocolade & Creme AL004",20.12.2011 00:00:00,"22C20006",150.00,2,22.00
+265,"Rolada z kremem śmietankowym i nadzieniem wiśniowym w czekoladzie mlecznej dekorowana polewą kakaową","EL003","-Chocolade Cakerol met kersen an creme Chocolicious     EL003",2.2.2012 00:00:00,"22C20004",300.00,2,6.00
+268,"Biszkopty o smaku waniliowym 150g","LEW001","-Biszkopty Lewiatan 150g",6.3.2012 00:00:00,"21B05501",150.00,5,16.00
+269,"Biszkopty o smaku waniliowym 500g","LEW002","-Biszkopty Lewiatan 500g",6.3.2012 00:00:00,"21B05502",500.00,5,6.00
+270,"mini roladki w czekoladzie z żółtą dekoracją","FG030205","-Morrison's 6 Easter chocolate mini rolls",8.3.2012 00:00:00,"22C08068",168.00,2,12.00
+271,"CO-OP 6 Assorted Jam Tarts","FG120061","-6 Assorted Jam Tarts- folia",6.3.2012 00:00:00,"22T01000",180.00,1,12.00
+272,"CO-OP 6 Lemon Curd Tarts","FG120062","-6 Lemon Curd Tarts- folia",6.3.2012 00:00:00,"22T01100",180.00,1,12.00
+273,"9 Assorted Jam Tarts","FG120158","-Hoppers 9 Assorted Jam Tarts -TESCO",8.3.2012 00:00:00,"22T00245",270.00,1,12.00
+274,"12 All-Butter Mini Bramley Apple Tarts","FG180044","-12 All-Butter Mini Bramley Apple Tarts",7.3.2012 00:00:00,"22T00501",266.40,1,12.00
+275,"12 Alle-Butter Mini Bramley Apple&Blackcurrant Tarts","FG180045","-12 All-Butter Mini Bramley Apple&Blackcurrant Tarts",7.3.2012 00:00:00,"22T00502",266.40,1,12.00
+276,"9 Assorted Jam Tarts","FG120125","-Hoppers 9 Assorted Jam Tarts -MORRISONS",13.3.2012 00:00:00,"22T00244",270.00,1,16.00
+277,"Biszkopty o smaku waniliowym La Nuvola","NET001","-Biszkopty o smaku waniliowym  La Nuvola",21.3.2012 00:00:00,"22B01450",180.00,5,12.00
+278,"6 mini roladki z kremem śmietankowym w mlecznej czekoladzie","PL004","-6 Mini choco cakerolletjes PL004 (UTZ-MB,RSPO-MB)",21.3.2012 00:00:00,"22C20024",150.00,2,12.00
+279,"Mini roladki truskawkowe z kremem o smaku waniliowym z ciemną dekoracją","HO167","6 Strawberry Mini Rolls with dark deco stripes HO167 (RSPO-SG)",,"22C20038",150.00,2,12.00
+281,"Everyday Value chocolate & vanilla flavoured swiss roll","FG040166","-Everyday Value chocolate & vanilla flavoured swiss roll(RSPO-MB)",12.4.2012 00:00:00,"22R00503",112.00,3,14.00
+282,"5  Chocolate& Orange Cake Bars","FG220051","-5 Chocolate & Orange Cake Bars",27.3.2012 00:00:00,"22C08091",155.00,2,12.00
+283,"6 mini roladki z kremem smietankowym w mlecznej czekoladzie","SP005","-6 Choco Mini Rolletjes SP005",12.4.2012 00:00:00,"22C20025",150.00,2,12.00
+284,"mini roladki z kremem śmietankowy w mlecznej czekoladzie","COM01","-6 Mini Roules Tendre COM01",24.4.2012 00:00:00,"22C20026",150.00,2,12.00
+285,"Roladki malinowe z kremem waniliowym","EM001","-Cakerolletje Framboos EM001",16.8.2012 00:00:00,"22C20070",150.00,2,12.00
+288,"6 Value Apple Pies","FG180054","-6 Simply Value Apple Pies",27.6.2012 00:00:00,"22T10110",282.00,1,12.00
+297,"6 Essential Jam Tarts","FG120156","Essential 6 Jam Tarts (RSPO-SG)- Waitrose",22.6.2012 00:00:00,"22T00250",180.00,1,12.00
+299,"Biszkopty 500g","SPO002","-Biszkopty 500g",25.7.2012 00:00:00,"21B05506",500.00,5,6.00
+300,"Mini roladki z kremem o smaku jogurtowym i nadzieniem wiśniowym z białą dekoracją GK 007","GK007","-6 Yoghurt Mini Rolls with white deco stripes GK007 (RSPO-MB)",2.7.2012 00:00:00,"22C20069",150.00,6,12.00
+301,"Biszkopty 120g","SPO001","-Biszkopty 120g",25.7.2012 00:00:00,"21B05505",120.00,5,20.00
+303,"Everyday Value raspberry flavoured swiss roll","FG040170","-Everyday Value raspberry flavoured swiss roll",30.7.2012 00:00:00,"22R00504",112.00,3,14.00
+304,"Christmas 12 Mini Mince Pies","FG020131","-Christmas 12 Mini Mince Pies",6.8.2012 00:00:00,"22T10120",266.40,1,15.00
+305,"9 Slime Tars","FG120161","-9 Slime Tarts",24.8.2012 00:00:00,"22T00237",270.00,1,12.00
+306,"Koek Choco rolletjes AL005","AL005","-Koek Choco rolletjes AL005",16.8.2012 00:00:00,"22C20005",156.00,2,20.00
+309,"Cocoa & Cream (Swiss Rolls) ROYAL","ROYD04","Cocoa & Cream (Swiss Rolls)(RSPO-SG) ROYAL Dania",30.8.2012 00:00:00,"22R01207",300.00,3,6.00
+310,"Raspberry & Cream (Swiss Rolls) ROYAL","ROYD02","Raspberry & Cream (Swiss Rolls)(RSPO-SG) ROYAL  Dania",30.8.2012 00:00:00,"22R01205",300.00,3,6.00
+311,"Lemon & Cream (Swiss Rolls) ROYAL","ROY003","-Lemon & Cream (Swiss Rolls) ROYAL - Dania (RSPO-MB)",30.8.2012 00:00:00,"22R01203",300.00,3,6.00
+312,"Strawberry & Cream (Swiss Rolls) ROYAL","ROYD01","-Strawberry & Cream (Swiss Rolls)(RSPO-SG) ROYAL  Dania",30.8.2012 00:00:00,"22R01206",300.00,3,6.00
+313,"9 Mini Mince Pies - Town & Country","FG020043","-9 Mini Mince Pies LIDDED - Town & Country",15.10.2012 00:00:00,"22T10117",199.80,1,12.00
+314,"Finest 12 Mini Mince Pies","FG020168","-Finest 12 Mini Mince Pies",18.9.2012 00:00:00,"22T10021",262.00,1,12.00
+316,"9 Mini Mince Pies - Town & Country","FG020042","-9 Mini Mince Pies LATTICE - Town & Country",15.10.2012 00:00:00,"22T10116",199.80,1,12.00
+317,"9 Mini Mince Pies - Town & Country","FG0200154","-9 Mini Mince Pies SNOWFLAKE - Town & Country",15.10.2012 00:00:00,"22T10118",199.80,1,12.00
+323,"6 Minirollchen Schokoladen - Ruhrkuchen BA 001","BA001","-6 Minirollchen Schokoladen - Ruhrkuchen BA001",29.1.2013 00:00:00,"22C20031",150.00,2,12.00
+325,"Cocoa & Cream (Swiss Rolls) ROYAL-Szwecja","ROY004","Cocoa & Cream (Swiss Rolls)(RSPO-SG) ROYAL Szwecja",,"22R01204",300.00,3,6.00
+326,"Raspberry & Cream (Swiss Rolls) ROYAL-Szwecja","ROY002","Raspberry & Cream (Swiss Rolls)(RSPO-SG) ROYAL Szwecja",,"22R01201",300.00,3,6.00
+328,"Strawberry & Cream (Swiss Rolls) ROYAL","ROY001","Strawberry & Cream (Swiss Rolls)(RSPO-SG) ROYAL Szwecja",,"22R01202",300.00,3,6.00
+329,"6 Minirollchen Schokoladen - Ruhrkuchen BA 002","BA002","-6 Minirollchen Schokoladen - Ruhrkuchen BA002",29.1.2013 00:00:00,"22C20032",150.00,2,12.00
+330,"9 Assorted Jam Tarts","FG120169","-Hoppers 9 Assorted Jam Tarts - Pounland",23.1.2013 00:00:00,"22T00246",270.00,1,12.00
+334,"Ciastka kruche maślane","C00010","-Ciastka kruche maślane",31.1.2013 00:00:00,"21K00301",140.00,4,12.00
+337,"Cabico- Strawberry flavoured Swiss Roll with Cream Filling","CAB027","Strawberry flavoured Swiss Roll with Cream Filling (RSPO-SG)-Cabico",26.2.2013 00:00:00,"22R01212",300.00,3,6.00
+338,"Cabico- Lemon flavoured Swiss Roll with Cream Filling","CAB028","Lemon flavoured Swiss Roll with Cream Filling (RSPO-SG)-Cabico",26.2.2013 00:00:00,"22R01213",300.00,3,6.00
+339,"Cabico- Raspberry flavoured Swiss Roll with Cream Filling","CAB029","Raspberry flavoured Swiss Roll with Cream Filling (RSPO-SG)-Cabico",26.2.2013 00:00:00,"22R01211",300.00,3,6.00
+340,"Cabico- Chocolate flavoured Swiss Roll with Vanilla Cream Filling","CAB026","Chocolate flavoured Swiss Roll with Vanilla Cream Filling (RSPO-SG) -Cabico",26.2.2013 00:00:00,"22R01214",300.00,3,6.00
+345,"Torcik czekoladowy Choco Bars","SMP05","-The Simpsons 4 Choco Bars",18.3.2013 00:00:00,"22C04722",120.00,2,8.00
+346,"Red Lion Delicious Choc Chip Cookies","RL0002","-Red Lion Delicious Choc Chip Cookies",18.3.2013 00:00:00,"22K02903",140.00,4,16.00
+347,"Red Lion Butter Biscuits","RL0001","-Red Lion Butter Biscuits",21.5.2013 00:00:00,"22K02902",140.00,4,16.00
+348,"5 Jaffa Mini Rolls Weight Watchers","WWA26","-5 Jaffa Mini Rolls Weight Watchers",27.3.2013 00:00:00,"22C04723",105.00,2,6.00
+350,"9 Assorted Jam Tarts Hoppers","FG120173","-Hoppers 9 Assorted Jam Tarts - ASDA",21.3.2013 00:00:00,"22T00247",270.00,1,12.00
+353," ROYAL Choc Chip Cookies","ROY","-ROYAL Choc Chip Cookies",3.4.2013 00:00:00,"22K02901",300.00,4,16.00
+354,"Babeczki o smaku śmietankowym w czekoladzie","Z00005","-Babeczki o smaku śmietankowym w czekoladzie",12.11.2013 00:00:00,"22C00101",130.00,2,4.00
+355,"10 Miniroladek czekoladowych z kremem o smaku waniliowym oblane w mlecznej czekoladzie","FG030221","-Hoppers 10 Chocolate Mini Rolls (RSPO-MB)",27.6.2013 00:00:00,"22C08082",270.00,2,12.00
+357,"6 Mini roladek w czekoladzie z kremem o smaku waniliowym","CM01","-6 Chocolate Mini Rolls (RSPO-MB)",9.7.2013 00:00:00,"22C08053",150.00,2,6.00
+358,"Everyday value 6 Mince Pies","FG020176","-Everyday Value 6 Mince Pies (2013)",21.8.2013 00:00:00,"22T10128",252.00,1,24.00
+360,"Haribo Starmix Treat Cake A5","FG080050","-Haribo Starmix Treat Cake A5",13.9.2013 00:00:00,"22S00001",442.00,7,4.00
+361,"Haribo Starmix Treat Cake A4","FG080046","-Haribo Starmix Celebration Cake A4",31.7.2013 00:00:00,"22S00002",860.00,7,4.00
+364,"Mini choco rolls 150g x12","EM003","-6 Mini choco rolls EM003 (RSPO-MB)",3.9.2013 00:00:00,"22C20027",150.00,2,12.00
+365,"12 Mini Slime Tarts","FG120182","-12 Scary Slime Tarts",11.9.2013 00:00:00,"22T10126",198.20,1,10.00
+366,"12 Mini Lemon Curd Tarts","FG120178","-12 Mini Lemon Curd Tarts",19.8.2013 00:00:00,"22T10123",198.20,1,10.00
+367,"12 Mini Strawberry Jam Tarts","FG120179","-12 Mini Strawberry Jam Tarts",19.8.2013 00:00:00,"22T10122",198.20,1,10.00
+368,"Babeczki z kremem czekoladowym","FG220055","-8 Chocolate Dream Bites",26.8.2013 00:00:00,"22C08084",130.00,2,12.00
+369,"Babeczki z kremem o smaku truskawkowym","FG220054","-8 Strawberry Dream Bites",26.8.2013 00:00:00,"22C08083",130.00,2,12.00
+370,"9 Lemon Curd Tarts","FG120172","-9 Lemon Curd Tarts (RSPO-MB)",23.8.2013 00:00:00,"22T10135",270.00,1,12.00
+371,"9 Strawberry Jam Tarts","FG120171","-9 Strawberry Jam Tarts (RSPO-MB)",23.8.2013 00:00:00,"22T10133",270.00,1,12.00
+372,"9 Assorted Jam Tarts","FG120170","-9 Assorted Jam Tarts (RSPO-MB)",23.8.2013 00:00:00,"22T10134",270.00,1,12.00
+373,"Hoppers 9 Apple Pies","FG180058","-Hoppers 9 Apple Pies",26.8.2013 00:00:00,"22T10132",351.00,1,12.00
+374,"12 Mini Assorted Jam Tarts","FG120177","-12 Mini Assorted Jam Tarts",26.8.2013 00:00:00,"22T10121",198.20,1,10.00
+375,"Raspberry Swiss Rolls","FG040176","-Raspberry Swiss Rolls - (RSPO-MB) - TESCO",27.8.2013 00:00:00,"22R00013",195.00,3,12.00
+376,"12 Extra Special Mini Mince Pies","FG020137","-12 Extra Special Mini Mince Pies",26.8.2013 00:00:00,"22T10108",266.40,1,12.00
+377,"9 Deluxe Mini Mince Pies","FG020179","-9 Luxury Mini Mince Pies(UK)",4.9.2013 00:00:00,"22T10127",198.00,1,24.00
+378,"18 Mince Pies","FG020180","-18 Mince Pies",2.10.2013 00:00:00,"22T10130",664.00,1,9.00
+379,"Savers 9  Mince","FG020173","-Savers 9 Mince",9.9.2013 00:00:00,"22T10129",351.00,1,12.00
+380,"9 Hoppers Mince Pies","FG020184","-9 Hoppers Mince Pies",6.9.2013 00:00:00,"22T10136",351.00,1,12.00
+381,"Hoppers 9 Mini Ritch Fruit Mince Pies","FG020162","-Hoppers 9 Mini Ritch Fruit Mince Pies",11.9.2013 00:00:00,"22T10107",198.00,1,10.00
+382,"10 Chocolate Mini Rolls  Rowan Hill","FG030252","-10 Chocolate Mini Rolls Rowan Hill (RSPO-MB; UTZ-MB)",23.9.2013 00:00:00,"22C08072",260.00,2,12.00
+383,"Raspberry&Cream swiss Roll - 400g","ROY006","-Raspberry&Cream(Swiss Roll) ROYAL - 400g",19.9.2013 00:00:00,"22R01231",400.00,3,5.00
+384,"Cocoa&Cream Swiss Roll - 400g","ROY007","-Cocoa&Cream(Swiss Roll) ROYAL - 400g",19.9.2013 00:00:00,"22R01232",400.00,3,5.00
+385,"Halloween Chocolate Traybake - TESCO","FG080048","-Halloween Chocolate Traybake - TESCO (A4)",23.9.2013 00:00:00,"22S00004",770.00,1,4.00
+386,"Flying Saucers Vanilla","FG210025","-Flying Saucers Vanilla",9.10.2013 00:00:00,"22B05001",120.00,5,20.00
+388,"Flying Saucers Banana","FG210027","-Flying Saucers Banana",8.10.2013 00:00:00,"22B05003",120.00,5,20.00
+389,"6 Assorted Jam Tarts- Happy Shopper","FG120186","-6 Assorted Jam Tarts- Happy Shopper",7.11.2013 00:00:00,"22T10137",180.00,1,6.00
+390,"10 Chocolate Mini Rolls- Happy Shoper","FG030224","-10 Chocolate Mini Rolls- Happy Shopper (RSPO-MB)",6.11.2013 00:00:00,"22C08074",270.00,2,6.00
+391,"Strawberry Swiss Roll- Happy Shopper","FG040177","-Strawberry &Vanilla Swiss Roll- Happy Shopper",7.11.2013 00:00:00,"22R01016",285.00,3,6.00
+392,"Chocolate Swiss Roll- Happy Shopper","FG040178","-Chocolate & Vanilla Swiss Roll- Happy Shopper",6.11.2013 00:00:00,"22R01017",286.00,3,6.00
+393,"9 Mini Lemon Meringue Tarts","FG120180","-9 Mini Lemon Meringue Tarts",22.10.2013 00:00:00,"22T10124",164.00,1,12.00
+394,"9 Mini Millionaires Tarts","FG120181","-9 Mini Millionaires Tarts",22.10.2013 00:00:00,"22T10125",175.50,1,12.00
+395,"Christmas Tray Bake A4","FG080049","-Christmas Tray Bake A4",26.11.2013 00:00:00,"22S00003",770.00,7,4.00
+396,"9 Deluxe Mini Mince Pies","FG020186","-9 Luxury Mini Mince Pies(Irlandia)",31.10.2013 00:00:00,"22T10127",198.00,1,24.00
+397,"10 Mini Yule Logs","FG030225","-10 Mini Yule Logs",13.11.2013 00:00:00,"22C08076",230.00,2,12.00
+398,"Chocolate Yule Log","FG040179","-Chocolate Yule Log",13.11.2013 00:00:00,"22C08073",348.00,2,12.00
+399,"One Stop 6 Jam Tarts","FG120135","-One Stop 6 Jam Tarts",28.11.2013 00:00:00,"22T00207",180.00,1,12.00
+400,"Haribo Starmix Celebration Cakes A-4","FG080040","-Haribo Starmix Celebration Cakes A-4",6.12.2013 00:00:00,"22S00013",860.00,7,4.00
+401,"Haribo Starmix Celebration Cakes A-4","FG080040","-Haribo Starmix Celebration Cakes A-4",6.12.2013 00:00:00,"22S00012",860.00,7,4.00
+402,"Jumbo Chocolate & Vanilla Swiss Roll","FG040148","-Jumbo Chocolate & Vanilla Swiss Roll (RSPO-MB)",12.12.2013 00:00:00,"22R00102",390.00,3,12.00
+403,"Jumbo Strawberry & Vanilla Swiss Roll","FG040155","-Jumbo Strawberry & Vanilla Swiss Roll (RSPO-MB)",12.12.2013 00:00:00,"22R00103",390.00,3,12.00
+404,"Haribo Traybake A-4 - TESCO","FG080043","-Haribo Traybake A-4 - TESCO (2szt.)",11.12.2013 00:00:00,"22S00014",860.00,7,2.00
+406,"Mini Jogurt Cherry Deco Rolls - HO169","HO169","-Mini Jogurt Cherry Deco Rolls - HO169 (RSPO-MB)",27.12.2013 00:00:00,"22C20068",150.00,2,12.00
+407,"Bugz Cake - TESCO","FG090468","-Bugz Cake - TESCO",20.1.2014 00:00:00,"22M00001",835.00,8,1.00
+408,"The World's Best Cake (Medal Cake)","FG090478","-The World's Best Cake (Medal Cake) - ASDA",20.1.2014 00:00:00,"22M00012",791.00,8,2.00
+409,"The World's Best Cake (Medal Cake)","FG090476","-The World's Best Cake (Medal Cake) - Morrison's",21.1.2014 00:00:00,"22M00011",791.00,8,2.00
+410,"Flying Saucers Vanilla -TESCO","FG210028","-Flying Saucers Vanilla -TESCO",23.1.2014 00:00:00,"22B05011",120.00,5,20.00
+411,"Flying Saucers Chocolate -TESCO","FG210029","-Flying Saucers Chocolate -TESCO",23.1.2014 00:00:00,"22B05012",120.00,5,20.00
+413,"Hoppers 9 Apple Pies - TESCO","FG180059","-Hoppers 9 Apple Pies - TESCO",23.1.2014 00:00:00,"22T10138",351.00,1,12.00
+414,"Roladka malinowa z kremem waniliowym, dekorowana różową polewą.","SP006","-Raspberry mini rolls with pink deco stripes SP006 (RSPO-MB)",13.2.2014 00:00:00,"22C20058",150.00,6,12.00
+415,"Roladki malinowe z kremem waniliowym, dekorowana różową polewą.","BB003","-Raspberry mini rolls with pink deco stripes BB 003",13.2.2014 00:00:00,"22C20062",150.00,6,12.00
+416,"Roladka malinowa z kremem waniliowym, dekorowana różową polewą","JL002","-Raspberry mini rolls with pink deco stripes JL002 (RSPO-MB)",13.2.2014 00:00:00,"22C20054",150.00,6,12.00
+417,"Roladka malinowa z kremem waniliowym,  dekorowana różową polewą.","FAN02","-6 Raspberry mini rolls with pink deco stripes FAN02 (RSPO-SG)",13.2.2014 00:00:00,"22C20052",150.00,6,12.00
+418,"Roladka malinowa z kremem waniliowym,  dekorowana różową polewą.","PL003","-6 Raspberry mini rolls with pink deco stripes PL003 (RSPO-MB)",13.2.2014 00:00:00,"22C20056",150.00,6,12.00
+419,"Roladki malinowe z kremem waniliowym,  dekorowana różową polewą.","EM001","-6 Raspberry mini rolls with pink deco stripes EM001 (RSPO-MB)",13.2.2014 00:00:00,"22C20070",150.00,2,12.00
+420,"Roladki malinowe z kremem waniliowym,  dekorowane różową polewą.","HO056","-6 Raspberry mini rolls with pink deco stripes HO056 (RSPO-MB)",13.2.2014 00:00:00,"22C20063",150.00,6,12.00
+421,"6 Mini Blackcurrant Sundaes","FG120196","-6 Mini Blackcurrant Sundaes",28.4.2014 00:00:00,"22T10013",118.50,1,12.00
+422,"6 Mini Apple&Crumble Tarts","FG120195","-6 Mini Apple&Crumble Tarts",24.4.2014 00:00:00,"22T10012",105.60,1,12.00
+423,"6 Mini Lemon Meringue Tarts","FG120194","-6 Mini Lemon Meringue Tarts",24.4.2014 00:00:00,"22T10011",105.00,1,12.00
+424,"Farmyard Friends","FG090492","-Farmyard Friends",3.3.2014 00:00:00,"22M00021",975.00,8,1.00
+425,"Roladka malinowa z kremem waniliowym, dekorowana różową polewą","CO002","-Raspberry mini rolls with pink deco stripes CO002 (RSPO-MB)",24.2.2014 00:00:00,"22C20071",150.00,6,12.00
+426,"Happy Easter Chocolate Traybake - TESCO","FG080051","-Happy Easter Chocolate Traybake - TESCO (A4)",24.2.2014 00:00:00,"22S00006",770.00,1,4.00
+430,"Morrisons 6 Lemon Curd Tarts","FG120191","6 Lemon Curd Tarts (RSPO-SG) -Morrisons",18.4.2014 00:00:00,"22T00221",184.20,1,12.00
+431," Morrisons 6 Assorted Jam Tarts","FG120193","6 Assorted Jam Tarts Selection (RSPO-SG) - Morrisons",18.4.2014 00:00:00,"22T00222",184.20,1,12.00
+432," Morrisons 6 Strawberry Jam Tarts","FG120192","6 Strawberry Jam Tarts (RSPO-SG) - Morrisons",17.4.2014 00:00:00,"22T00220",184.20,1,12.00
+433,"9 Assorted Jam Tarts Bestin","FG120199","-9 Yummi Assorted Jam Tarts Best-in",14.5.2014 00:00:00,"22T00249",270.00,1,12.00
+434,"Happy Birthday Cubes Chocolate Cake","FG090491","-Happy Birthday Cubes Chocolate Cake (RSPO-MB)-ASDA",8.4.2014 00:00:00,"22C00102",753.00,2,2.00
+436,"Bestin Jumbo Strawberry & Vanilla Swiss Roll","FG040188","-Jumbo Strawberry & Vanilla Swiss Roll - Best-in",15.5.2014 00:00:00,"22R00107",390.00,3,12.00
+437,"Bestin Jumbo Chocolate & Vanilla Swiss Roll","FG040189","-Jumbo Chocolate & Vanilla Swiss Roll - Best-in",11.3.2014 00:00:00,"22R00106",390.00,3,12.00
+445,"The Mars Ganache Cake","FG090493","-Galaxy Chocolate Cake",16.4.2014 00:00:00,"22M00031",942.00,8,2.00
+449,"8 Chocolate Nom Noms","FG220076","-8 Chocolate Nom Noms (RSPO-SG)- Iceland",20.9.2020 00:00:00,"22C08039",135.20,2,12.00
+450,"The Ball Pool M&M Cake","FG090487","-Chocolate Celebration Cake M&M's",16.4.2014 00:00:00,"22M00032",890.00,8,2.00
+464,"Flying Saucers Chocolate -ASDA","FG210030","-Flying Saucers Chocolate -ASDA",8.5.2014 00:00:00,"22B05013",120.00,5,12.00
+466,"Roladka malinowa z kremem waniliowym, dekorowana różową polewą","HOG07","-Raspberry mini rolls with pink deco stripes HOG07 (RSPO-MB)",27.5.2014 00:00:00,"22C20072",150.00,6,12.00
+474,"Signature 9 Assorted Mini Mince Pies - Morrisons","FG020204","-Signature 9 Assorted Mini Mince Pies - Morrisons (2014)",5.9.2014 00:00:00,"22T10029",147.00,1,12.00
+477,"Standard Decorate your Own - Morrisons","FG140662","-Standard Decorate your Own - Morrisons (2014)",4.6.2014 00:00:00,"22M00040",800.00,8,12.00
+647,,"AL-Hof","-MIX Aldente  12 American Mini Tarts (6+6) AT/CH/SLO/IT",31.5.2016 00:00:00,"22T00519",260.00,1,12.00
+648,"Back to School Cubes -TESCO Europa","TCE009","-Say it with Cake- Back to School Chocolate Cubes  -TESCO Europa (RSPO-MB)",26.7.2016 00:00:00,"22C00121, 22C00122, 22C00123, 22C00124",312.00,2,4.00
+652,"9 Celebration Cubes -  Iceland","FG090540","-Celebration 9 Chocolate Cake Squares (Cubes) -  Iceland (RSPO-MB)",22.9.2016 00:00:00,"22C00128",400.00,2,4.00
+653,"Luxury 2 Chocolate Cake Squares (Cubes)","FG090541","-Luxury 2 Chocolate Cake Squares (Cubes) - Iceland (RSPO-MB)",21.9.2016 00:00:00,"22C00127",96.00,2,16.00
+654,"3/4 Chocolate & Vanilla Swiss Roll - Iceland (RSPO-MB)","FG040198","-3/4 Chocolate & Vanilla Swiss Roll - Iceland (RSPO-MB)",22.9.2016 00:00:00,"22R00014",320.00,3,12.00
+655,"3/4 Raspberry & Vanilla swiss Roll - Iceland (RSPO-MB)","FG040197","-3/4 Raspberry & Vanilla swiss Roll - Iceland (RSPO-MB)",22.9.2016 00:00:00,"22R00015",320.00,3,12.00
+656,"8  Chocolate Swirl Bites (2016) -TESCO","FG090518","-8 Chocolate Swirl Bites (2016) - TESCO (RSPO-MB)",4.7.2016 00:00:00,"22C00110",151.20,2,12.00
+657,"Say it with Cake- Stan the Chocolate Man -TESCO Europa","TCE001","-Say it with Cake- Stan the Chocolate Man -TESCO Europa (RSPO-MB)",26.7.2016 00:00:00,"22C00113, 22C00114, 22C00115, 22C00116",1425.00,2,2.00
+658,"Chocolate Celebration Cake - TESCO Europa","TCE002","-Say it with Cake- Chocolate Indulgence Cake - TESCO Europa",21.7.2016 00:00:00,"22M00108, 22M00077, 22M00080, 22M00083",1025.00,8,2.00
+659,"6 Assorted jam tarts  - TESCO Europa","TCE005","-6 Assorted jam tarts  - TESCO Europa (RSPO-MB)",21.7.2016 00:00:00,"22T00412, 22T00413, 22T00414, 22T00415",180.00,1,12.00
+660,"Chocolate Cheeky Monkey Cake - TESCO","FG090538","Chocolate Cheeky Monkey Cake - TESCO (RSPO-SG; UTZ-MB)",9.9.2016 00:00:00,"22C00126",1060.00,2,2.00
+661,"Favorina Top Iced Round Cake(2016) 900g -LIDL","FG140729","-Standard Favorina Top Iced Round Cake(2016) 907g -LIDL( Cypr) (RSPO-MB)",25.7.2016 00:00:00,"22M00097",907.00,8,12.00
+662,"Finest 12 Mini Mince Pies (2016) -TESCO","FG020209","-Finest 12 Mini Mince Pies (2016) -TESCO -mrożone",22.8.2016 00:00:00,"22T10021",243.60,1,12.00
+663,"Princess Celebration Cake -Tesco Europa","TCE006","-Princess Celebration Cake -TESCO Europa (2015)",26.7.2016 00:00:00,"22M00086, 22M00088, 22M00090, 22M00092",1222.00,8,2.00
+664,"Rose Bouquet Celebration Cake -Tesco Europa","TCE007","-Rose Bouquet Celebration Cake -TESCO  Europa(2015)",26.7.2016 00:00:00,"22M00087, 22M00089, 22M00091, 22M00093",1010.00,8,2.00
+666,"Biszkopty Victoria Sponge","VS0001","-Biszkopty Victoria Sponge - BBF",15.9.2016 00:00:00,"22B05014",500.00,5,6.00
+674,"Princess Celebration Cake(2016) TESCO","FG090521","-Princess Celebration Cake-TESCO",23.8.2018 00:00:00,"22M00111",1206.00,8,2.00
+675,"Rose Bouquet Celebration Cake (2016) TESCO","FG090520","-Rose Bouquet Celebration Cake(RSPO-MB;UTZ-MB) - TESCO",17.10.2016 00:00:00,"22M00106",1072.00,8,2.00
+676,"Happy Birthday Cubes Chocolate Cake (2016) -TESCO  (RSPO-MB)","FG090513","-Happy Birthday Cubes Chocolate Cake -TESCO  (RSPO-MB)",1.10.2016 00:00:00,"22C00103",735.00,2,2.00
+677,"Say it with Cake  Party Cubes - Morrisons (RSPO-MB)","FG090537","-Say it with Cake 15 Party Cubes (RSPO-MB) - Morrisons",29.8.2016 00:00:00,"22C00125",754.00,2,2.00
+681,"Rose Bouquet Celebration Cake (2016) TESCO Europa","TCE007","-Rose Bouquet Celebration Cake -TESCO Europa",12.10.2016 00:00:00,"22M00107, 22M00108, 22M00109, 22M00110",1072.00,8,2.00
+682,"Princess Celebration Cake(2016) TESCO Europa","TCE006","-Princess Celebration Cake- TESCO Europa",12.10.2016 00:00:00,"22M00112, 22M00113, 22M00114, 22M00115",1206.00,8,2.00
+683,"2 Valentine Cubes - TESCO (RSPO-MB)","FG090542","-2 Heart Chocolate Cubes - TESCO (RSPO-MB)",9.1.2017 00:00:00,"22C00129",105.00,8,16.00
+684,"Finest AOI Tree (2016) 907g -TESCO Europa","TCE010","-Finest AOI Tree (2016) 907g -TESCO Europa",7.11.2016 00:00:00,"22M00116, 22M00117, 22M00118, 22M00119",907.00,8,4.00
+685,"4 kostki biszkoptowe z kermem oblane czekoadą z","FG090543","-4 Chocolate Cubes (Mother's Day) -TESCO (RSPO-MB)",9.2.2017 00:00:00,"22C00135",196.00,8,12.00
+687,"Chocolate Cheeky Monkey Cake - TESCO","TCE012","-Chocolate Cheeky Monkey Cake - TESCO Europa (RSPO-MB)",10.1.2017 00:00:00,"22C00130, 22C00131, 22C00132, 22C00133",1000.00,2,2.00
+688,"6 Easter Cubes -TESCO (RSPO-MB)","FG090544","-6 Easter  Chocolate Cake Cubes -TESCO (RSPO-MB)",14.3.2017 00:00:00,"22C00134",317.00,8,8.00
+696,"6 Strawberry Jam Tarts -Tesco Europa","TCE011","-6 Strawberry Jam Tarts -Tesco Europa (RSPO-MB)",20.1.2017 00:00:00,"22T00416, 22T00417, 22T00418, 22T00419",180.00,1,12.00
+697,"Simnel Cake-Iceland (RSPO-MB)","FG140734","-Simnel Cake-Iceland (RSPO-MB)",13.2.2017 00:00:00,"22N00005",400.00,8,12.00
+699,"SIWC 8 Caramel Cake Fingers - (RSPO-MB)","FG090546","-SIWC 8 Caramel Cake Fingers - (RSPO-MB)",26.5.2017 00:00:00,"22C08088",140.00,2,16.00
+700,"2 Caramel Cake Fingers -TESCO (RSPO-MB);","FG090545","-2 Caramel Cake Fingers -TESCO (RSPO-MB)",29.5.2017 00:00:00,"22C08087",28.00,2,20.00
+701,"Triple Chocolate Swiss Roll ( RSPO-MB)","FG040201","-Triple Chocolate Swiss Roll - ALDI ( RSPO-SG;UTZ-MB)",1.6.2017 00:00:00,"22C08078",270.00,2,12.00
+704,"MIX Titan & Dreemy Cake Bars ALDI (RSPO-MB)","FG220086","-MIX Titan & Dreemy Cake Bars ALDI (RSPO-MB)",2.6.2017 00:00:00,"22C08089",137.75,2,28.00
+705,"Roladka truskawkowa z kremem waniliowym, dekorowana polewą kakaową","VOS03","6 Strawberry mini rolls chocolate decostripes VOS03 (RSPO-MB).",22.3.2017 00:00:00,"22C20029",150.00,2,12.00
+706,"6 Assorted Jam Tarts -Cabico ( RSPO-SG)","CAB030","ROYAL 6 Assorted Jam Tarts -Cabico (RSPO-SG)",26.2.2018 00:00:00,"22T00421",180.00,1,12.00
+708,"Chocolate Celebration Cake -Iceland","FG090549","-Chocolate Celebration Cake (RSPO-MB) -Iceland",26.6.2017 00:00:00,"22M00121",1015.00,8,4.00
+709,"Biszkopy waniliowe - 120g - Marbo","MAR002","-Biszkopy waniliowe - 120g - Marbo",6.4.2017 00:00:00,"21B00503",120.00,5,20.00
+710,"Catepillar Cake (RSPO-MB) - Iceland","FG090548","-Celebration Catepillar Cake (L8)(RSPO-MB) - Iceland",26.6.2017 00:00:00,"22C08079",540.00,2,6.00
+716,"Standard Iced Bar (2017) -400g (RSPO-MB)-Iceland","FG140745","-Standard Iced Bar (2017) -400g (RSPO-MB)-Iceland",1.9.2017 00:00:00,"22N00003",400.00,8,12.00
+717,"Luxury Iced Bar Lines(2017) 400g  (RSPO-MB)-Iceland","FG140748","-Luxury Iced Bar Lines(2017) 400g  (RSPO-MB)-Iceland",4.9.2017 00:00:00,"22N00002",400.00,8,12.00
+718,"Standard TIR Christmas Tree Cake(2017) 900g (RSPO-MB)- Iceland","FG140746","-Standard TIR Christmas Tree Cake(-) 900g (RSPO-MB)- Iceland",31.8.2017 00:00:00,"22M00095",900.00,8,12.00
+719,"Luxury AOI Christmas Tree Cake (2017) 1000g (RSPO-MB)- Iceland","FG140747","-Luxury AOI Christmas Tree Cake (2017) 1000g (RSPO-MB)- Iceland",31.8.2017 00:00:00,"22M00128",1000.00,8,4.00
+720,"Standard Mini Gift Cake (2017)150g (RSPO-MB)- Iceland","FG090552","-Standard Mini Gift Cake (2017)150g (RSPO-MB)- Iceland",30.8.2017 00:00:00,"22M00094",150.00,8,24.00
+721,"Favorina Iced Bar (2017) 400g (RSPO-MB)-Lidl","FG140740","-Favorina Iced Bar (2017) 400g (RSPO-MB)-Lidl",10.7.2017 00:00:00,"22N00006",400.00,8,12.00
+722,,"FG140717","-Luxury Iced Bar Holly Leaves (2017) 400g (RSPO-MB) -Lidl",12.7.2017 00:00:00,"22N00004",400.00,8,12.00
+723,"Favorina TIR Holly Leaves Cake (2017) 907g (RSPO-MB)- Lidl","FG140718","-Favorina TIR Holly Leaves Cake (2017) 907g (RSPO-MB)- Lidl",13.7.2017 00:00:00,"22M00096",907.00,8,12.00
+724,,"FG140739, FG140743, FG140744","-Favorina HD Dundee Cake 800g (2017) 800g - Lidl UK",18.8.2017 00:00:00,"22M00129, 22M00130, 22M00131",800.00,8,8.00
+725,"Luxury Rich Fruit Round Cake (2017) 907g (RSPO-MB)- Lidl","FG140738","-Luxury Rich Fruit Round Cake (2017) 907g (RSPO-MB)- Lidl",14.7.2017 00:00:00,"22M00127",907.00,8,8.00
+726,"Luxury AOI Stencil Cake (2017) 1000g (RSPO-MB)- Lidl","FG140716","-Luxury AOI Stencil Cake MIX (2017) 1000g (RSPO-MB)- Lidl",7.7.2017 00:00:00,"22M00124",1000.00,8,6.00
+727,"Lidl Luxury AOI 2 -Tier Cake 1.5kg (wow)Lidl L","FG140719","-Luxury AOI 2 -Tier Cake WOW (2017) 1500g (RSPO-MB)-Lidl",25.10.2017 00:00:00,"22M00134",1500.00,8,4.00
+728,"Standard Mini Gift Cake (2017) 150g(RSPO-MB)-TESCO","FG140693","-Standard Mini Gift Cake (2017) 150g(RSPO-MB)-TESCO",5.7.2017 00:00:00,"22M00067",150.00,8,12.00
+729,"Finest Mini Gift Cake (2017) 150g(RSPO-MB)- TESCO","FG140714","-Finest Mini Gift Cake (2017) 150g(RSPO-MB)- TESCO",7.7.2017 00:00:00,"22M00101",150.00,8,12.00
+730,"Finest  AOI Triple Holly Cake (2017)  907g (RSPO-MB) -TESCO","FG140677","-Finest  AOI Triple Holly Cake (2017)  907g (RSPO-MB) -TESCO",24.8.2017 00:00:00,"22M00126",907.00,8,4.00
+731,"Finest Jawelled Cake (2017) 750g - TESCO","FG140741","-Finest Jewelled Cake (2017) 750g - TESCO",4.9.2017 00:00:00,"22M00132",750.00,8,4.00
+732,,"FG140713","-Finest Rich Fruit Round Cake (2017) 800g- TESCO",17.7.2017 00:00:00,"22M00099",800.00,8,12.00
+733,"Standard Royal Iced Cake (2017)  1000g- TESCO","FG140736","-Standard Royal Iced Cake (2017)  1000g- TESCO",19.7.2017 00:00:00,"22M00125",1000.00,8,4.00
+734,"Finest Special Delivery Cake (Wow) (2017) 1500g (RSPO-MB)- TESCO","FG140742","-Finest Special Delivery Cake (Wow) (2017) 1500g (RSPO-MB)- TESCO",26.10.2017 00:00:00,"22M00136",1500.00,8,1.00
+735,"Standard 8 Chocolate Swirly Bites (2017) (RSPO-MB)- TESCO","FG090518","-Standard 8 Chocolate Swirly Bites (2017) (RSPO-MB)- TESCO",15.9.2017 00:00:00,"22C00110",151.20,8,12.00
+736,"Finest 9 Mini Festive selection Tarts (2017) - TESCO","FG120225","-Finest 9 Mini Festive selection Tarts (2017) - TESCO",15.11.2017 00:00:00,"22T10038",161.00,1,12.00
+737,"Finest 12 Mini Mince Pies (2017) - TESCO","FG020209","-Finest 12 Mini Mince Pies (2017) - TESCO",5.7.2017 00:00:00,"22T10021",243.60,1,12.00
+738,"12 ES Mini Mince Pies (2017) - ASDA","FG020244","-12 ES Mini Mince Pies (2017) - ASDA",14.9.2017 00:00:00,"22T10024",243.60,1,12.00
+739,"Snow Scene Madeira Cake 580g (RSPO-MB)- Iceland","FG140749","-Snow Scene Madeira Cake 580g ( 2017) (RSPO-MB)- Iceland",28.11.2017 00:00:00,"22M00137",580.00,8,4.00
+740,"Luxury Chocolate Yule Log (2017) 330g (RSPO-MB)- Iceland","FG040203","-Luxury Chocolate Yule Log (2017) 330g (RSPO-MB)- Iceland",26.10.2017 00:00:00,"22C08096",330.00,2,6.00
+741,"Luxury 12 Mini Mince Pies (2017) - Lidl","FG020240","-Luxury 12 Mini Mince Pies (2017) - Lidl",30.6.2017 00:00:00,"22T10018",225.00,1,12.00
+743,"Finest Iced Bar Snowflake (2017)400g (RSPO-MB)- TESCO","FG140715","-Finest Iced Bar Snowflake (2017)400g (RSPO-MB)- TESCO",5.7.2017 00:00:00,"22N00001",400.00,8,12.00
+747,"BYO Chocolate Stackable Xmas Tree cake","FG090550","-BYO Chocolate Stackable Xmas Tree cake (2017)(RSPO-MB) -TESCO",30.10.2017 00:00:00,"22C08097",606.51,2,2.00
+748,"12 POKEMON Chocolate Bites (RSPO-MB) - TESCO","FG220087","-12 POKEMON Chocolate Bites (RSPO-MB) - TESCO",4.9.2017 00:00:00,"22C00098",202.80,2,12.00
+750,"SIWC Caramel Cake Fingers - TESCO Europa (RSPO-MB)","TCE015","-SIWC Caramel Cake Fingers - TESCO Europa (RSPO-MB)",26.2.2018 00:00:00,"22C08092, 22C08093, 22C08094, 22C08095",140.00,2,16.00
+753,"Mini Gift Cake (RSPO-MB) (2017) -LIDL","FG090553","-Mini Gift Cake (RSPO-MB) (2017) -LIDL",26.10.2017 00:00:00,"22M00135",150.00,8,12.00
+767,"SIWC 15 Birthday Cubes (RSPO-MB) - Sainsbury","FG090551","-SIWC 15 Birthday Cubes (L-8)(RSPO-MB) - Sainsbury",20.7.2017 00:00:00,"22C00136",744.00,2,2.00
+769,"Standard Iced Bar (2017) 400g (RSPO-MB)- CO OP","FG140750","-Standard Iced Bar (2017) 400g (RSPO-MB)- CO-OP",24.8.2017 00:00:00,"22N00007",400.00,8,12.00
+772,"Raspberry Swiss Roll  (RSPO-MB) - One Stop","FG040202","-Raspberry Swiss Roll  (RSPO-MB) - One Stop",23.10.2017 00:00:00,"22R00016",195.00,3,12.00
+773,"Finest 12 Mini Mince Pies (2017) - TESCO","FG020209","-Finest 12 Mini Mince Pies (2017) - TESCO MROŻONE",6.9.2017 00:00:00,"22T10021",243.60,1,12.00
+777,"Cabico- Raspberry flavoured Swiss Roll with Cream Filling","CAB029","RoladaCabicoRasp&Cream(6*300g)1,79GBP",26.2.2013 00:00:00,"22R01221",300.00,3,6.00
+778,"Cabico- Strawberry flavoured Swiss Roll with Cream Filling","CAB027","RoladaCabicoStraw&Cream(6*300g)1,79GBP",26.2.2013 00:00:00,"22R01222",300.00,3,6.00
+779,"Cabico- Lemon flavoured Swiss Roll with Cream Filling","CAB028","RoladaCabicoLemon&Cream(6*300g)1,79GBP",26.2.2013 00:00:00,"22R01223",300.00,3,6.00
+780,"Cabico- Chocolate flavoured Swiss Roll with Vanilla Cream Filling","CAB026","RoladaCabicoCocoa&Cream(6*300g)1,79GBP",26.2.2013 00:00:00,"22R01224",300.00,3,6.00
+781,,"FG140739","-Lidl Favorina HD Dundee 800g *8 (RSPO-MB)",18.8.2017 00:00:00,"22M00129",800.00,8,8.00
+782,,"FG140743","-Lidl Favorina HD Dundee Cypr 800g *8 (RSPO-MB)",18.8.2017 00:00:00,"22M00130",800.00,8,8.00
+783,,"FG140744","-Lidl Favorina HD Dundee Austria 800g *8 (RSPO-MB)",18.8.2017 00:00:00,"22M00131",800.00,8,8.00
+784,"6 Assorted jam tarts  - TESCO Europa","TCE005","Tesco6AssortedJT*12-TCE005PL(RSPO-MB)",21.7.2016 00:00:00,"22T00412",180.00,1,12.00
+785,"6 Assorted jam tarts  - TESCO Europa","TCE005","Tesco6AssortedJT*12-TCE005CZ(RSPO-MB)",21.7.2016 00:00:00,"22T00413",180.00,1,12.00
+786,"6 Assorted jam tarts  - TESCO Europa","TCE005","Tesco6AssortedJT*12-TCE005SK(RSPO-MB)",21.7.2016 00:00:00,"22T00414",180.00,1,12.00
+787,"6 Assorted jam tarts  - TESCO Europa","TCE005","Tesco6AssortedJT*12-TCE005HU(RSPO-MB)",21.7.2016 00:00:00,"22T00415",180.00,1,12.00
+788,"6 Strawberry Jam Tarts -Tesco Europa","TCE011","6StrawberryJamTarts*12PL(RSPO-MB)",20.1.2017 00:00:00,"22T00416",180.00,1,12.00
+789,"6 Strawberry Jam Tarts -Tesco Europa","TCE011","6StrawberryJamTarts*12CZ(RSPO-MB)",20.1.2017 00:00:00,"22T00417",180.00,1,12.00
+790,"6 Strawberry Jam Tarts -Tesco Europa","TCE011","6StrawberryJamTarts*12SK(RSPO-MB)",20.1.2017 00:00:00,"22T00418",180.00,1,12.00
+791,"6 Strawberry Jam Tarts -Tesco Europa","TCE011","6StrawberryJamTarts*12HU(RSPO-MB)",20.1.2017 00:00:00,"22T00419",180.00,1,12.00
+792,"Chocolate Cheeky Monkey Cake - TESCO","TCE012","TescoChocolateCheekyMonkey*2PL",10.1.2017 00:00:00,"22C00130",1000.00,2,2.00
+793,"Chocolate Cheeky Monkey Cake - TESCO","TCE012","TescoChocolateCheekyMonkey*2CZ",10.1.2017 00:00:00,"22C00131",1000.00,2,2.00
+794,"Chocolate Cheeky Monkey Cake - TESCO","TCE012","TescoChocolateCheekyMonkey*2SK",10.1.2017 00:00:00,"22C00132",1000.00,2,2.00
+795,"Chocolate Cheeky Monkey Cake - TESCO","TCE012","TescoChocolateCheekyMonkey*2HU",10.1.2017 00:00:00,"22C00133",1000.00,2,2.00
+796,"Chocolate Celebration Cake - TESCO Europa","TCE002","SIWC-Choc.Celeb.Cake*2-TCE002PL(RSPO-MB)",21.7.2016 00:00:00,"22M00074",1025.00,8,2.00
+797,"Chocolate Celebration Cake - TESCO Europa","TCE002","SIWC-Choc.Celeb.Cake*2-TCE002CZ(RSPO-MB)",21.7.2016 00:00:00,"22M00077",1025.00,8,2.00
+798,"Chocolate Celebration Cake - TESCO Europa","TCE002","SIWC-Choc.Celeb.Cake*2-TCE002SK(RSPO-MB)",21.7.2016 00:00:00,"22M00080",1025.00,8,2.00
+799,"Chocolate Celebration Cake - TESCO Europa","TCE002","SIWC-Choc.Celeb.Cake*2-TCE002HU(RSPO-MB)",21.7.2016 00:00:00,"22M00083",1025.00,8,2.00
+800,"Rose Bouquet Celebration Cake (2016) TESCO Europa","TCE007","RoseBouquetCakeNew*2-TCE007PL",12.10.2016 00:00:00,"22M00107",1072.00,8,2.00
+801,"Rose Bouquet Celebration Cake (2016) TESCO Europa","TCE007","RoseBouquetCakeNew*2-TCE007CZ",12.10.2016 00:00:00,"22M00108",1072.00,8,2.00
+802,"Rose Bouquet Celebration Cake (2016) TESCO Europa","TCE007","RoseBouquetCakeNew*2-TCE007SK",12.10.2016 00:00:00,"22M00109",1072.00,8,2.00
+803,"Rose Bouquet Celebration Cake (2016) TESCO Europa","TCE007","RoseBouquetCakeNew*2-TCE007HU",12.10.2016 00:00:00,"22M00110",1072.00,8,2.00
+804,"Princess Celebration Cake(2016) TESCO Europa","TCE006","-PrincessTiaraCakeNew*2-TCE006PL",12.10.2016 00:00:00,"22M00112",1206.00,8,2.00
+805,"Princess Celebration Cake(2016) TESCO Europa","TCE006","PrincessTiaraCakeNew*2-TCE006CZ",12.10.2016 00:00:00,"22M00113",1206.00,8,2.00
+806,"Princess Celebration Cake(2016) TESCO Europa","TCE006","PrincessTiaraCakeNew*2-TCE006SK",12.10.2016 00:00:00,"22M00114",1206.00,8,2.00
+807,"Princess Celebration Cake(2016) TESCO Europa","TCE006","PrincessTiaraCakeNew*2-TCE006HU",12.10.2016 00:00:00,"22M00115",1206.00,8,2.00
+873,"Chocolate Celebration Cake -Iceland Plam Free","FG090549","-Chocolate Celebration Cake (Palm Free) -Iceland",16.4.2018 00:00:00,"22M00121",950.00,8,4.00
+877,"12 Extra Special Mini Minice Pies (2018) - ASDA","FG020261","-12 Extra Special Mini Minice Pies (2018) - ASDA",17.8.2018 00:00:00,"22T10024",270.00,1,12.00
+878,"6 ES Mince Pies (2018)-  (RSPO-MB) ASDA","FG020262","-6 Extra Special Mince Pies (2018)-ASDA",17.8.2018 00:00:00,"22T10142",387.00,1,15.00
+881,"Standard Royal Iced Cake (2018)  907g- TESCO","FG140736","-Standard Royal Iced Cake 907g(2018) - TESCO",20.6.2018 00:00:00,"22M00125",907.00,9,4.00
+882,,"FG140765","-Standard AOI (Holly Leaves) 907g (2018) (RSPO-MB)- Co-op",31.8.2018 00:00:00,"22M00133",907.00,8,6.00
+883,"Standard 8 Chocolate Swirly Bites ( 2018) - TESCO ( RSPO-MB)","FG090518","-Standard 8 Chocolate Swirly Bites ( 2018) - TESCO ( RSPO-MB)",20.9.2018 00:00:00,"22C00110",151.20,2,12.00
+884,"Luxury Iced Bar( Lines) 400g (2018) - Iceland","FG140757","-Luxury Iced Bar( Lines) 400g (2018) - Iceland",22.8.2018 00:00:00,"22N00002",400.00,9,12.00
+885,"Standard Iced Bar 400g (2018)- Iceland","FG140754","-Standard Iced Bar 400g (2018)- Iceland",23.8.2018 00:00:00,"22N00003",400.00,9,12.00
+886,"Standard Mini Gift 150g (2018) - Iceland","FG140756","-Standard Mini Gift 150g (2018) - Iceland",28.8.2018 00:00:00,"22M00094",150.00,9,24.00
+887,"Luxury AOI (Xmas Tree) 1000g (2018) - Iceland","FG140758","-Luxury AOI (Xmas Tree) 1000g (2018) - Iceland",27.8.2018 00:00:00,"22M00128",1000.00,9,4.00
+888,"Standard TIR (Reindeer) 900g (2018)-  Iceland","FG140755","-Standard TIR (Reindeer) 900g (2018)-  Iceland",4.9.2018 00:00:00,"22M00095",900.00,9,12.00
+889,"Favorina Iced Bar 400g (2018)- Lidl","FG140740","-Favorina Iced Bar 400g (2018)- Lidl",16.7.2018 00:00:00,"22N00006",400.00,9,12.00
+890,"Luxury Iced Bar (Holly Leaves) 400g (2018)- Lidl","FG140717","-Luxury Iced Bar (Holly Leaves) 400g (2018)- Lidl",18.7.2018 00:00:00,"22N00004",400.00,9,12.00
+891,"Favorina HD Dundee 800g (2018) - Lidl","FG140739","-Favorina HD Dundee 800g (2018) - Lidl",18.7.2018 00:00:00,"22M00129",800.00,9,8.00
+892,"Luxury Rich Fruit Round 907g(2018) - Lidl","FG140738","-Luxury Rich Fruit Round 907g(2018) - Lidl",23.8.2018 00:00:00,"22M00127",907.00,9,8.00
+893,"Luxury 9 Mini's Selection Pack(2018)( UTZ-MB) - Lidl","FG020256","-Luxury 9 Mini's Selection Pack(2018)( UTZ-MB) - Lidl",15.10.2018 00:00:00,"22T10039",164.00,1,15.00
+894,"Luxury 12 Mini Mince Pies (2018) - Lidl","FG020240","-Luxury 12 Mini Mince Pies (2018) - Lidl",16.5.2018 00:00:00,"22T10018",225.00,1,12.00
+895,"Luxury 12 Mini Mince Pies (2018) - Iceland","FG020254","-Luxury 12 Mini Mince Pies (2018) - Iceland",31.8.2018 00:00:00,"22T10017",270.00,1,12.00
+896,"Standard Yule Log 250g(2018) - Iceland - Palm free","FG040225","-Standard Yule Log 250g(2018) - Iceland",17.9.2018 00:00:00,"22C08058",250.00,2,6.00
+897,"Luxury Mini Gift 150g (2018) - Lidl","FG090560","-Luxury Mini Gift 150g (2018) - Lidl",25.6.2018 00:00:00,"22M00135",150.00,9,12.00
+898,"Luxury AOI (Stencil) 1000g ( 2018)- Lidl","FG140716","-Luxury AOI (Stencil) 1000g ( 2018)- Lidl",22.6.2018 00:00:00,"22M00124",1000.00,9,6.00
+901,"Strawberry mini rolls chocolate deostripes  GK006Z - Hoppe (RSPO-MB)","GK006Z","-6 Strawberry mini rolls chocolate deco stripes  GK006Z- (RSPO-MB)",29.5.2018 00:00:00,"22C20075",150.00,2,12.00
+902,"15 Milk Chocolate Happy Birthday Cubes (L-8)(RSPO-SG) - Sainsbury","FG090557","-15 Milk Chocolate Happy Birthday Cubes (L-8)(RSPO-SG) - Sainsbury's",15.6.2018 00:00:00,"22C00136",739.00,2,2.00
+906,"Taste the Difference Mini Gift 150g (2018) - Sainsbury's","FG140766","-Taste the Difference Mini Gift 150g (2018) - Sainsbury's",17.9.2018 00:00:00,"22M00145",150.00,9,12.00
+907,"Luxury WOW (Village)-1500g (2018)- Lidl","FG140719","-Luxury WOW (Village)-1500g (2018)- Lidl",24.9.2018 00:00:00,"22M00134",1500.00,9,4.00
+908,"Princess Tiara Cake  - TESCO","FG090521","-Princess Tiara Cake (RSPO-SG) - TESCO",13.9.2018 00:00:00,"22M00111",1219.00,8,2.00
+913,"Finest Chocolate, Orange and Ginger Cake (2018) - TESCO","FG140772","-Finest Chocolate, Orange and Ginger Cake (2018) - TESCO",26.11.2018 00:00:00,"22M00153",980.00,8,2.00
+914,"MIX Holly Lane 	Mini Gift 150g (2018) - Aldi","FG140763","-MIX Holly Lane 	Mini Gift 150g (2018) - Aldi (12x12)",12.7.2018 00:00:00,"22M00141",150.00,9,24.00
+915,"Finest 12 Mini Mince Pies (2018) -TESCO","FG020209","-Finest 12 Mini Mince Pies (2018) -TESCO",27.6.2018 00:00:00,"22T10021",243.60,1,12.00
+917,"Santa Smash Cake - Morrisons","FG090591","-Santa Smash Celebration Cake (RSPO-MB) Morrisons",8.10.2018 00:00:00,"22M00146",990.00,8,2.00
+918,"Ms Molly' Madeira Celebration Cake- TESCO","FG090593","-Ms Molly's Madeira Celebration Cake ( RSPO-MB)- TESCO",29.8.2018 00:00:00,"22M00144",940.00,8,4.00
+919,"Ms Molly's Chocolate Celebration Cake - TESCO","FG090556","-Ms Molly's Chocolate Celebration Cake ( RSPO-MB;UTZ-MB) - TESCO",29.8.2018 00:00:00,"22M00143",934.00,8,4.00
+922,"8 Caramel Cake Fingers - ROYAL (RSPO-MB)","VO1","-Vores 6 Caramel Sticks - Royal  (RSPO-SG)",13.9.2018 00:00:00,"22C08108",84.00,2,12.00
+923,"Ms Molly's Jumbo Chocolate & Vanilla Swiss Roll - TESCO(RSPO-MB)","FG040217","Ms Molly's Jumbo Chocolate & Vanilla Swiss Roll-TESCO(RSPO-SG;RA-MB)",30.8.2018 00:00:00,"22R00018",390.00,3,12.00
+924,"Ms Molly's Jumbo Strawberry & Vanilla Swiss Roll -TESCO (RSPO-MB)","FG040216","Ms Molly's Jumbo Strawberry & Vanilla Swiss Roll -TESCO (RSPO-SG)",30.8.2018 00:00:00,"22R00019",390.00,3,12.00
+925,"Ms Molly's Raspberry Swiss Roll -TESCO (RSPO-MB)","FG040215","Ms Molly's Raspberry Swiss Roll -TESCO (RSPO-SG)",30.8.2018 00:00:00,"22R00020",195.00,3,12.00
+926,"Salling Raspberry & Cream swiss roll - Royal ( RSPO-SG)","V05","-Salling Raspberry & Cream swiss roll - Royal ( RSPO-SG)",6.9.2018 00:00:00,"22R01208",300.00,3,6.00
+927,"Salling Cocoa & Cream swiss roll - Royal (RSPO-SG)","V04","-Salling Cocoa & Cream swiss roll - Royal (RSPO-SG)",6.9.2018 00:00:00,"22R01209",300.00,3,6.00
+928,"Finton's Cocoa & Cream swiss roll - Royal (RSPO-SG)","B01","-Finton's Cocoa & Cream swiss roll (RSPO-SG) - Royal Dania Netto",6.9.2018 00:00:00,"22R01216",300.00,3,6.00
+929,"Finton's Raspberry & Cream swiss roll - Royal (RSPO-SG)","B02","-Finton's Raspberry & Cream swiss roll (RSPO-SG)- Royal Dania Netto",6.9.2018 00:00:00,"22R01215",300.00,3,6.00
+930,"Jack's Jumbo Chocolate & Vanilla Swiss Roll ( RSPO-MB)","FG040223","-Jack's Jumbo Chocolate & Vanilla Swiss Roll ( RSPO-SG;UTZ-MB)",10.9.2018 00:00:00,"22R00021",390.00,3,12.00
+931,"Jack's Jumbo Strawberry & Vanilla Swiss Roll ( RSPO-MB)","FG040224","-Jack's Jumbo Strawberry & Vanilla Swiss Roll (RSPO-SG)",10.9.2018 00:00:00,"22R00022",390.00,3,12.00
+932,"Jack's 6 Assorted Jam Tarts ( RSPO-SG)","FG120230","-Jack's 6 Assorted Jam Tarts ( RSPO-SG)",10.9.2018 00:00:00,"22T00202",180.00,1,12.00
+933,"Tesco 6 Assorted Jam Tarts","FG120052","6 Assorted Jam Tarts (RSPO-SG)- TESCO",18.9.2018 00:00:00,"22T00201",180.00,1,12.00
+934,"Tesco 6 Lemon Curd Tarts","FG120093","6 Lemon Curd Tarts (RSPO-SG) - TESCO",18.9.2018 00:00:00,"22T00411",180.00,1,12.00
+939,"8 Caramel Cake Fingers - (RSPO-MB) - Hoppers","FG220089","8 Caramel Cake Fingers - (RSPO-MB) - Hoppers",8.10.2018 00:00:00,"22C08114",140.00,2,32.00
+944,"Cabico- Raspberry flavoured Swiss Roll with Cream Filling","CAB06AJ","Assorted6JamTartsCabico(*12)1.49GBP",26.2.2013 00:00:00,"22T00422",300.00,3,6.00
+946,"Bakery Caramel Choco Cake bars -Royal (RSPO-MB)","B03","-Bakery 5 Caramel Choco Cake bars -Royal (RSPO-SG)",11.12.2018 00:00:00,"22C08113",132.00,2,12.00
+947,"Bakery White Choco Cake bars -Royal (RSPO-MB)","B04","-Bakery 5 White Choco Cake bars -Royal (RSPO-SG)",13.10.2018 00:00:00,"22C08112",117.00,2,12.00
+948,"Bakery 6 Caramel Cake Fingers - ROYAL (RSPO-MB)","BO5","-Bakery 6 Caramel Sticks - Royal  (RSPO-SG)",13.10.2018 00:00:00,"22C08111",84.00,2,12.00
+949,"Finest Chocolate, Orange and Ginger Cake (2018) - TESCO","FG090592","-Finest Chocolate, Orange and Ginger Cake  FFTO (2018) - TESCO",11.10.2018 00:00:00,"22M00154",980.00,8,1.00
+951,"Happy Birthday Cubes Chocolate Cake -TESCO","FG090513","-Happy Birthday Cubes Chocolate Cake -TESCO  (RSPO-SG;RA-MB)",18.10.2018 00:00:00,"22C00103",660.40,2,2.00
+952,"Lidl Favorina HD Dundee Malta 800g *8 (RSPO-MB)","FG140768","-Favorina HD Dundee  (2018)- LIDLMalta 800g -(RSPO-MB)- LIDL",19.10.2018 00:00:00,"22M00147",800.00,9,8.00
+953,"Princess Tiara Cake With Silver Sparkle - TESCO Europa","TCE006","-Princess Tiara Cake With Silver Sparkle - TESCO Europa",23.10.2018 00:00:00,"22M0012, 22M0013, 22M0014, 22M0015",1200.00,8,2.00
+954,"Luxury AOI (Stencil) 1000g ( 2018)- Lidl","FG140771","-Luxury AOI (Stencil) Malta 1000g ( 2018)- Lidl",22.6.2018 00:00:00,"22M00148",1000.00,9,6.00
+955,"Luxury Rich Fruit Round 907g(2018) - Lidl","FG140770","-Luxury Rich Fruit Round 907g Malta (2018) - Lidl",23.8.2018 00:00:00,"22M00149",907.00,9,8.00
+956,"Favorina Iced Bar 400g (2018)- Lidl","FG140767","-Favorina Iced Bar 400g  Malta (2018)- Lidl",16.7.2018 00:00:00,"22N00010",400.00,9,12.00
+957,"Favorina TIR (Holly Leaves) 907g ( 2018) -Lidl","FG140769","-Favorina TIR (Holly Leaves) 907g Malta ( 2018) -Lidl",19.7.2018 00:00:00,"22M00150",907.00,9,12.00
+958,"Holly Lane Robin Cake - Aldi","FG140764","-Holly Lane Robin Cake (2018)- Aldi",24.10.2018 00:00:00,"22M00151",776.00,8,4.00
+961,"6 Easter Cubes ( RSPO-MB; UTZ-MB) (2019)- TESCO","FG090597","-6 Easter Cubes ( RSPO-MB; UTZ-MB) (2019)- TESCO",8.3.2019 00:00:00,"22C00134",283.00,2,8.00
+962,"2 Heart Chocolate Cubes (RSPO-MB) (2019) - TESCO","FG090595","-2 Valentine's Chocolate Cake Cubes (RSPO-MB; UTZ-MB) (2019) - TESCO",14.1.2019 00:00:00,"22C00129",91.50,2,16.00
+963,,"FG090594","-Santa Smash Celebration Cake 2018(RSPO-MB) Morrisons",23.11.2018 00:00:00,"22M00155",990.60,8,2.00
+964,"8 Caramel Fingers GK009 (RSPO-MB)- HOPPE","GK009","-8 Caramel Fingers GK009 (RSPO-MB)- HOPPE",11.12.2018 00:00:00,"22C08115",112.00,2,12.00
+965,"Raspberry mini rolls with pink deco stripes DK001(RSPO-SG)","DK001","6 Raspberry mini rolls with pink deco stripes DK001(RSPO-SG)",11.12.2018 00:00:00,"22C20049",150.00,2,12.00
+966,"Finest Lemon Swiss Gateau ( L-8) ( RSPO-MB) ( UTZ-MB)- TESCO","FG090598","-Finest Lemon Swiss Gateau ( L-8) ( RSPO-MB) ( UTZ-MB)- TESCO",1.3.2019 00:00:00,"22M00156",821.00,8,2.00
+975,"10 Chocolate mini rolls ( RSPO-MB) - Aldi","FG030262","-10 Chocolate mini rolls ( RSPO-MB) - Aldi Australia",29.5.2019 00:00:00,"22C08059",260.00,2,12.00
+977,"4 Mother's Day Cubes				 (RSPO-MB) (2019)- TESCO","FG090596","-4 Mother's Day Cubes				 (RSPO-MB; UTZ-MB) (2019)- TESCO",8.3.2019 00:00:00,"22C00135",179.00,2,12.00
+978,"Strawberry Jumbo Swiss Roll (RSPO-MB)- Morrisons","FG040233","Strawberry Jumbo Swiss Roll (RSPO-SG)- Morrisons",24.5.2019 00:00:00,"22R00112",390.00,3,12.00
+979,"Chocolate Jumbo Swiss Roll (RSPOSG)- Morrisons","FG040232","Chocolate Jumbo Swiss Roll (RSPO-SG)- Morrisons",24.5.2019 00:00:00,"22R00113",390.00,3,12.00
+980,"Male Catepillar (RSPO-MB) - Morrison's","FG090601","-Millie The Catepillar Cake (RSPO-MB) - Morrisons",13.5.2019 00:00:00,"22C08117",623.01,2,6.00
+981,"Morris The Catepillar Cake(RSPO-MB) - Morrison's","FG090600","-Morris The Catepillar Cake(RSPO-MB) - Morrisons",13.5.2019 00:00:00,"22C08118",622.30,2,6.00
+983,"8 Chocolate Nom Noms","FG220076","-8 Chocolate Nom Noms (RSPO-MB)- Hoppers/Iceland",23.1.2019 00:00:00,"22C080",130.00,2,12.00
+984,"SIWC 8 Caramel Cake Fingers - (RSPO-MB)","FG220090","-8 Caramel Cake Fingers - (RSPO-MB)-Hoppers/Iceland",28.1.2019 00:00:00,"22C080",140.00,2,18.00
+987,"Cocoa & Cream (Swiss Rolls) Aldi","RD01","-Royal Cocoa&Cream (Swiss Rolls)-Aldi Dania  (RSPO-SG)",25.6.2019 00:00:00,"22R01219",300.00,3,6.00
+988,"Raspberry& Cream (Swiss Rolls) Aldi","RD02","-Royal Raspberry& Cream (Swiss Rolls) -Aldi Dania (RSPO-SG)",25.6.2019 00:00:00,"22R01220",300.00,3,6.00
+990,"12 Extra Special Mini Minice Pies (2019) - ASDA","FG020270","-12 Extra Special Mini Minice Pies (2019) - ASDA",3.7.2019 00:00:00,"22T10024",243.60,1,12.00
+991,"12 Finest Mini Mince Pies (2019) - TESCO","FG020209","-Finest 12 Mini Mince Pies (2019) - TESCO",7.6.2019 00:00:00,"22T10021",243.60,1,12.00
+993,"Princess TiaraCakeWithSilverSparkle*2 - TCE006CZ","TCE006","-PrincessTiaraCakeWithSilverSparkle*2 - TCE006CZ",23.10.2018 00:00:00,"22M00113",1200.00,8,2.00
+994,"Princess TiaraCakeWithSilverSparkle*2 - TCE006HU","TCE006","-PrincessTiaraCakeWithSilverSparkle*2 - TCE006HU",23.10.2018 00:00:00,"22M00115",1200.00,8,2.00
+995,"Princess TiaraCakeWithSilverSparkle*2 - TCE006SK","TCE006","-PrincessTiaraCakeWithSilverSparkle*2 - TCE006SK",23.10.2018 00:00:00,"22M00114",1200.00,8,2.00
+996,"Princess TiaraCakeWithSilverSparkle*2 - TCE006SPL","TCE006","-PrincessTiaraCakeWithSilverSparkle*2 - TCE006PL",23.10.2018 00:00:00,"22M00112",1200.00,8,2.00
+997,"PJ Mask Traybake (RSPO-MB) - Asda","FG080054","-PJ Mask Traybake (RSPO-MB) - Asda",29.3.2019 00:00:00,"22S00008",766.00,7,2.00
+1000,"6 Assorted Jam Tarts ( RSPO-SG) - ALDI","FG120233","6 Assorted Jam Tarts ( RSPO-SG) - ALDI",8.4.2019 00:00:00,"22T10143",172.00,1,12.00
+1001,"Bakery Cocoa & Cream swiss roll - Royal (RSPO-SG)","B06","Bakery Cocoa & Cream swiss roll (RSPO-SG) - Royal Szewcja Netto",26.3.2019 00:00:00,"22R01217",300.00,3,6.00
+1002,"Bakery Raspberry & Cream swiss roll - Royal (RSPO-SG) Szwecja Netto","B07","Bakery Raspberry & Cream swiss roll (RSPO-SG) -ROYAL Szwecja Netto",26.3.2019 00:00:00,"22R01218",300.00,3,6.00
+1003,"Iced Bar (2019) 400g (RSPO-MB)- Coop","FG140776","- Iced Bar (2019) 400g (RSPO-MB)- Co-op",31.7.2019 00:00:00,"22N00007",400.00,9,12.00
+1006,"MIX Celebration  Cake (RSPO-MB) 9''-ALDI","FG090599","-MIX Celebration  Cake (RSPO-MB) 9''-ALDI",24.4.2019 00:00:00,"22M00157",900.00,8,4.00
+1007,"Finest AOI Cake 907g (RSPO-MB) 2019 - TESCO","FG140677","- Finest AOI Cake 907g (RSPO-MB) 2019 - TESCO",25.7.2019 00:00:00,"22M00126",907.00,9,4.00
+1008,"Mandemakers 5 Strawberry MR white deco (RSPO-SG) - HOPPE","MA001","Mandemakers 5 Strawberry MR white deco MA001 (RSPO-SG)",17.6.2019 00:00:00,"22C20033",125.00,2,12.00
+1009,"Core Mini gift cake ( RSPO-MB) 2019 - ASDA","FG140777","- Core Mini gift cake ( RSPO-MB) 2019 - ASDA",22.7.2019 00:00:00,"22M00158",150.00,9,12.00
+1010,"Finest Iced Bar 400g ( RSPO-MB) 2019- TESCO","FG140715","-Finest Iced Bar 400g ( RSPO-MB) 2019- TESCO",1.7.2019 00:00:00,"22N00001",400.00,9,12.00
+1011,"Finest Rich Fruit Round Cake 800g 2019- TESCO","FG140713","-Finest Rich Fruit Round Cake 800g (2019)- TESCO",19.7.2019 00:00:00,"22M00099",820.00,9,12.00
+1012,"JS Mini gift (2019) 150g RSPO-MB- Sainsbury's","FG140778","-JS Mini gift (2019) 150g RSPO-MB- Sainsbury's",20.8.2019 00:00:00,"22M00159",150.00,9,12.00
+1013,"M&S 6 Vegan Mince Pies (RSPO-MB)","FG020281","-M&S 6 Vegan Mince Pies (RSPO-MB)",4.7.2019 00:00:00,"22T10144",280.00,1,18.00
+1014,"Finest Mini Gift Cake (2019) 150g (RSPO-MB) - TESCO","FG140714","-Finest Mini Gift Cake (2019) 150g (RSPO-MB) - TESCO",12.7.2019 00:00:00,"22M00101",150.00,9,12.00
+1015,"Finest 9 Mini Selection (RSPO-MB) 2019- TESCO","FG120225","-Finest 9 Mini Selection (RSPO-MB) 2019- TESCO",13.11.2019 00:00:00,"22T10038",169.00,1,12.00
+1016,"5 Reindeer Mini Rolls (2019) (RSPO-MB, UTZ-MB)- TESCO","FG030263","-5 Reindeer Mini Rolls (2019) (RSPO-MB, UTZ-MB)- TESCO",13.11.2019 00:00:00,"22C08069",142.00,2,12.00
+1017,"Yule Log (2019)(RSPO-MB; UTZ-MB) - TESCO","FG040235","-Yule Log (2019)(RSPO-MB; UTZ-MB) - TESCO",28.8.2019 00:00:00,"22C08048",260.00,2,12.00
+1018,"Standard Mini Gift (2019) (RSPO-MB) 150g - TESCO","FG140693","-Standard Mini Gift (2019) (RSPO-MB) 150g - TESCO",23.7.2019 00:00:00,"22M00067",150.00,9,12.00
+1021,"Royal Strawberry &Vanilla Cream Swiss Roll 200g","RS02","Royal Strawberry &Vanilla Cream Swiss Roll 200g(RSPO-SG) ROYAL Szwecja",19.7.2019 00:00:00,"22R01227",200.00,3,9.00
+1022,"Royal Raspberry &Vanilla Cream Swiss Roll 200g","RS01","Royal Raspberry &Vanilla Cream Swiss Roll 200g-(RSPO-SG) ROYAL Szwecja",19.7.2019 00:00:00,"22R01228",200.00,3,9.00
+1023,"Royal Cocoa &Vanilla Cream Swiss Roll 200g - Royal Szwecja","RS04","Royal Cocoa &Vanilla Cream Swiss Roll- 200g( RSPO-SG) - ROYAL Szwecja",19.7.2019 00:00:00,"22R01226",200.00,3,9.00
+1024,"Royal Double Chocolate  Swiss Roll 200g- (RSPO-SG)- Royal Szwecja","RS03","Royal Double Chocolate  Swiss Roll 200g- (RSPO-SG)- ROYAL Szwecja",19.7.2019 00:00:00,"22R01225",200.00,3,9.00
+1025,"9 Mini Mince Pies (2019)- Co-op","FG020274","-9 Mini Mince Pies (2019)- Co-op",22.8.2019 00:00:00,"22T10040",188.00,1,12.00
+1026,"Standard Iced Bar (2019) 400g - Iceland","FG140779","-Standard Iced Bar (2019) 400g - Iceland",25.7.2019 00:00:00,"22N00003",400.00,9,12.00
+1027,"Standard 8 Chocolate Swirly Bites (2019) (RSPO-MB; UTZ-MB)- TESCO","FG090518","-Standard 8 Chocolate Swirly Bites (2019) (RSPO-MB; UTZ-MB)- TESCO",27.8.2019 00:00:00,"22C00110",151.20,2,12.00
+1028,"Yule Log (2019) - Iceland","FG040234","-Yule Log (2019) - ICELAND",19.9.2019 00:00:00,"22C08058",250.00,2,6.00
+1029,"Favorina TIR (Holly Leaves) Cake 907g (2019)(RSPO-MB)- LIDL","FG140729","-Favorina TIR (Holly Leaves) Cake 907g (2019) (RSPO-MB)- LIDL Cypr",18.9.2019 00:00:00,"22M00097",907.00,9,12.00
+1030,"Standard Mini Gift (2019) 150g- ICELAND","FG140782","-Standard Mini Gift (2019) 150g- ICELAND",27.8.2019 00:00:00,"22M00161",150.00,9,12.00
+1034,"Holly Lane TIR Cake( Holly Leaves) (2019) 907g -ALDI","FG140760","-Holly Lane TIR Cake (Holly Leaves)(2019)(RSPO-MB)907g -ALDI",28.5.2019 00:00:00,"22M00142",907.00,9,12.00
+1035,"Standard AOI (2019) 907g- Co-op","FG140775","-Standard AOI Triple Holly Leaves Cake (2019) 907g(RSPO-MB)- Co-op",9.7.2019 00:00:00,"22M00133",907.00,9,6.00
+1036,"Standard TIR Cake (2019) 907g - ICELAND","FG140755","-Standard TIR Cake (2019) 907g - ICELAND",27.8.2019 00:00:00,"22M00095",907.00,9,12.00
+1037,"Mini Gift Cake (Holly Leaves) (2019) 150g (RSPO-MB) - Morrison's","FG140781","-Mini Gift Cake (Holly Leaves) (2019) 138g (RSPO-MB) - Morrisons",25.7.2019 00:00:00,"22M00160",138.00,9,12.00
+1038,"Holly Line Iced Bar (2019) 400g- ALDI","FG140759","-Holly Lane Iced Bar (2019)( RSPO-MB) 400g- ALDI",28.5.2019 00:00:00,"22N00009",400.00,9,12.00
+1039,"Luxury Iced Bar (2019) 400g - Iceland","FG140780","-Luxury Iced Bar (2019) 400g - Iceland",25.7.2019 00:00:00,"22N00002",400.00,9,12.00
+1040,"5 Raspberry Mini Rolls (RSPO-SG; RA-MB) - ALDI","FG030265","5 Raspberry Mini Rolls (RSPO-SG;RA-MB) - ALDI",6.9.2019 00:00:00,"22C08049",135.00,2,12.00
+1041,"Male Catepillar Cake (RSPO-MB) - ALDI","FG090602","-Male Catepillar Cake (RSPO-MB;UTZ-MB) - ALDI BREXIT",6.9.2019 00:00:00,"22C08119",625.00,2,6.00
+1042,"Luxury AOI (2019) - ICELAND","FG140758","-Luxury AOI (2019) - ICELAND",4.7.2019 00:00:00,"22M00128",1000.00,9,4.00
+1045,"MIX Holly Lane 	Mini Gift 150g (2019) RSPO-MB- Aldi","FG140763","-MIX Holly Lane 	Mini Gift 150g (2019) RSPO-MB- Aldi",26.8.2019 00:00:00,"22M00141",150.00,9,24.00
+1047,"6 Luxury Mince Pies (2019)- LIDL","FG020278","-6 Luxury Mince Pies (2019)- LIDL",26.7.2019 00:00:00,"22T10145",396.00,1,15.00
+1048,"12 Luxury Mini Mince Pies (2019) - LIDL","FG020240","-12 Luxury Mini Mince Pies (2019) - LIDL",19.7.2019 00:00:00,"22T10018",225.00,1,12.00
+1049,"9 Luxury Mini Selection Pack (2019) (UTZ-MB)- LIDL","FG020256","-9 Luxury Mini Selection Pack (2019) (UTZ-MB)- LIDL",10.10.2019 00:00:00,"22T10039",164.13,1,15.00
+1050,"Favorina TIR (Holly Leaves) Cake 907g (2019)(RSPO-MB)- LIDL","FG140718","-Favorina TIR (Holly Leaves) Cake 907g (2019)(RSPO-MB)- LIDL",25.7.2019 00:00:00,"22M00096",907.00,9,12.00
+1055,"Luxury Wow Cake (Crackled Star) 1500g (2019) (RSPO-MB) -LIDL","FG140719","-Luxury Wow Cake (Crackled Star)1500g (2019) (RSPO-MB) -LIDL",9.10.2019 00:00:00,"22M00134",1500.00,9,4.00
+1056,"Luxury Rich Fruit  Round Cake 907g (2019)- LIDL","FG140738","-Luxury Rich Fruit  Round Cake 907g (2019)- LIDL",5.9.2019 00:00:00,"22M00127",907.00,9,8.00
+1057,"Chocolate Wow Cake (Bauble) (2019)- LIDL","FG090603","-Chocolate Wow Cake (Bauble) (2019)(RSPO-MB, UTZ-MB) LIDL",6.11.2019 00:00:00,"22M00164",820.00,8,4.00
+1058,"Luxury Iced Bar 400g (2019) RSPO-MB- LIDL","FG140717","-Luxury Iced Bar 400g (2019) RSPO-MB- LIDL",23.8.2019 00:00:00,"22N00004",400.00,9,12.00
+1059,"Favorina Iced Bar 400g (2019)- LIDL","FG140740","-Favorina Iced Bar 400g (2019) RSPO-MB- LIDL",23.8.2019 00:00:00,"22N00006",400.00,9,12.00
+1060,"5 Penguins Chocolate Mini Rolls (2019)-(RSPO-MB)- ASDA","FG030266","-5 Penguins Chocolate Mini Rolls (2019)(RSPO-MB)- ASDA",18.11.2019 00:00:00,"22C08047",156.00,2,12.00
+1061,"Finest FFTO Cake 1.3kg TESCO","FG140785","-Finest FFTO Cake 1300g (2019)- RSPO-MB- TESCO",7.11.2019 00:00:00,"22M00165",1300.00,9,1.00
+1062,"Luxury AOI (Stencil) 1000g ( 2019)- Lidl Malta","FG140771","-MIX Luxury AOI (Stencil)1000g( 2019) RSPO-MB- LIDL Malta",1.9.2019 00:00:00,"22M00148",1000.00,9,6.00
+1064,"Favorina Iced Bar 400g (2019)- Lidl","FG140767","-Favorina Iced Bar 400g (2019)RSPO-MB- LIDL Malta",1.9.2019 00:00:00,"22N00010",400.00,9,12.00
+1065,"Luxury AOI (Stencil) 1000g ( 2019)- Lidl","FG140716","-MIX Luxury AOI Stencil Cake 1000g (2019)(RSPO-MB)- LIDL",1.9.2019 00:00:00,"22M00124",1000.00,9,6.00
+1066,"6 Luxury Mince Pies (2019)- LIDL Malta","FG020264","-6 Luxury Mince Pies (2019)- LIDL Malta",24.10.2019 00:00:00,"22T10146",396.00,1,15.00
+1067,"Luxury AOI (Stencil) 1000g ( 2019)- Lidl Cypr","FG140784","-Luxury AOI (Stencil) 1000g ( 2019) RSPO-MB- LIDL Cypr",1.9.2019 00:00:00,"22M00163",1000.00,9,6.00
+1068,"MIX Favorina Mini Gift Cake 150g(2019) - RSPO-MB LIDL","FG140783","-MIX Favorina Mini Gift Cake 150g(2019) - RSPO-MB LIDL",19.9.2019 00:00:00,"22M00162",150.00,9,12.00
+1073,"12 Luxury Mini Mince Pies (2019) - LIDL Cypr","FG020278","-12 Luxury Mini Mince Pies (2019) - LIDL Cypr",10.10.2019 00:00:00,"22T10010",225.00,1,12.00
+1074,"Favorina TIR Cake 907g (2019)(RSPO-MB)- LIDL Malta","FG140769","-Favorina TIR  Cake 907g (2019)(RSPO-MB)- LIDL Malta",10.10.2019 00:00:00,"22M00150",907.00,9,12.00
+1075,"12 Luxury Mini Mince Pies (2019) - LIDL Malta","FG020280","-12 Luxury Mini Mince Pies (2019) - LIDL Malta",24.10.2019 00:00:00,"22T10009",225.00,1,12.00
+1077,"Roladki Truskawkowe z kremem o smaku waniliowym z dekoracją GK010","GK010","6 Strawberry Mini Rolls with dark deco stripes GK010 (RSPO-SG)",29.11.2019 00:00:00,"22C20035",150.00,2,12.00
+1078,"Mini roladki z kremem o smaku jogurtowym i nadzieniem wiśniowym z białą dekoracją GK011","GK011","6 Yoghurt Mini Rolls with white deco stripes GK011 (RSPO-SG)",29.11.2019 00:00:00,"22C20036",150.00,6,12.00
+1079,"Roladki z kremem o smaku śmietankowym w czekoladzie z białą dekoracją","VOS05","6 Choco Cakerolletjes VOS05 (RSPO-MB)",29.11.2019 00:00:00,"22C20037",150.00,2,12.00
+1080,"Roladka truskawkowa z kremem waniliowym, dekorowana polewą kakaową","VOS04","6 Strawberry mini rolls chocolate decostripes VOS04 (RSPO-SG).",29.11.2019 00:00:00,"22C20034",150.00,2,12.00
+1081,"Ms Molly' Madeira Celebration Cake- TESCO","FG090606","-Ms Molly's Madeira Celebration Cake (RSPO-SG)- TESCO",7.1.2020 00:00:00,"22M00167",940.00,8,6.00
+1082,"Ms Molly's Chocolate Celebration Cake - TESCO","FG090605","-Ms Molly's Chocolate Celebration Cake (RSPO-SG;RA-MB) - TESCO",7.1.2020 00:00:00,"22M00166",934.00,8,6.00
+1083,"6 Easter Cubes ( RSPO-MB; UTZ-MB) (2020)- TESCO","FG090597","-6 Easter Cubes ( RSPO-MB; UTZ-MB) (2020)- TESCO",9.1.2020 00:00:00,"22C00134",283.00,2,8.00
+1084,"2 Heart Chocolate Cubes (RSPO-MB; UTZ-MB) (2020) - TESCO","FG090595","-2 Valentine's Chocolate Cake Cubes (RSPO-MB; UTZ-MB) (2020) - TESCO",9.1.2020 00:00:00,"22C00129",91.50,2,16.00
+1086,"Floral Cake (RSPO-SG; RA-MB)- TESCO","FG090607","-Rose Bouquet Madeira Cake (RSPO-SG;RA-MB)- TESCO",21.4.2020 00:00:00,"22M00168",1085.00,8,2.00
+1087,"MIX Jaffa & Double Chocolate Cake Bars (RSPO-MB)- ALDI","FG220092","-MIX Jaffa & Double Chocolate Cake Bars (RSPO-MB)- ALDI",29.6.2020 00:00:00,"22C08120",133.00,2,28.00
+1091,"Say it with Cake  Party Cubes - Morrisons (RSPO-SG)","FG090537","Say it with Cake 15 Party Cubes (RSPO-SG)- Morrisons",6.5.2020 00:00:00,"22C00125",664.00,2,2.00
+1092,"Standard AOI (2020) 907g- Co-op","FG140786","-Standard AOI Triple Holly Leaves Cake (2020) 907g(RSPO-SG)- Co-op",14.7.2020 00:00:00,"22M00133",907.00,9,6.00
+1094,"Iced Bar (2020) 400g - Coop","FG140787","-Iced Bar 400g (2020)(RSPO-SG)- Co-op",9.7.2020 00:00:00,"22N00007",400.00,9,12.00
+1096,"Finest 12 Mini Mince Pies (2020) -TESCO","FG020209","-Finest 12 Mini Mince Pies (2020)(RSPO-MB) -TESCO - MROŻONE",9.6.2020 00:00:00,"22T10021",243.60,1,12.00
+1097,"12 Finest Mini Mince Pies (2020) - TESCO","FG020209","-Finest 12 Mini Mince Pies (2020)(RSPO-MB - TESCO - ŚWIEŻE",17.7.2020 00:00:00,"22T10021",243.60,1,12.00
+1098,"12 Extra Special Mini Minice Pies (2020) - ASDA","FG020287","-12 Extra Special Mini Minice Pies (2020)(RSPO-MB) - ASDA",9.6.2020 00:00:00,"22T10024",246.00,1,12.00
+1101,"Happy Birthday Cubes Chocolate Cake","FG090604","Happy Birthday Cubes Chocolate Cake (RSPO-SG;RA-MB) ASDA",25.3.2020 00:00:00,"22C00138",663.00,2,2.00
+1102,"MIX Holly Lane 	Mini Gift 150g (2209) RSPO-MB- Aldi","FG140794","-MIX Holly Lane 	Mini Gift 150g (2020) RSPO-MB- Aldi",3.8.2020 00:00:00,"22M00141",150.00,9,24.00
+1105,"Holly Line Iced Bar (2020) 400g- ALDI","FG140793","-Holly Lane Iced Bar (2020)( RSPO-MB) 400g- ALDI",1.6.2020 00:00:00,"22N00009",400.00,9,12.00
+1106,"Holly Lane TIR Cake( Holly Leaves) (2020) 907g -ALDI","FG140795","-Holly Lane TIR Cake(Holly Leaves) 2020 (RSPO-MB)907g -ALDI",2.7.2020 00:00:00,"22M00142",907.00,9,9.00
+1107,"Luxury AOI (2020) - ICELAND","FG140791","-Luxury AOI (2020) PLU 59760 - Iceland",3.9.2020 00:00:00,"22M00128",1000.00,9,4.00
+1109,"Standard TIR Cake (2020) 907g - ICELAND","FG140789","-Standard TIR Cake (2020) PLU 59759 907g - Iceland",6.8.2020 00:00:00,"22M00095",907.00,9,12.00
+1110,"Standard Iced Bar (2020) 400g - Iceland","FG140788","-Standard Iced Bar (2020) PLU 59762 400g - Iceland",22.7.2020 00:00:00,"22N00003",400.00,9,12.00
+1111,"Luxury Rich Fruit Round (2020) 800g","FG140792","-Luxury Rich Fruit Round (2020) PLU 79980 800g - Iceland",8.9.2020 00:00:00,"22M00171",800.00,9,8.00
+1113,"Standard Mini Gift (2020) (RSPO-MB) 150g - TESCO","FG140693","-Standard Mini Gift (2020) (RSPO-MB) 150g - TESCO",14.7.2020 00:00:00,"22M00067",150.00,9,12.00
+1114,"Core Mini gift cake ( RSPO-MB) 2020 - ASDA","FG140777","-Core Mini gift cake ( RSPO-MB) 2020 - ASDA",16.7.2020 00:00:00,"22M00158",150.00,9,12.00
+1115,"JS Mini gift (2020) 150g RSPO-SG- Sainsbury's","FG140778","-JS Mini gift 150g (RSPO-MB) 2020- Sainsbury's",16.7.2020 00:00:00,"22M00159",150.00,9,12.00
+1116,"Core Mini gift cake ( RSPO-MB) 2020 - Waitrose","FG090609","-Core Mini gift cake ( RSPO-MB) 2020 - Waitrose",4.9.2020 00:00:00,"22M00169",150.00,9,12.00
+1117,"Finest Iced Bar 400g ( RSPO-MB) 2020- TESCO","FG140715","-Finest Iced Bar 400g ( RSPO-MB) 2020- TESCO",9.6.2020 00:00:00,"22N00001",400.00,9,12.00
+1118,"Finest Rich Fruit Round Cake 800g 2020- TESCO","FG140713","-Finest Rich Fruit Round Cake 800g (2020)- TESCO",16.7.2020 00:00:00,"22M00099",820.00,9,12.00
+1119,"Finest AOI Cake 907g (RSPO-MB) 2020 - TESCO","FG140677","-Finest AOI Cake 907g (RSPO-MB) 2020 - TESCO",27.7.2020 00:00:00,"22M00126",907.00,9,4.00
+1120,"Finest Mini Gift Cake (2020) 150g (RSPO-MB) - TESCO","FG140714","-Finest Mini Gift Cake (2020) 150g (RSPO-MB) - TESCO",17.7.2020 00:00:00,"22M00101",150.00,9,12.00
+1121,"Finest 9 Mini Selection (RSPO-MB) 2020- TESCO","FG120225","-Finest 9 Mini Selection (RSPO-MB) 2020- TESCO",14.8.2020 00:00:00,"22T10038",169.00,1,12.00
+1122,"5 Reindeer Mini Rolls (2020) (RSPO-MB, UTZ-MB)- TESCO","FG030263","-5 Reindeer Mini Rolls (RSPO-MB, UTZ-MB)2020 - TESCO",22.7.2020 00:00:00,"22C08069",142.00,2,12.00
+1123,"Yule Log (2020)(RSPO-MB; UTZ-MB) - TESCO","FG040235","-Yule Log (RSPO-MB; UTZ-MB) 2020- TESCO",22.7.2020 00:00:00,"22C08048",260.00,2,12.00
+1125,"5 Elf  Mini Rolls (RSPO-MB) 2020- ASDA","FG030273","-5 Elf  Mini Rolls (RSPO-MB) 2020- ASDA",30.10.2020 00:00:00,"22C08047",148.50,2,12.00
+1126,"Favorina Mini Gift (RSPO-MB) 2020- LIDL","FG140801","-Favorina Mini Gift (RSPO-MB) 2020- LIDL",29.7.2020 00:00:00,"22M00162",150.00,9,12.00
+1127,"Favorina Iced Bar 400g (RSPO-MB) 2020- LIDL","FG140796","-Favorina Iced Bar 400g (RSPO-MB) 2020- LIDL",21.7.2020 00:00:00,"22N00006",400.00,9,12.00
+1128,"Favorina TIR (Holly Leaves)907g (RSPO-MB) 2020- LIDL","FG140798","-Favorina TIR (Holly Leaves)907g (RSPO-MB) 2020- LIDL",21.7.2020 00:00:00,"22M00096",907.00,9,12.00
+1129,"Luxury Iced Bar (RSPO-MB) 2020-LIDL","FG140797","-Luxury Iced Bar (RSPO-MB) 2020-LIDL",20.7.2020 00:00:00,"22N00004",400.00,9,12.00
+1134,"12 Luxury Mini Mince Pies (2020) - LIDL","FG020290","-12 Luxury Mini Mince Pies (2020)(RSPO-MB) - LIDL",30.7.2020 00:00:00,"22T10018",222.00,1,12.00
+1135,"Luxury Rich Fruit  Round Cake 907g (2020)- LIDL","FG140799","-Luxury Rich Fruit  Round Cake 907g (2020)- LIDL",20.7.2020 00:00:00,"22M00127",907.00,9,8.00
+1136,"12 Luxury Mini Mince Pies (2020) - LIDL Cypr","FG020301","-12 Luxury Mini Mince Pies (2020) - LIDL Cypr",10.8.2020 00:00:00,"22T10010",225.00,1,12.00
+1137,"12 Luxury Mini Mince Pies (2020) - LIDL Malta","FG020302","-12 Luxury Mini Mince Pies (2020)-LIDL Malta",26.10.2020 00:00:00,"22T10009",225.00,1,12.00
+1138,"Favorina Iced Bar 400g (RSPO-MB) 2020- LIDL","FG140802","-Favorina Iced Bar 400g (RSPO-MB) 2020- LIDL Malta",14.8.2020 00:00:00,"22N00010",400.00,9,12.00
+1143,"Raspberry swiss Roll - Stephensons (Morrisons)","FG040243","-Raspberry swiss Roll (RSPO-SG) - Stephensons (Morrisons)",20.8.2020 00:00:00,"22R00109",195.00,3,12.00
+1144,"Chocolate Swiss Roll - Stephensons (Morrisons)","FG040242","-Chocolate Swiss Roll (RSPO-SG) - Stephensons (Morrisons)",31.8.2020 00:00:00,"22R00108",195.00,3,12.00
+1145,"MIX Luxury AOI Stencil Cake 1000g(RSPO-MB) 2020- LIDL","FG140800","-MIX Luxury AOI Stencil Cake 1000g(RSPO-MB) 2020- LIDL",17.7.2020 00:00:00,"22M00124",1000.00,9,6.00
+1146,"MIX Luxury AOI Stencil Cake 1000g(RSPO-MB) 2020- LIDL Malta","FG140803","-MIX Luxury AOI Stencil Cake 1000g(RSPO-MB) 2020- LIDL Malta",17.7.2020 00:00:00,"22M00148",1000.00,9,6.00
+1147,"MIX Luxury AOI Stencil Cake 1000g(RSPO-MB) 2020- LIDL Cypr","FG140804","-MIX Luxury AOI Stencil Cake 1000g(RSPO-MB) 2020- LIDL Cypr",17.7.2020 00:00:00,"22M00163",1000.00,9,6.00
+1151,"MIX Celebration  Cake (RSPO-MB) 9''-ALDI","FG090610","-MIX Celebration  Cake (RSPO-MB; UTZ-MB) 9''-ALDI -BREXIT",14.9.2020 00:00:00,"22M00170",900.00,8,4.00
+1152,"8 Chocolate Nom Noms -  Freemans","FG220101","8 Chocolate Nom Noms (RSPO-SG)-Freemans",20.9.2014 00:00:00,"22C08085",135.20,2,12.00
+1153,"Hoppers 9 Assorted Jam Tarts (RSPO-MB)- Iceland","FG120242","Hoppers 9 Assorted Jam Tarts (RSPO-SG)- Iceland",17.9.2020 00:00:00,"22T00253",270.00,1,16.00
+1154,"MIX Jaffa & Titan Cake Bars (RSPO-SG; RA-MB)- ALDI","FG220099","-MIX Jaffa & Titan Cake Bars (RSPO-SG;RA-MB)- ALDI",28.9.2020 00:00:00,"22C08121",127.25,2,28.00
+1155,"Torcik Jaffa Perfetto (RSPO-MB; RA-MB) ALDI","---","Torcik Jaffa Perfetto (RSPO-MB;RA-MB) ALDI",23.6.2021 00:00:00,"22C04733",38.00,2,40.00
+1156,"Cytrynowe miniroladki z kremem o smaku waniliowym z białą dekoracją RSPO-SG - Cabico","CAB001","6 Lemon mini rolls (RSPO-SG)- Cabico",23.2.2021 00:00:00,"22C09014",150.00,2,12.00
+1157,"Truskawkowe miniroladki z kremem o smaku waniliowym z różową dekoracją RSPO-MB - Cabico","CAB002","6 Strawberry mini rolls (RSPO-SG)- Cabico",23.2.2021 00:00:00,"22C09016",150.00,2,12.00
+1158,"Miniroladki oblane w czekoladzie RSPO-SG- Poundland","FG030281","-SWIC 10 Chocolate Mini Rolls (RSPO-SG)- Poundland",14.12.2020 00:00:00,"22C09013",260.00,2,12.00
+1159,"8 babeczek z kremem kakaowym w mlecznej czekoladzie (RSPO-SG)","ALD001","Babeczki kakaowe (RSPO-SG)- ALDI",1.3.2021 00:00:00,"22C00800",111.20,2,12.00
+1160,"8 babeczek z kremem kakaowym w mlecznej czekoladzie (RSPO-SG)","C001","-Babeczki kakaowe (RSPO-SG)-CMJ",13.11.2020 00:00:00,"22C00801",111.20,2,12.00
+1161,"Jagodowe miniroladki z kremem o smaku waniliowym i kakaową dekoracją RSPO-SG-Royal","ROY009","-6 Blueberry Mini rolls ( RSPO-SG) - Royal",23.2.2021 00:00:00,"22C09019",150.00,2,16.00
+1162,"Cytrynowe miniroladki z kremem o smaku waniliowym z białą dekoracją RSPO-SG-Royal","ROY008","-6 Lemon Mini rolls ( RSPO-SG) - Royal",23.2.2021 00:00:00,"22C09017",150.00,2,16.00
+1163,"Truskawakowe miniroladki z kremem o smaku waniliowym z różową dekoracją RSPO-SG - Royal","ROY010","-6 Strawberry Mini rolls ( RSPO-SG) - Royal",23.2.2021 00:00:00,"22C09018",150.00,2,16.00
+1166,"6 mini roladek czekoladowych 150g (GK013)( 5+1)","GK013","6 Mini Rolls Chocolate deco (GK013)- (RSPO-MB)",12.2.2021 00:00:00,"22C20039",150.00,2,12.00
+1167,"5 Mini Rolls Chocolate deco (GK012)- Hoppe (RSPO-MB)","GK012","5 Mini Rolls Chocolate deco (GK012)(RSPO-MB)",12.2.2021 00:00:00,"22C20040",125.00,2,12.00
+1169,"Standard AOI (2021) 907g Co-op","FG140786","-Standard AOI Triple Holly Leaves Cake (2021) 907g (RSPO-SG)- Co-op",8.7.2021 00:00:00,"22M00133",907.00,9,6.00
+1170,"Standard Iced Bar 400g (2021)(RSPO-SG)- Co-op","FG140787","-Standard Iced Bar 400g (2021)(RSPO-SG)- Co-op",28.6.2021 00:00:00,"22N00007",400.00,9,12.00
+1171,"Core Mini Gift Cake (Bow) 150g - ASDA","FG140805","-Core Mini Gift Cake (RSPO-SG) 2021- ASDA",13.7.2021 00:00:00,"22M70001",150.00,9,12.00
+1172,"12 Extra Special Mini Minice Pies (2021)- ASDA","FG020287","-12 Extra Special Mini Minice Pies (2021)-ASDA",21.6.2021 00:00:00,"22T10024",246.00,1,12.00
+1173,"12 Finest Mini Mince Pies (2021) - TESCO","FG020209","-Finest 12 Mini Mince Pies (2021)TESCO",6.7.2021 00:00:00,"22T10021",247.20,1,12.00
+1174,"9 Finest Mini's Selection Pack (2021) RSPO-SG TESCO","FG120225","-9 Finest Mini's Selection Pack (2021) UTZ-MB TESCO",8.10.2021 00:00:00,"22T10038",169.50,1,12.00
+1176,"Standard Yule Log (RSPO-SG) 2021 TESCO","FG040235","-Standard Yule Log (RSPO-SG) 2021 TESCO",20.9.2021 00:00:00,"22C08048",260.00,2,12.00
+1177,"5 Reindeer Mini Rolls (RSPO-SG) 2021 TESCO","FG030263","-5 Reindeer Mini Rolls (RSPO-SG, UTZ-MB) 2021 -TESCO",28.9.2021 00:00:00,"22C08069",142.00,2,12.00
+1178,"Standard Iced Bar (2021) 400g- ICELAND","FG140788","-Standard Iced Bar (2021) 400g - ICELAND PLU:59762",29.7.2021 00:00:00,"22N00003",400.00,9,12.00
+1179,"Luxury Iced Bar (RSPO-SG) 2021- ICELAND","FG140790","-Luxury Iced Bar 400g 2021- ICELAND",6.9.2021 00:00:00,"22N00002",400.00,9,12.00
+1180,"Finest Iced Bar (Snowflake) (RSPO-SG) 2021- TESCO","FG140715","-Finest Iced Bar 400g (RSPO-SG) 2021- TESCO",3.8.2021 00:00:00,"22N00001",400.00,9,12.00
+1181,"Standard Rich Fruit Round Cake (2021) 800g - ICELAND","FG140807","-Standard Rich Fruit Round Cake (2021) 800g - ICELAND PLU:87594",3.9.2021 00:00:00,"22M70003",800.00,9,8.00
+1182,"Finest Rich Fruit Round Cake 800g (2021) TESCO","FG140713","-Finest Rich Fruit Round Cake 800g (2021)- TESCO",14.7.2021 00:00:00,"22M00099",820.00,9,12.00
+1183,"Core Mini Gift Cake RSPO-SG (2021) -WAITROSE","FG140806","-Core Mini Gift Cake 150g (2021) (RSPO-SG) - WAITROSE",19.7.2021 00:00:00,"22M70002",150.00,9,12.00
+1184,"Luxury AOI Cake (Snowflake) 2021 ICELAND","FG140791","-Luxury AOI Cake (Snowflake) PLU:59760 2021 ICELAND",3.9.2021 00:00:00,"22M70004",1000.00,9,4.00
+1185,"Standard TIR Cake (Nordic Star) 907g (2021) ICELAND","FG140789","-Standard TIR Cake (Nordic Star) 907g (2021) ICELAND",3.9.2021 00:00:00,"22M00095",907.00,9,12.00
+1186,"Finest Mini Gift Cake (Star) (2021) 150g (RSPO-SG)- TESCO","FG140714","-Finest Mini Gift Cake (2021) 150g (RSPO-SG)-TESCO",6.8.2021 00:00:00,"22M00101",150.00,9,12.00
+1187,"Finest AOI Cake (Snowflake) 907g (2021) TESCO","FG140677","-Finest AOI Cake 907g (RSPO-SG) 2021-TESCO",20.8.2021 00:00:00,"22M00126",907.00,9,4.00
+1188,"By Sainsbury Mini Gift Cake (Tree) 150g (2021) Sainsbury's","FG090614","-Mini Gift Cake (RSPO-SG) 150g (2021) Sainsbury's",26.7.2021 00:00:00,"22M70005",150.00,9,12.00
+1189,"Standard Mini Gift Cake 150g (2021) TESCO","FG140693","-Standard Mini Gift Cake 150g (2021) (RSPO-SG)- TESCO",24.8.2021 00:00:00,"22M00067",150.00,9,12.00
+1191,"SAINSBURY'S 5 Mini Christmas Yule Pups (2021)","FG030284","-5 Mini Christmas Yule Pups (RSPO-SG)(2021) Sainsbury's",6.10.2021 00:00:00,"22C08045",135.00,2,12.00
+1192,"12 Luxury Mini Mince Pies (2021) (RSPO-SG)- LIDL","FG020315","-12 Luxury Mini Mince Pies (2021)- LIDL",27.8.2021 00:00:00,"22T60001",222.00,1,12.00
+1193,"Favorina Iced Bar (RSPO-SG) 2021 LIDL","FG140796","-Favorina Iced Bar 400g (RSPO-SG) 2021 LIDL",6.9.2021 00:00:00,"22N00006",400.00,9,12.00
+1194,"Luxury Iced Bar 400g (RSPO-SG) 2021 LIDL","FG140797","-Luxury Iced Bar (Holly Leaves) 400g (RSPO-SG) 2021 LIDL",8.10.2021 00:00:00,"22N00004",400.00,9,12.00
+1195,"Favorina Mini Gift 150g (RSPO-SG) 2021 LIDL","FG140814","-Favorina Mini Gift 150g (RSPO-SG) 2021 LIDL",21.9.2021 00:00:00,"22M70006",150.00,9,12.00
+1196,"Favorina Iced Bar (RSPO-SG) 2021 LIDL Malta/Włochy","FG140810","-Favorina Iced Bar 400g (RSPO-SG) 2021 LIDL- Włochy",6.9.2021 00:00:00,"22N00010",400.00,9,12.00
+1197,"Luxury All Over Iced 1kg (RSPO-SG) 2021 LIDL","FG140811","-Luxury All Over Iced (Stencil) 1kg (RSPO-SG) 2021 LIDL",20.9.2021 00:00:00,"22M70010",1000.00,9,6.00
+1198,"Luxury RFR 800g (RSPO-SG) 2021 LIDL","FG140799","-Luxury RFR 907g  2021 LIDL",15.9.2021 00:00:00,"22M00127",907.00,9,8.00
+1199,"6 Luxury Mince Pies (RSPO-SG) 2021 LIDL","FG020312","-6 Luxury Mince Pies 2021 LIDL",1.9.2021 00:00:00,"22T10148",360.00,1,15.00
+1200,"6 Luxury Mince Pies 2021 ICELAND","FG020310","-6 Luxury Mince Pies 2021 ICELAND",8.10.2021 00:00:00,"22T10202",351.00,1,15.00
+1201,"5 Mr Bruce Mini Rolls (2021)(RSPO-SG;UTZ-MB)- ASDA","FG030285","-5 Mr Bruce Mini Rolls (2021)(RSPO-SG;UTZ-MB)- ASDA",3.11.2021 00:00:00,"22C08046",146.00,2,12.00
+1203,"6 Luxury Mince Pies (RSPO-SG) 2021 LIDL","FG020320","-6 Luxury Mince Pies 2021 LIDL Cypr",1.9.2021 00:00:00,"22T10149",360.00,1,15.00
+1204,"6 Luxury Mince Pies (RSPO-SG) 2021 LIDL","FG020313","-6 Luxury Mince Pies 2021 LIDL Włochy",1.9.2021 00:00:00,"22T10150",360.00,1,15.00
+1205,"6 Luxury Mince Pies (RSPO-SG) 2021 LIDL","FG020314","-6 Luxury Mince Pies 2021 LIDL Serbia",1.9.2021 00:00:00,"22T10151",360.00,1,15.00
+1206,"Luxury All Over Iced 1kg (RSPO-SG) 2021 LIDL","FG140812","-Luxury All Over Iced (Stencil) 1kg (RSPO-SG) 2021 LIDL Cypr",20.9.2021 00:00:00,"22M70011",1000.00,9,6.00
+1207,"Luxury All Over Iced 1kg (RSPO-SG) 2021 LIDL","FG140813","-Luxury All Over Iced (Stencil) 1kg (RSPO-SG) 2021 LIDL Włochy",20.9.2021 00:00:00,"22M70012",1000.00,9,6.00
+1208,"Favorina Iced Bar (RSPO-SG)LIDL- Cypr","FG140809","-Favorina Iced Bar 400g (RSPO-SG) 2021 LIDL- Cypr",29.10.2021 00:00:00,"22N00011",400.00,9,12.00
+1209,"Favorina TIR 907g (RSPO-SG) 2021 LIDL","FG140808","-Favorina TIR 907g (RSPO-SG) 2021 LIDL",6.9.2021 00:00:00,"22M70007",907.00,9,12.00
+1210,"12 Luxury Mini Mince Pies (2021) (RSPO-SG)- LIDL","FG020316","-12 Luxury Mini Mince Pies (2021)- LIDL Cypr",27.8.2021 00:00:00,"22T60002",222.00,1,12.00
+1211,"12 Luxury Mini Mince Pies (2021) - LIDL","FG020317","-12 Luxury Mini Mince Pies (2021)- LIDL Włochy",27.8.2021 00:00:00,"22T60003",222.00,1,12.00
+1212,"12 Luxury Mini Mince Pies (2021) (RSPO-SG)- LIDL","FG020318","-12 Luxury Mini Mince Pies (2021)- LIDL Rumunia",27.8.2021 00:00:00,"22T60004",222.00,1,12.00
+1292,"Standard 8 Chocolate Swirly Bites 2023 TESCO","FG090518","Standard 8 Chocolate Swirly Bites(RSPO-SG;RA-MB) 2023  TESCO",31.8.2023 00:00:00,"22C00110",151.20,2,12.00
+1293,"Standard Yule Log (RSPO-SG) 2023 TESCO","FG040235","Standard Yule Log (RSPO-SG;RA-MB)2023  TESCO",13.7.2023 00:00:00,"22C08048",260.00,2,12.00
+1294,"5 Snowmen Mini Rolls (RSPO-SG, RA-MB)  -TESCO","FG030292","5 Snowman Mini Rolls (RSPO-SG, RA-MB)2023 -TESCO",5.9.2023 00:00:00,"22C08125",142.50,2,12.00
+1295,"2 Mini Mince Pies -TESCO","FG020382","2 Mini Mince Pies 2023 -TESCO",13.10.2023 00:00:00,"22T60007",41.20,1,24.00
+1296,"9 Medium All Butter Mince Pies 2023- Waitrose","FG020384","9 All Butter Mini Mince Pies 2023- Waitrose",26.7.2023 00:00:00,"22T50004",270.90,1,12.00
+1298,"Standard TIR Cake 2023- Iceland","FG140789","Standard TIR Cake 2023- Iceland",5.6.2023 00:00:00,"22M00095",907.00,9,12.00
+1299,"Standard Iced bar 2023-Iceland"," FG140788","Standard Iced bar 2023-Iceland",8.8.2023 00:00:00,"22N00003",400.00,9,12.00
+1300,"9 Mini Mince Pies 2023- Nico Foods- mrożony","FG020359","9 Mini Mince Pies 2023( RSPO-SG)- Nico Foods- mrożony",31.5.2023 00:00:00,"22T50003",235.80,1,8.00
+1301,"9 Mini Mince Pies 2023- Nico Foods- świeży","FG020358","9 Mini Mince Pies 2023(RSPO-SG)- Nico Foods- świeży",5.7.2023 00:00:00,"22T50002",235.80,1,8.00
+1302,"9 All Butter Mini mince pies 2023- Dunnes","FG020385","9 All Butter Mini mince pies 2023- Dunnes",3.10.2023 00:00:00,"22T50006",201.00,1,12.00
+1303,,"FG020395","9 Mini Mince Pies 2023(RSPO-SG)- Brakes - mrożony",21.8.2023 00:00:00,"22T50011",226.80,1,8.00
+1304,"9 Mini Mince Pies 2023- Brakes- świeży","FG020394","9 Mini Mince Pies 2023(RSPO-SG)- Brakes- świeży",21.8.2023 00:00:00,"22T50005",226.80,1,8.00
+1305,"Core Mini Gift Cake 2023 (RSPO-SG) -Waitrose","FG140823","Core Mini Gift Cake 2023 (RSPO-SG) -Waitrose",30.5.2023 00:00:00,"22M70002",150.00,9,12.00
+1306,"27 Mini Mince Pies 2023- Bookers","FG020383","27 Mini Mince Pies 2023 (RSPO-SG)- Bookers",13.7.2023 00:00:00,"22T50008",756.00,1,6.00
+1308,"Premium Iced Bar Mary Berry (RSPO-SG) 2023- ICELAND","FG140822","Premium Iced Bar 400g 2023- ICELAND",5.6.2023 00:00:00,"22N00002",400.00,9,12.00
+1309,"12 Luxury Mini Mince Pies (2023)- LIDL","FG020315","12 Luxury Mini Mince Pies (2023)- LIDL",31.7.2023 00:00:00,"22T60001",222.00,1,12.00
+1310,"Favorina Iced Bar (RSPO-SG) LIDL","FG140796","Favorina Iced Bar 400g (RSPO-SG) 2023 LIDL",11.7.2023 00:00:00,"22N00006",400.00,9,12.00
+1311,"Luxury Iced Bar 400g (RSPO-SG) LIDL","FG140797","Luxury Iced Bar (Holly Leaves) 400g (RSPO-SG) 2023 LIDL",31.7.2023 00:00:00,"22N00004",400.00,9,12.00
+1312,"Favorina Mini Gift 150g (RSPO-SG) LIDL","FG140814","Favorina Mini Gift 150g (RSPO-SG) 2023 LIDL",7.7.2023 00:00:00,"22M70006",150.00,9,12.00
+1313,"Luxury All Over Iced (RSPO-SG) LIDL 2023","FG140824","Luxury All Over Iced 907g(RSPO-SG) 2023 LIDL",19.7.2023 00:00:00,"22M70010",907.00,9,6.00
+1314,"Luxury RFR LIDL","FG140799","Luxury RFR 907g 2023 LIDL",2.8.2023 00:00:00,"22M00127",907.00,9,8.00
+1315,"6 Luxury Mince Pies -LIDL","FG020312","6 Luxury Mince Pies 2023 LIDL",19.7.2023 00:00:00,"22T10148",360.00,1,15.00
+1316,"Favorina TIR 907g (RSPO-SG) LIDL","FG140808","Favorina TIR 907g (RSPO-SG) 2023 LIDL",17.7.2023 00:00:00,"22M70007",907.00,9,12.00
+1317,"Torcik Jaffa Perfetto (RSPO-MB; RA-MB) ALDI","---","-Torcik kakaowy Perfetto (RSPO-MB;RA-MB) ALDI",23.6.2021 00:00:00,"22C04730",38.00,2,40.00
+1318,"Torcik Jaffa Perfetto (RSPO-MB; RA-MB) ALDI","---","-Torcik Jaffa Perfetto (RSPO-MB;RA-MB) ALDI",23.6.2021 00:00:00,"22C04731",38.00,2,40.00
+1319,"The Best 9 Mini Mince Pies 2023-Morrisons","FG020391","The Best 9 Mini Mince Pies 2023-Morrisons",8.8.2023 00:00:00,"22T50010",270.00,1,12.00
+1320,"6 Assorted Jam Tarts (RSPO-SG)- One Stop","FG120270","6 Assorted Jam Tarts (RSPO-SG)- One Stop",13.9.2023 00:00:00,"22T00207",180.00,1,12.00
+1321,"Rose Bouquet 2023 (RSPO-SG)-TESCO","FG090625","Rose Bouquet 2023 (RSPO-SG)-TESCO",26.9.2023 00:00:00,"22M00174",1055.00,8,2.00
+1322,"5 Reindeer Mini Rolls (RSPO-SG)-Sainsbury","FG030295","5 Reindeer Mini Rolls (RSPO-SG) 2023-Sainsbury",13.10.2023 00:00:00,"22C08045",125.00,2,12.00
+1323,"9 medium Mince Pies-Bidfood","FG020397","9 Mini Mince Pies (RSPO-SG)2023-Bidfood",6.7.2023 00:00:00,"22T50009",226.80,1,8.00
+1324,"Princess Tiara Cake 2023(RSPO-SG)-TESCO","FG090624","Princess Tiara Cake 2023(RSPO-SG)-TESCO",25.9.2023 00:00:00,"22M00173",1112.00,8,2.00
+1329,"Standard Iced Bar 400g (RSPO-SG) 2023 - Cabico","CAB0050","Standard Iced Bar 400g (RSPO-SG) 2023 - Cabico",26.9.2023 00:00:00,"22N00014",400.00,9,12.00
+1330,"6 Assorted Jam Tarts (RSPO-SG)-Aldi","FG120233","Holly Lane 6 Assorted Jam Tarts (RSPO-SG)-ALDI",16.8.2023 00:00:00,"22T00101",180.00,1,12.00
+1331,"MIX Jaffa & Dreemy Cake Bars (RSPO-SG;RA-MB)- ALDI","FG220109","MIX Jaffa & Dreemy Cake Bars (RSPO-SG;RA-MB)- ALDI",21.9.2023 00:00:00,"22C08128",119.75,2,14.00
+1332,"Ms Molly's Chocolate Celebration Cake - TESCO","FG090605","Ms Molly's Chocolate Celebration Cake (RSPO-SG;RA-MB) 2023 - TESCO",28.9.2023 00:00:00,"22M00166",934.00,8,6.00
+1337,"Beverly Manor 6 Strawberry Mini Rolls (RSPO-SG)- ALDI","FG030296","BM 6 Strawberry Mini Rolls (RSPO-SG)- ALDI",18.12.2023 00:00:00,"22C08131",114.00,2,14.00
+1343,"MIX Choceour & Dreemy Cake Bars (RSPO-SG;RA-MB)- ALDI","FG220113","MIX Choceur & Dreemy Cake Bars (RSPO-SG;RA-MB)- ALDI",8.12.2023 00:00:00,"22C08130",112.00,2,14.00
+1344,"MIX Jaffa & Titan Cake Bars (RSPO-SG;RA-MB)- ALDI","FG220112","MIX Jaffa & Titan Cake Bars (RSPO-SG;RA-MB)- ALDI",8.12.2023 00:00:00,"22C08129",127.25,2,14.00
+1345,"Biscotto Torcik czekoladowy 38g*40 (RSPO-MB; RA-MB)","---","Biscotto Torcik czekoladowy (RSPO-MB; RA-MB)-ALDI",13.12.2023 00:00:00,"22C04734",38.00,2,40.00
+1346,"Biscotto Torcik Jaffa 38g*40 (RSPO-MB, RA-MB)","---","Biscotto Torcik Jaffa (RSPO-MB, RA-MB)-ALDI",13.12.2023 00:00:00,"22C04735",38.00,2,40.00
+478,"Standard Royal Iced - Morrisons","FG140664","-Standard Royal Iced - Morrisons (2014)",7.9.2014 00:00:00,"22M00042",900.00,8,4.00
+480,"Standard AOI Reindeer - Morrisons","FG140660","-Standard AOI Reindeer - Morrisons (2014)",5.9.2014 00:00:00,"22M00038",900.00,8,4.00
+481,"Signatur AOI Snowflake - Morrisons","FG140666","-Signature Shimmering Snowflake Christmas Cake Infuse with Brandy - Morrisons (2014)",18.6.2014 00:00:00,"22M00045",1200.00,7,4.00
+482,"Signature AOI Tree - Morrisons","FG140667","-Signature Golden Tree Christmas Cake Infused with Brandy - Morrisons (2014)",18.6.2014 00:00:00,"22M00046",1000.00,8,4.00
+483,"Signature Nut  Cluster - Morrisons","FG140668","-Signature Jewelled Fruit&Nut Chrismas Cake - Morrisons (2014)",18.6.2014 00:00:00,"22M00047",1000.00,8,4.00
+485,"Signature AOI Poinsettia - Morrisons","FG140669","-Signature Festive Christmas Cake infused with Brandy - Morrisons(Poinsettia) (2014)",18.6.2014 00:00:00,"22M00044",500.00,8,6.00
+490,"Luxury All Over Iced -Iceland 1200e","FG140676","-Luxury AOI - Iceland (2014)",12.9.2014 00:00:00,"22M00053",1200.00,8,4.00
+491,"Top Iced Round - Iceland 681e","FG140675","-Top Iced Round - Iceland (2014)",12.9.2014 00:00:00,"22M00052",681.00,8,12.00
+492,"Standard AOI Button Cake - TESCO","FG140670","-Standard AOI Button Cake - TESCO (2014)",7.9.2014 00:00:00,"22M00050",1000.00,8,4.00
+494,"Finest AOI Holly - TESCO","FG140677","-Finest AOI Holly - TESCO (2014)",7.7.2014 00:00:00,"22M00054",907.00,8,4.00
+497,"6 Mini Raspberry Trifle Pies - TESCO","FG190010","-6 Mini Raspberry Trifle Pies - TESCO (2014)",26.8.2014 00:00:00,"22T10026",123.00,1,12.00
+499,"AOI Xmas - Traidcraft","FG140679","-AOI Xmas - Traidcraft",23.7.2014 00:00:00,"22M00033",907.00,8,4.00
+501,"12 Luxury Mini Mince Pies - Assortment","FG020213","-12 Luxury Mini Mince Pies - Assortment (2014)",10.10.2014 00:00:00,"22T10023",240.00,1,12.00
+502,"15 Jaffa Cake Bites - ASDA","FG240009","-15 Jaffa Cake Bites",28.8.2014 00:00:00,"22C00106",277.50,2,4.00
+503,"15 Mini Caramel Cake Bites - ASDA","FG240008","-15 Mini Caramel Cake Bites",28.8.2014 00:00:00,"22C00105",285.00,3,4.00
+504,"15 Mini Jazzie Cake Bites - ASDA","FG240010","-15 Mini Jazzie Cake Bites",11.8.2014 00:00:00,"22C00107",292.50,2,4.00
+505,"15 Mini Mallow Cake Bites -ASDA","FG240011","-15 Mini Mallow Cake Bites",11.8.2014 00:00:00,"22C00108",292.50,2,4.00
+506,"Charlie the Chocolate Gingerbread Man","FG090519","-Charlie the Chocolate Gingerbread Man (RSPO-MB)",8.7.2014 00:00:00,"22C00104",1443.00,2,2.00
+507,"12 ES Mini Tarts - choco orange, salted caramel","FG120203","-12 ES Mini Tarts - choco orange, salted caramel",7.10.2014 00:00:00,"22T10028",240.00,1,12.00
+508,"TOE-CURLING Tub of Mini Rolls","FG030234","-TOE-CURLING Tub of Mini Rolls",23.9.2014 00:00:00,"22C00109",285.00,2,8.00
+509,"M&M's Sofa Cake","FG090529","-M&M's Sofa Cake",16.4.2014 00:00:00,"22M00035",1587.00,8,2.00
+510,"Happy Birthday Cubes - TESCO","FG090513","-Happy Birthday Cubes - TESCO (RSPO-MB)",11.8.2014 00:00:00,"22C00103",749.90,2,2.00
+512,"Galaxy Traybake","FG080052","-Galaxy Treat Cake",1.9.2014 00:00:00,"22S00007",675.00,7,4.00
+513,"Farmyard Friends","FG090485","-Farmyard Friends",4.8.2014 00:00:00,"22M00022",975.00,8,1.00
+514,"Everyday Essentials 6 Mine Pies -ALDI","FG020193","-Everyday Essentials 6 Mince  Pies -ALDI (2014)",3.9.2014 00:00:00,"22T10031",234.00,1,12.00
+515,"AOI Xmas - Traidcraft","FG140680","-AOI Xmas - Traidcraft (2014)",23.7.2014 00:00:00,"22M00034",907.00,8,4.00
+518,"Chocolate Cake - Say it with Cake","FG090514","-Chocolate Cake - Say it with Cake",25.8.2014 00:00:00,"22M00036",1690.00,8,1.00
+519,"Chocolate Swirl Bites","FG090518","-8 Chocolate Swirl Bites (2014)",26.8.2014 00:00:00,"22C00110",151.20,2,12.00
+520,"Carrot Cake - Say it with Cake","FG090515","-Carrot Cake - Say it with Cake",1.9.2014 00:00:00,"22M00037",1635.00,8,1.00
+521,"Princess Celebration Cake","FG090521","-Princess Celebration Cake (2015)",7.9.2014 00:00:00,"22M00056",1222.00,8,2.00
+522,"Japanese Blossom Celebration Cake","FG090524","-Japanese Blossom Celebration Cake",7.9.2014 00:00:00,"22M00059",908.50,8,2.00
+523,"Rose Bouquet Celebration Cake","FG090520","-Rose Bouquet Celebration Cake(2015)",7.9.2014 00:00:00,"22M00055",1075.60,8,2.00
+524,"Stuffed Crust Celebration Cake","FG090522","-Stuffed Crust Celebration Cake (RSPO-MB)",30.9.2014 00:00:00,"22M00057",1558.50,7,2.00
+525,"Swiss Gateaux Cake","FG090523","-Swiss Gateaux Cake",29.10.2014 00:00:00,"22M00058",965.00,8,2.00
+526,"Value 6 Mince Pies - Hoppers","FG020203","-6 Mince Pies - Hoppers (RSPO-MB)",8.9.2014 00:00:00,"22T10032",231.00,1,12.00
+529,"ZOO Animale Cake - Morrisons","FG090516","-ZOO Animal Cake - Morrisons",1.9.2014 00:00:00,"22M00023",1013.00,8,1.00
+530,"Express 2 Mini Mince Pies","FG020211","-2 Mini Mince Pies -TESCO (2014)",28.8.2014 00:00:00,"22T10030",44.40,1,12.00
+532,"Raspberry swiss Roll - Morrisons","FG040196","-Raspberry swiss Roll - Morrisons (RSPO-MB)",29.12.2014 00:00:00,"22R00109",195.00,3,12.00
+533,"Chocolate Swiss Roll - Morrisons","FG040195","-Chocolate Swiss Roll (RSPO-MB)- Morrisons",29.12.2014 00:00:00,"22R00108",195.00,3,12.00
+539,"Roladka malinowa z kremem waniliowym, dekorowana różową polewą","VOS02","-Raspberry mini rolls with pink deco stripes VOS02 (RSPO-MB)",6.11.2014 00:00:00,"22C20073",150.00,6,12.00
+545,"9 Assorted Jam Tarts","FG120208","-Hoppers 9 Assorted Jam Tarts - Iceland - 16 szt (RSPO-MB)",13.3.2012 00:00:00,"22T00248",270.00,1,16.00
+546,"9 Assorted Jam Tarts","FG120209","-Hoppers 9 Assorted Jam Tarts (RSPO-SG)- TESCO",8.3.2012 00:00:00,"22T00251",270.00,1,16.00
+547,,"FG090530","-MIX Holly Lane Cake (RSPO-MB)",6.10.2014 00:00:00,"22M00062",1100.00,8,4.00
+548,"9 Assorted Jam Tarts","FG120210","Hoppers 9 Assorted Jam Tarts - Freemans (RSPO-SG)",16.12.2014 00:00:00,"22T00252",270.00,1,16.00
+550,"Mars Bar Cake","FG090534","-Mars Bar Cake",18.2.2015 00:00:00,"22M00065",1165.00,2,2.00
+555,"6 Chocolade cakerolletjes met creme JL003","JL003","-6 Chocolade cakerolletjes met creme JL003 (RSPO-MB)",22.1.2015 00:00:00,"22C20028",150.00,2,12.00
+582,"6 Chocolade cakerolletjes FAN03","FAN03","-6 Chocolade cakerolletjes  FAN03 (UTZ-MB,RSPO-MB)",10.3.2015 00:00:00,"22C20007",150.00,2,12.00
+583,"Mini Top Iced Gift Cake -TESCO*","FG140693","-Mini Top Iced Rich Fruit Cake (Mini Gift Cake) -TESCO*(2015)",8.6.2015 00:00:00,"22M00067",150.00,8,12.00
+586,"6 Chocolade Cakerolletjes CO003","CO003","-6 Chocolade Cakerolletjes CO003 (UTZ-MB,RSPO-MB)",27.4.2015 00:00:00,"22C20008",150.00,2,12.00
+587,"12 Snowy Lodge luxury Mini Mince Pies - LIDL","FG020233","-12 Snowy Lodge  Mini Mince Pies - LIDL*(2015)",10.9.2015 00:00:00,"22T10020",246.30,1,24.00
+590,"6 Value Mince pies -TESCO","FG020176","-6 Value Mince pies -TESCO*(2015)",24.7.2015 00:00:00,"22T10128",234.00,1,24.00
+591,,"FG120212","-12 ES Salted Caramel & Ginger Tarts*(2015)",6.7.2015 00:00:00,"22T10033",186.00,1,12.00
+592,"12 ES Mini Mince Pies - ASDA","FG020229","-12 ES Luxury Mini Mince Pies*(2015)",6.7.2015 00:00:00,"22T10108",243.60,1,12.00
+599,"Galaxy Caramel Cake - Mars","FG090536","-Galaxy Secret Caramel Center",30.6.2015 00:00:00,"22M00072",1851.00,8,1.00
+602,"9 Assorted Jam Tarts - Bronte","FG120214","-9 Assorted Jam Tarts - Bronte (RSPO-MB)",7.7.2015 00:00:00,"22T10140",270.00,1,16.00
+603,"8 Chocolate Swirl Bites","FG090518","-8 Chocolate Swirl Bites (2015)",7.10.2015 00:00:00,"22C00110",151.20,2,12.00
+604,"9 Assorted Jam Tarts","FG120219","-9 Assorted Jam Tarts Iceland(RSPO-MB)",7.9.2016 00:00:00,"22T10141",270.00,1,16.00
+605,"9 Mini All Butter Mince pies","FG020202","-9 Mini All Butter Mince pies (2015) - M&S",27.11.2015 00:00:00,"22T10019",170.00,1,12.00
+607,"8 Strawberry Nom Noms - Hoppers","FG220083","-8 Strawberry Nom Noms (RSPO-MB)",18.4.2016 00:00:00,"22C08086",135.00,2,12.00
+609,"Standard TIR (2016) 907g -LIDL","FG140718","-Standard Favorina Top Iced Round Cake(2016) 907g -LIDL",27.4.2016 00:00:00,"22M00096",907.00,8,12.00
+610,"Luxury AOI Star Cake(2016) 1000g -LIDL","FG140716","-Luxury AOI Star Cake(2016) 1000g -LIDL",26.9.2016 00:00:00,"22M00102",1000.00,8,6.00
+611,"Luxury AOI WOW Cake (2016) 1500g -LIDL","FG140719","-Luxury Hand Crafted Christmas Cake (2016) 1500g -LIDL",31.10.2016 00:00:00,"22M00104",1500.00,8,4.00
+612,"12 Luxury Mini Mince Pies (2016) -LIDL","FG020240","-12 Luxury Mini Mince Pies (2016) -LIDL",27.4.2016 00:00:00,"22T10018",225.00,1,12.00
+615,"Standard Top Iced Cake (2016) 900g -Iceland","FG140726","-Standard Top Iced Round Cake (2016) 900g -Iceland (RSPO-SG)",16.8.2016 00:00:00,"22M00095",923.20,8,12.00
+620,"Luxury AOI Bauble cake (2016) 1000g -Iceland","FG140721","-Luxury AOI Bauble Cake (2016)1000g -Iceland (RSPO- SG)",29.4.2016 00:00:00,"22M00073",1000.00,8,4.00
+624,"donut
+Standard Mini Top Iceland Gift (RSPO-SG) - Iceland","FG140724","-Standard Mini Top Iceland Gift (RSPO-SG) - Iceland",4.8.2016 00:00:00,"22M00094",150.00,8,24.00
+625,"Finest Mini Top Iced (2016) 150g - TESCO","FG140714","-Finest Mini Top Iced (2016) 150g - TESCO",21.9.2016 00:00:00,"22M00101",150.00,8,12.00
+626,"Finest AOI Tree (2016) 900g -TESCO","FG140677","-Finest AOI Tree (2016) 907g -TESCO",16.9.2016 00:00:00,"22M00098",907.00,8,4.00
+627,"Finest Rich Fruit round Cake (2016) 800g -TESCO","FG140713","-Finest Rich Fruit Round Cake (2016) 800g -TESCO",8.9.2016 00:00:00,"22M00099",800.00,8,12.00
+628,"Luxury Iced Bar (2016) 400g -Lidl","FG140717","-Luxury Iced Bar (2016) 400g -Lidl",19.9.2016 00:00:00,"22N00004",400.00,8,12.00
+629,"Standard Iced Bar (2016) 400g - Iceland","FG140722","-Standard Iced Bar (2016) 400g - Iceland (RSPO-SG)",26.8.2016 00:00:00,"22N00003",400.00,8,12.00
+630,"Luxury Iced Bar (2016) 400g - Iceland","FG140723","-Luxury Iced Bar (2016) 400g - Iceland (RSPO-SG)",7.9.2016 00:00:00,"22N00002",400.00,8,12.00
+631,"Yule logs - Iceland","FG140727","-Luxury Snowflake Yule Log- Iceland (RSPO-SG)",25.10.2016 00:00:00,"22C08077",329.00,2,6.00
+632,"12 Mini Selection Salted Caramel Tarts (2016) - Iceland","FG140725","-12 Luxury Mini Salted Caramel Tarts (2016) - Iceland (RSPO-SG)Mini Mince",21.9.2016 00:00:00,"22T10016",160.00,1,12.00
+633,"Standard Mini Top Iced (2016) -TESCO -150g","FG140693","-Standard Mini Top Iced Gift Cake -(2016)-TESCO (RSPO-MB)",22.7.2016 00:00:00,"22M00067",174.00,8,12.00
+634,"Finest Iced Bar (2016)400g -TESCO","FG140715","-Finest Iced Bar -Snowflakes Emboss (2016) 400g TESCO (RSPO-MB)",12.9.2016 00:00:00,"22N00001",400.00,8,12.00
+635,"Finest Snowflake Cascade Christmas Cake (2016) 1500g -TESCO (RSPO-MB)","FG140728","-Finest Snowflake Cascade Christmas Cake (2016) 1500g -TESCO (RSPO-MB)",15.11.2016 00:00:00,"22M00105",1500.00,8,1.00
+636,"Finest 12 Mini Mince Pies (2016) -TESCO -świeże","FG020209","-Finest 12 Mini Mince Pies (2016) -TESCO",10.5.2016 00:00:00,"22T10021",243.60,1,12.00
+639,"12 Luxury  Mini Mince Pies (2016) -Iceland (RSPO-MB)","FG020242","-12 Luxury  Mini Mince Pies (2016) -Iceland (RSPO-MB)",10.5.2016 00:00:00,"22T10017",243.60,1,12.00
+640,"9 Mini All Butter Mince pies (2016) -M&S","FG020202","-9 Mini Classic Mince Pies (2016) -M&S",10.5.2016 00:00:00,"22T10019",170.00,1,12.00
+644,"Chocolate Donut Cake - TESCO Europa","TCE003","-Say it With Cake- Chocolate Donut Cake - TESCO Europa",21.7.2016 00:00:00,"22M00075, 22M00078, 22M00081, 22M00084",285.00,8,6.00
+645,"Strawberry Donut Cake - TESCO Europa","TCE004","-Say it With Cake- Strawberry Donut Cake - TESCO Europa",23.5.2016 00:00:00,"22M00078, 22M00079, 22M00082, 22M00085",285.00,8,6.00
+646,"MIX 12 American Mini Tarts (6+6) - Aldente","AD01","-MIX 12 American Mini Tarts (6+6) - Aldente",31.5.2016 00:00:00,"22T00519",260.00,1,12.00
+815,"Simnel Bar (2018) (RSPO-MB) -Co-op","FG140751","-Simnel Cake Bar (2018) (RSPO-MB) -Co-op",13.2.2018 00:00:00,"22N00008",400.00,9,12.00
+817,"9 Lemon Curd Tarts (RSPO MB) - Hoppers","FG120226","9 Lemon Curd Tarts (RSPO SG) - Hoppers",22.11.2017 00:00:00,"22T00420",270.00,1,16.00
+818,"SIWC 5 Mini Caterpillar (RSPO SG) -Sainsbury","FG090558","5 Mini Wiggles Caterpillar (RSPO-SG) -Sainsbury's",5.2.2018 00:00:00,"22C08107",150.00,2,12.00
+820,"Mothers Day Cubes (RSPO-MB) (2018)- ASDA","FG090554","-4 Mothers Day Cubes (RSPO-MB) (2018)- ASDA",29.1.2018 00:00:00,"22C00137",201.00,2,12.00
+821,"Chocolate Swiss Roll (RSPO MB)- Safeway","FG040214","-Chocolate Swiss Roll (RSPO MB)- Safeway",6.12.2017 00:00:00,"22R00017",195.00,3,12.00
+822,"Tesco Jumbo Straw/Van Swiss Roll","FG040038","-Jumbo Strawberry & Vanilla Swiss Roll (RSPO-MB) - MROŻONE",26.6.2009 00:00:00,"22R00011",390.00,3,12.00
+823,"4 Mother's Day Cubes				 (RSPO-MB) (2018)- TESCO","FG090543","-4 Mother's Day Cubes				 (RSPO-MB) (2018)- TESCO",29.1.2018 00:00:00,"22C00135",197.50,2,12.00
+824,"6 Easter Cubes ( RSPO-MB) (2018)- TESCO317","FG090544","-6 Easter Cubes ( RSPO-MB) (2018)- TESCO",8.2.2018 00:00:00,"22C00134",317.00,2,8.00
+825,"SIWC Caramel Cake Fingers - Co-op (RSPO-MB)","FG220088","-SIWC Caramel Cake Fingers - Co-op (RSPO-MB)",4.12.2017 00:00:00,"22C08098",140.00,2,12.00
+826,"5 Titan Cake Bar - TESCO Europa (RSPO-MB)","TCE013","-SIWC 5 Cosmic Cake Bars  - TESCO Europa (RSPO-MB)",26.2.2018 00:00:00,"22C08099,22C08100,22C08102,",132.00,2,12.00
+827,"5 Dreemy Cake Bars - TESCO Europa (RSPO-MB)","TCE014","-SIWC 5 Luna Cake Bars  - TESCO Europa(RSPO-MB)",26.2.2018 00:00:00,"22C08103.22C08104,22C08105,22C08106",115.00,2,12.00
+829,"Tesco Easter Chocolate Egg Cake","FG090555","-Easter Smash Cake (2018) - TESCO",5.3.2018 00:00:00,"22M00138",650.20,8,4.00
+830,"-2 Heart Chocolate Cubes RSPO-MB (2018) - TESCO","FG090542","-2 Heart Chocolate Cubes RSPO-MB (2018) - TESCO",11.1.2018 00:00:00,"22C00129",104.00,2,16.00
+831,"Flamingo Celebration Cake - TESCO","FG100051FG090595","-Flamingo Celebration Cake( RSPO-MB;UTZ-MB) - TESCO",17.5.2018 00:00:00,"22M00139",1062.00,8,2.00
+835,"5 Titan Cake Bar - TESCO Europa (RSPO-MB)","TCE013","-SIWC Cosmic Cake Bars *12 PL (RSPO-MB)",26.2.2018 00:00:00,"22C08099",132.00,2,12.00
+836,"5 Titan Cake Bar - TESCO Europa (RSPO-MB)","TCE013","-SIWC Cosmic Cake Bars *12 CZ (RSPO-MB)",26.2.2018 00:00:00,"22C08100",132.00,2,12.00
+837,"5 Titan Cake Bar - TESCO Europa (RSPO-MB)","TCE013","-SIWC Cosmic Cake Bars *12 SK (RSPO-MB)",26.2.2018 00:00:00,"22C08101",132.00,2,12.00
+838,"5 Titan Cake Bar - TESCO Europa (RSPO-MB)","TCE013","-SIWC Cosmic Cake Bars *12 HU (RSPO-MB)",26.2.2018 00:00:00,"22C08102",132.00,2,12.00
+839,"5 Dreemy Cake Bars - TESCO Europa (RSPO-MB)","TCE014","-SIWC Luna Cake Bars *12 PL (RSPO-MB)",26.2.2018 00:00:00,"22C08103",115.00,2,12.00
+840,"5 Dreemy Cake Bars - TESCO Europa (RSPO-MB)","TCE014","-SIWC Luna Cake Bars *12 CZ (RSPO-MB)",26.2.2018 00:00:00,"22C08104",115.00,2,12.00
+841,"5 Dreemy Cake Bars - TESCO Europa (RSPO-MB)","TCE014","-SIWC Luna Cake Bars *12 SK (RSPO-MB)",26.2.2018 00:00:00,"22C08105",115.00,2,12.00
+842,"5 Dreemy Cake Bars - TESCO Europa (RSPO-MB)","TCE014","-SIWC Luna Cake Bars *12 HU (RSPO-MB)",26.2.2018 00:00:00,"22C08106",115.00,2,12.00
+844,"4 Chocolate Buttercream mini rolls - Aldente  (RSPO-MB","AD0003","-4 Chocolate Mini Rolls - Aldente  (RSPO-MB;UTZ-MB)",10.4.2018 00:00:00,"22C08055",108.00,2,10.00
+845,"4 Caramel Mini Rolls - Aldente (RSPO-MB;UTZ-MB)","AD0002","-4 Caramel Mini Rolls - Aldente (RSPO-MB;UTZ-MB)",10.4.2018 00:00:00,"22C08056",108.00,2,10.00
+846,"SIWC Caramel Cake Fingers - TESCO Europa (RSPO-MB)","TCE015","-SIWC Caramel Fingers *16 PL (RSPO-MB)",26.2.2018 00:00:00,"22C08092",140.00,2,16.00
+847,"SIWC Caramel Cake Fingers - TESCO Europa (RSPO-MB)","TCE015","-SIWC Caramel Fingers *16 CZ (RSPO-MB)",26.2.2018 00:00:00,"22C08093",140.00,2,16.00
+848,"SIWC Caramel Cake Fingers - TESCO Europa (RSPO-MB)","TCE015","-SIWC Caramel Fingers *16 SK (RSPO-MB)",26.2.2018 00:00:00,"22C08094",140.00,2,16.00
+849,"SIWC Caramel Cake Fingers - TESCO Europa (RSPO-MB)","TCE015","-SIWC Caramel Fingers *16 HU (RSPO-MB)",26.2.2018 00:00:00,"22C08095",140.00,2,16.00
+850,"Biszkopty o smaku waniliowym Dellovi - NETTO","NET001","-Biszkopty o smaku waniliowym Dellovi - NETTO",20.3.2018 00:00:00,"22B01451",180.00,5,8.00
+851,"Holly Lane	 Iced  Bar 400g (2018) -Aldi","FG140759","-Holly Lane	 Iced  Bar 400g (2018) -Aldi",5.6.2018 00:00:00,"22N00009",400.00,9,12.00
+852,"Holly Lane	TIR( Holly Leaves) 907g (2018) - Aldi","FG140760","-Holly Lane	TIR( Holly Leaves) 907g (2018) - Aldi",19.6.2018 00:00:00,"22M00142",907.00,9,12.00
+855,"S/S Exquisite	 Chocolate WOW (Bauble) (2018) - Aldi","FG140762","-S/S Exquisite	 Chocolate WOW (Bauble) (2018) - Aldi",24.10.2018 00:00:00,"22M00152",820.00,8,2.00
+856,"S/S Exquisite WOW (Wreath Leaves) 1500g ( 2018) -Aldi","FG140761","-S/S Exquisite WOW (Wreath Leaves) 1500g ( 2018) -Aldi",5.6.2018 00:00:00,"22M00140",1500.00,9,2.00
+857,"Favorina TIR (Holly Leaves) 907g ( 2018) -Lidl","FG140718","-Favorina TIR (Holly Leaves) 907g ( 2018) -Lidl",19.7.2018 00:00:00,"22M00096",907.00,9,12.00
+859,"Standard Iced Bar 400g (2018) - Co-op","FG140750","-Standard Iced Bar 400g (2018) - Co-op",16.7.2018 00:00:00,"22N00007",400.00,9,12.00
+863,"Finest AOI (Tree) 907g (2018)-TESCO","FG140677","-Finest AOI (Tree) 907g (2018)-TESCO",26.6.2018 00:00:00,"22M00126",907.00,9,4.00
+864,"Standard Mini Gift 150g (2018)-TESCO","FG140693","-Standard Mini Gift 150g (2018)-TESCO",18.6.2018 00:00:00,"22M00067",150.00,9,12.00
+865,"Finest Iced Bar( Snowflakes) 400g (2018) -TESCO","FG140715","-Finest Iced Bar( Snowflakes) 400g (2018) -TESCO",18.6.2018 00:00:00,"22N00001",400.00,8,12.00
+866,"Finest Rich Fruit Round 800g (2018)- TESCO","FG140713","-Finest Rich Fruit Round 800g (2018)- TESCO",19.6.2018 00:00:00,"22M00099",800.00,9,12.00
+868,"Finest 9 Mini's Selection Pack (2018) -TESCO","FG120225","-Finest 9 Mini's Selection Pack (2018) -TESCO",16.11.2018 00:00:00,"22T10038",161.00,1,12.00
+869,"Finest 12 Mini Mince Pies (2018) -TESCO","FG020209","-Finest 12 Mini Mince Pies (2019) -TESCO - MROŻONE",27.6.2018 00:00:00,"22T10021",243.60,1,12.00
+870,"9 Assorted Jam Tarts Palm Free Iceland","FG120229","-9 Assorted Jam Tarts - Iceland (Palm Free)",16.4.2018 00:00:00,"22T10141",270.00,1,16.00
+871,"3/4 Chocolate & Vanilla Swiss Roll - Iceland Plam Free","FG040198","-Chocolate & Vanilla Swiss Roll - Iceland (Palm Free)",10.5.2018 00:00:00,"22R00014",300.00,3,12.00
+872,"Raspberry & Vanilla swiss Roll - Iceland (Palm Free)","FG040197","-Raspberry & Vanilla swiss Roll - Iceland (Palm Free)",10.5.2018 00:00:00,"22R00015",300.00,3,12.00
+1213,"12 Luxury Mini Mince Pies (2021) (RSPO-SG)- LIDL","FG020319","-12 Luxury Mini Mince Pies (2021) - LIDL WyspyKanaryjskie",27.8.2021 00:00:00,"22T60005",222.00,1,12.00
+1217,"Hoppers Jumbo Chocolate & Vanilla Swiss Roll ( RSPO-SG)","FG040258","Hoppers Jumbo Chocolate & Vanilla Swiss Roll (RSPO-SG)- Iceland",29.10.2021 00:00:00,"22R00008",390.00,3,12.00
+1218,"Hoppers Jumbo Raspberry & Vanilla Swiss Roll (RSPO-SG)- Iceland","FG040262","-Hoppers Jumbo Raspberry & Vanilla Swiss Roll (RSPO-SG)- Iceland",2.11.2021 00:00:00,"22R00009",390.00,3,12.00
+1219,"Jumbo Chocolate Swiss Roll( RSPO-SG)-Sainsbury Lovett's","FG040261","Jumbo Chocolate Swiss Roll (RSPO-SG)-Sainsbury",8.3.2022 00:00:00,"22R01402",365.00,3,12.00
+1220,"Jumbo Strawberry Swiss Roll( RSPO-SG)-Sainsbury","FG040260","Jumbo Strawberry Swiss Roll( RSPO-SG)-Sainsbury",8.3.2022 00:00:00,"22R01401",365.00,3,12.00
+1222,"Cuthber the Catepillar Cake (RSPO-SG;RA-MB)- Aldi","FG090602","Cuthbert the Catepillar Cake (RSPO-SG;RA-MB)- Aldi",26.4.2022 00:00:00,"22C08122",625.00,2,6.00
+1223,"15 Milk Chocolate Happy Birthday Cubes (L-8)(RSPO-SG) - Sainsbury","FG090615","15 Milk Chocolate Happy Birthday Cubes (L-8)(RSPO-SG) - Sainsbury's",7.3.2022 00:00:00,"22C00136",660.00,2,2.00
+1224,"12 Finest Mini Mince Pies (2022) - TESCO","FG020209","-Finest 12 Mini Mince Pies (2022)TESCO",13.6.2022 00:00:00,"22T10021",247.20,1,12.00
+1225,"9 Finest Mini's Selection Pack (2022) RF-MB TESCO","FG120225","-9 Finest Mini's Selection Pack (RA-MB) 2022- TESCO",19.9.2022 00:00:00,"22T10038",169.50,1,12.00
+1227,"Standard Yule Log (RSPO-SG) 2022 TESCO","FG040235","-Standard Yule Log (RSPO-SG;RA-MB) 2022 TESCO",1.9.2022 00:00:00,"22C08048",260.00,2,12.00
+1228,"5 Reindeer Mini Rolls (RSPO-SG) 2022 TESCO","FG030263","-5 Reindeer Mini Rolls (RSPO-SG, RA-MB) 2022 -TESCO",26.10.2022 00:00:00,"22C08069",142.00,2,12.00
+1229,"Finest Iced Bar (Snowflake) (RSPO-SG) 2022- TESCO","FG140715","-Finest Iced Bar 400g (RSPO-SG) 2022- TESCO",15.7.2022 00:00:00,"22N00001",400.00,9,12.00
+1230,"Finest Mini Gift Cake (Star) (2022) 150g (RSPO-SG)- TESCO","FG140714","-Finest Mini Gift Cake 150g (RSPO-SG) 2022-TESCO",6.7.2022 00:00:00,"22M00101",150.00,9,12.00
+1231,"Finest AOI Cake (Snowflake) 907g (2022) TESCO","FG140677","-Finest AOI Cake 907g (RSPO-SG) 2022-TESCO",25.7.2022 00:00:00,"22M00126",907.00,9,4.00
+1232,"Finest Rich Fruit Round Cake 800g (2022) TESCO","FG140713","-Finest Rich Fruit Round Cake 800g (2022)- TESCO",25.7.2022 00:00:00,"22M00099",820.00,9,12.00
+1233,"Core Mini Gift Cake RSPO-SG (2022) -WAITROSE","FG140806","-Core Mini Gift Cake 150g (2022) (RSPO-SG) - WAITROSE",6.7.2022 00:00:00,"22M70002",150.00,9,12.00
+1234,"Standard Iced Bar (RSPO-SG) 2022-Cabico","CAB0050","-Standard Iced Bar (RSPO-SG) 2022-Cabico",29.8.2022 00:00:00,"22N00014",400.00,9,12.00
+1235,"Standard Iced Bar (2022) 400g- ICELAND"," FG140788","-Standard Iced Bar (2022) 400g - ICELAND",25.7.2022 00:00:00,"22N00003",400.00,9,12.00
+1236,"Luxury Iced Bar (RSPO-SG) 2022- ICELAND","FG140790","-Luxury Iced Bar 400g 2022- ICELAND",28.6.2022 00:00:00,"22N00002",400.00,9,12.00
+1237,"Luxury AOI Cake 2022 ICELAND","FG140791","-Luxury AOI Cake (Geo Star) 2022 ICELAND",28.7.2022 00:00:00,"22M70004",1000.00,9,4.00
+1238,"Standard TIR Cake (Nordic Star) 907g (2022) ICELAND","FG140789","-Standard TIR Cake 907g (2022) ICELAND",1.8.2022 00:00:00,"22M00095",907.00,9,12.00
+1239,"6 Luxury Mince Pies 2022 ICELAND","FG020310","-6 Luxury Mince Pies 2022 ICELAND",11.8.2022 00:00:00,"22T10202",351.00,1,15.00
+1240,"Standard Rich Fruit Round Cake (2022) 800g - ICELAND","FG140807","-Standard Rich Fruit Round Cake (2022) 800g - ICELAND",26.7.2022 00:00:00,"22M70003",800.00,9,8.00
+1241,"Standard AOI (2022) 907g Co-op","FG140786","-Standard AOI Cake (2022) 907g (RSPO-SG)- Co-op",6.7.2022 00:00:00,"22M00133",907.00,9,6.00
+1242,"Standard Iced Bar 400g (2022)(RSPO-SG)- Co-op","FG140787","-Standard Iced Bar 400g (2022)(RSPO-SG)- Co-op",28.6.2022 00:00:00,"22N00007",400.00,9,12.00
+1243,"6 Assorted Jam Tarts  ( RSPO-SG)-Bookers","FG120261","6 Assorted Jam Tarts (RSPO-SG)-Bookers",12.10.2022 00:00:00,"22T10137",180.00,1,6.00
+1247,"Raspberry & Cream (Swiss Rolls) ROYAL-Dania (22489)","ROYD05","Raspberry & Cream (Swiss Rolls)(RSPO-SG) ROYAL  Dania(22489)",17.5.2022 00:00:00,"22R01210",300.00,3,6.00
+1248,"12 Luxury Mini Mince Pies (2022)- LIDL","FG020315","-12 Luxury Mini Mince Pies (2022)- LIDL",4.7.2022 00:00:00,"22T60001",222.00,1,12.00
+1249,"Favorina Iced Bar (RSPO-SG) LIDL","FG140796","-Favorina Iced Bar 400g (RSPO-SG) 2022 LIDL",1.8.2022 00:00:00,"22N00006",400.00,9,12.00
+1250,"Luxury Iced Bar 400g (RSPO-SG) LIDL","FG140797","-Luxury Iced Bar (Holly Leaves) 400g (RSPO-SG) 2022 LIDL",1.8.2022 00:00:00,"22N00004",400.00,9,12.00
+1251,"Favorina Mini Gift 150g (RSPO-SG) LIDL","FG140814","-Favorina Mini Gift 150g (RSPO-SG) 2022 LIDL",18.8.2022 00:00:00,"22M70006",150.00,9,12.00
+1252,"Luxury All Over Iced 1kg (RSPO-SG) LIDL","FG140811","-Luxury All Over Iced (Stencil) 1kg (RSPO-SG) 2022 LIDL",29.8.2022 00:00:00,"22M70010",1000.00,9,6.00
+1253,"Luxury RFR 800g (RSPO-SG) LIDL","FG140799","-Luxury RFR 907g 2022 LIDL",19.8.2022 00:00:00,"22M00127",907.00,9,8.00
+1254,"6 Luxury Mince Pies -LIDL","FG020312","-6 Luxury Mince Pies 2022 LIDL",22.8.2022 00:00:00,"22T10148",360.00,1,15.00
+1255,"Favorina TIR 907g (RSPO-SG) LIDL","FG140808","-Favorina TIR 907g (RSPO-SG) 2022 LIDL",1.8.2022 00:00:00,"22M70007",907.00,9,12.00
+1257,"Happy Birthay Cubes (RSPO-SG) - Waitrose","FG090616","Happy Birthday Cubes (RSPO-SG)- Waitrose",21.9.2022 00:00:00,"22C00139",652.00,2,2.00
+1258,"5 Reindeer Mini Rolls (RSPO-SG;RA-MB) -ASDA"," FG030288","-5 Reindeer Mini Rolls (RSPO-SG;RA-MB)2022 -ASDA",22.11.2022 00:00:00,"22C08124",128.00,2,12.00
+1259,"5 Mini Cuthbert Rolls( RSPO-SG;-MB)- Aldi","FG030290","5 Mini Cuthbert Rolls (RSPO-SG;RA-MB)- ALDI",28.10.2022 00:00:00,"22C08123",137.50,2,12.00
+1260,"SAINSBURY'S 5 Mini Christmas Yule Pups (2022)","FG030284","-5 Mini Christmas Yule Pups (RSPO-SG)2022 Sainsbury's",28.9.2022 00:00:00,"22C08045",135.00,2,12.00
+1262,"6 Mini raspberry rolls pink deco  VOS06 (RSPO-SG)","VOS06","6 Mini raspberry rolls pink deco VOS06(RSPO-SG)",22.11.2022 00:00:00,"22C20043",150.00,2,12.00
+1266,"Beverley Manor 6 Assorted Jam Tarts (RSPO-SG)-Aldi","FG120263","Beverley Manor 6 Assorted Jam Tarts (RSPO-SG)-Aldi",23.2.2023 00:00:00,"22T00102",180.00,1,12.00
+1267,"Happy Birthday Cubes Chocolate Cake 2023-TESCO","FG090513","Happy Birthday Cubes Chocolate Cake 2023-TESCO  (RSPO-SG;RA-MB)",9.1.2023 00:00:00,"22C00103",660.40,2,2.00
+1269,"Ms Molly' Madeira Celebration Cake- TESCO BREXIT","FG090606","Ms Molly's Madeira Celebration Cake BREXIT (RSPO-SG)- TESCO",22.2.2023 00:00:00,"22M00167",940.00,8,6.00
+1270,"Ms Molly's Chocolate Celebration Cake - TESCO","FG090605","-Ms Molly's Chocolate Celebration Cake BREXIT (RSPO-SG;RA-MB) - TESCO",22.2.2023 00:00:00,"22M00166",934.00,8,6.00
+1271,"Princess Tiara Cake RSPO-SG  - TESCO BREXIT","FG090521","-Princess Tiara Cake BREXIT (RSPO-SG) - TESCO",12.3.2023 00:00:00,"22M00111",1219.50,8,2.00
+1272,"Chocolate Yule Log (RSPO-SG;RA-MB)2023 -ASDA","FG040276","Chocolate Yule Log (RSPO-SG;RA-MB)2023 -ASDA",12.9.2023 00:00:00,"22C08126",260.00,2,12.00
+1274,"4 Christmas Cubes (RSPO-SG)2023- Waitrose","FG090617","4 Christmas Cubes (RSPO-SG)2023- Waitrose",18.10.2023 00:00:00,"22C00140",194.04,2,12.00
+1275,"8 Chocolate Nom Noms -  Aldi","FG220101","8 Chocolate Nom Noms (RSPO-SG)-Aldi",29.3.2023 00:00:00,"22C08041",135.20,2,12.00
+1276,"Finest Iced Bar (RSPO-SG) 2023- TESCO","FG140715","Finest Iced Bar(Snowflake) 400g (RSPO-SG) 2023- TESCO",11.7.2023 00:00:00,"22N00001",400.00,9,12.00
+1277,"Iceland 2023 Mary Berry Premium AOI 900g","FG140821","Premium AOI Cake 900g 2023- Iceland",24.7.2023 00:00:00,"22M00172",900.00,9,4.00
+1278,"Finest Mini Gift Cake 150g 2023(RSPO-SG)- TESCO","FG140714","Finest Mini Gift Cake 150g (RSPO-SG)2023- TESCO",6.6.2023 00:00:00,"22M00101",150.00,9,12.00
+1279,"Standard Iced bar (RSPO-SG)2023- Co-op","FG140787","Standard Iced bar (RSPO-SG)2023- Co-op",26.5.2023 00:00:00,"22N00007",400.00,9,12.00
+1280,"Finest Rich Fruit Round Cake 800g 2023 TESCO","FG140713","Finest Rich Fruit Round Cake 800g 2023 - TESCO",25.7.2023 00:00:00,"22M00099",800.00,9,12.00
+1281,"Finest AOI (RSPO-SG) 2023-TESCO","FG140677","Finest AOI (RSPO-SG) 2023 -TESCO",6.7.2023 00:00:00,"22M00126",907.00,9,12.00
+1283,"6 Assorted Jam Tarts","FG120269","Hoppers 6 Assorted Jam Tarts - Iceland (RSPO-SG)",26.5.2023 00:00:00,"22T10262",168.00,1,12.00
+1284,"Holly Lane TIR (RSPO-SG) 2023-Aldi","FG140820","Holly Lane TIR (RSPO-SG) 2023-ALDI",1.6.2023 00:00:00,"22M00142",907.00,9,12.00
+1285,"Holly Lane Iced Bar (RSPO-SG) 2023-Aldi","FG140819","Holly Lane Iced Bar (RSPO-SG) 2023-Aldi",1.6.2023 00:00:00,"22N00009",400.00,9,12.00
+1286,"ES 9 Mini Mince Pies 2023 -ASDA","FG020344","ES 9 Mini Mince Pies 2023 -ASDA",21.8.2023 00:00:00,"22T50001",254.70,1,12.00
+1287,"5 Reindeer Mini Rolls (RSPO-SG;RA-MB) 2023- ASDA"," FG030288","5 Reindeer Mini Rolls (RSPO-SG;RA-MB) 2023- ASDA",8.11.2023 00:00:00,"22C08124",128.00,2,12.00
+1288,"ES Mini Gift Cake (RSPO-SG) 2023-ASDA","FG140818","ES Mini Gift Cake (RSPO-SG) 2023-ASDA",11.7.2023 00:00:00,"22M70001",150.00,9,12.00
+1289,"9 S/S Mini Mince Pies 2023-Aldi","FG020381","9 S/S Mini Mince Pies 2023-ALDI",29.8.2023 00:00:00,"22T50007",224.00,1,12.00
+1290,"5 Mini Yule Logs (RSPO-SG) 2023 -Aldi","FG030293","5 Mini Yule Logs (RSPO-SG;RA-MB) 2023 -ALDI",23.8.2023 00:00:00,"22C08127",130.00,2,12.00
+1291,"9 Finest Mini Mince Pies 2023- TESCO","FG020349","9 Finest Mini Mince Pies 2023- TESCO",1.6.2023 00:00:00,"22T60006",185.40,1,12.00
