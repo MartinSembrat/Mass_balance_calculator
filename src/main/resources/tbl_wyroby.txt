@@ -1,4 +1,4 @@
-"ID_wyrobu","Opis_wyrobu","Kod FG","Nazwa_wyrobu","Data_wprowadzenia","Indeks CMJ","Waga jednostki netto","ID_rodzaj_wyrobu","Ilosc_w_pudle"
+"ID_wyrobu","Opis_wyrobu","Kod_FG","Nazwa_wyrobu","Data_wprowadzenia","Indeks_CMJ","Waga_jednostki_netto","ID_rodzaj_wyrobu","Ilosc_w_pudle"
 1,"Tesco Jumbo Choc/Van Swiss Roll","FG040037","-Jumbo Chocolate & Vanilla Swiss Roll (RSPO-MB)",28.6.2008 00:00:00,"22R00010",390.00,3,12.00
 2,"Tesco Jumbo Straw/Van Swiss Roll","FG040038","-Jumbo Strawberry & Vanilla Swiss Roll (RSPO-MB)",26.6.2009 00:00:00,"22R00011",390.00,3,12.00
 3,"Tesco Standard Double Chocolate Swiss Roll","FG040123","-Chocolate Swiss Roll (Standard Double)",28.6.2008 00:00:00,"22R00012",195.00,3,24.00

@@ -1,9 +1,12 @@
 package MassBalanceCalculator.controller;
 
 import MassBalanceCalculator.model.Sale;
+import MassBalanceCalculator.model.custom.IRMContentInFG;
+import MassBalanceCalculator.model.custom.IRMContentInIndex;
 import MassBalanceCalculator.service.ExcelService;
 import MassBalanceCalculator.helper.ExcelHelper;
 import MassBalanceCalculator.message.ResponseMessage;
+//import MassBalanceCalculator.service.RMContentInIndexService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -20,6 +23,7 @@ public class ExcelController {
 
     @Autowired
     ExcelService fileService;
+//    RMContentInIndexService rmContentInIndexService;
 
     @PostMapping("/upload")
     public ResponseEntity<ResponseMessage> uploadFile(@RequestParam("file") MultipartFile file) {
@@ -56,4 +60,72 @@ public class ExcelController {
             return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
+
+    @GetMapping("/sales2")
+    public ResponseEntity<List<Sale>> getSalesByJM() {
+        try {
+            List<Sale> sales = fileService.getSalesByJM();
+
+            if (sales.isEmpty()) {
+                return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+            }
+
+            return new ResponseEntity<>(sales, HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @GetMapping("/rmcontentinindex")
+    public ResponseEntity<List<IRMContentInIndex>> getRMContentInIndex() {
+        try {
+            List<IRMContentInIndex> irmContentInIndexList2 = fileService.findIRMContentInIndex();
+            if (irmContentInIndexList2.isEmpty()) {
+                return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+            }
+            return new ResponseEntity<>(irmContentInIndexList2, HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @GetMapping("/rmcontentinfg")
+    public ResponseEntity<List<IRMContentInFG>> getRMContentInFG() {
+        try {
+            List<IRMContentInFG> irmContentInFG = fileService.findIRMContentInFG();
+            if (irmContentInFG.isEmpty()) {
+                return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+            }
+            return new ResponseEntity<>(irmContentInFG, HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @GetMapping("/rmcontentinfgcakes")
+    public ResponseEntity<List<IRMContentInFG>> findIRMContentInFGCakes() {
+        try {
+            List<IRMContentInFG> irmContentInFGCakes = fileService.findIRMContentInFGCakes();
+            if (irmContentInFGCakes.isEmpty()) {
+                return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+            }
+            return new ResponseEntity<>(irmContentInFGCakes, HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @GetMapping("/rmcontentinfgfillings")
+    public ResponseEntity<List<IRMContentInFG>> findIRMContentInFillings() {
+        try {
+            List<IRMContentInFG> irmContentInFillings = fileService.findIRMContentInFillings();
+            if (irmContentInFillings.isEmpty()) {
+                return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+            }
+            return new ResponseEntity<>(irmContentInFillings, HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
 }

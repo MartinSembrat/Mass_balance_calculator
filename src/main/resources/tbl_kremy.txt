@@ -1,4 +1,4 @@
-"ID_kremu","Nazwa_kremu","Nr receptury","Data zatwierdzenia","Aktualna","wersja"
+"ID_kremu","Nazwa_kremu","Nr_receptury","Data_zatwierdzenia","Aktualna","wersja"
 47,"Krem czekoladowy RA - Torcik","125",17.1.2018 00:00:00,1,11
 52,"Krem czekoladowy","233",22.4.2009 00:00:00,1,12
 54,"krem o smaku waniliowym","236",6.9.2016 00:00:00,1,22

@@ -1,0 +1,9 @@
+2024-03-07 10:10:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SALES" not found (this database is empty); SQL statement:
+SELECT Sales.indeks as indeks, Sum(Sales.ilosc) AS sumaOfIlosc FROM Sales GROUP BY Sales.indeks [42104-214]
+2024-03-07 10:10:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SALES" not found (this database is empty); SQL statement:
+SELECT Sales.indeks as indeks, Sum(Sales.ilosc) AS sumaOfIlosc FROM Sales GROUP BY Sales.indeks [42104-214]
+2024-03-07 10:10:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SALES" not found (this database is empty); SQL statement:
+SELECT Sales.indeks as indeks, Sum(Sales.ilosc) AS sumaOfIlosc FROM Sales GROUP BY Sales.indeks [42104-214]

@@ -1,4 +1,4 @@
-"ID_pola","ID_kremu","ID_surowca","Ilosc","Nazwa_kremu","Nr receptury","Data zatwierdzenia","wersja","ID_typskladnika"
+"ID_pola","ID_kremu","ID_surowca","Ilosc","Nazwa_kremu","Nr_receptury","Data_zatwierdzenia","wersja","ID_typskladnika"
 15079,47,2,50.00,"Krem czekoladowy","125",14.11.2008 00:00:00,1,1
 15080,47,49,33.00,"Krem czekoladowy","125",14.11.2008 00:00:00,1,1
 15081,47,67,11.00,"Krem czekoladowy","125",14.11.2008 00:00:00,1,1

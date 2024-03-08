@@ -1,4 +1,4 @@
-"ID_surowca","Index","Surowiec wycofany"
+"ID_surowca","Index","Surowiec_wycofany"
 43,"34000000",0
 451,"34001771",1
 165,"34A00011",1

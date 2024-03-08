@@ -1,6 +1,5 @@
 package MassBalanceCalculator.model;
 
-import MassBalanceCalculator.model.custom.IRMContentInFG;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

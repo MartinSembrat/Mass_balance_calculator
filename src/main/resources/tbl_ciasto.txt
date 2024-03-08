@@ -1,4 +1,4 @@
-"ID_ciasta","Nazwa Ciasta","Nr receptury","Data zatwierdzenia","Aktualna","Wersja"
+"ID_ciasta","Nazwa_Ciasta","Nr_receptury","Data_zatwierdzenia","Aktualna","Wersja"
 62,"Ciasto kruche do tart - SPODY","193",10.6.2008 00:00:00,1,17
 109,"Biszkopt czekoladowy -Babeczki","200/K015",27.4.2020 00:00:00,1,26
 135,"Biszkopt żółty - Fronhoffs","241",12.1.2018 00:00:00,1,11
