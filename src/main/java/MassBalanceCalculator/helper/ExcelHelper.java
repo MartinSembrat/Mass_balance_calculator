@@ -7,8 +7,6 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.springframework.web.multipart.MultipartFile;
-
-import java.io.IOException;
 import java.io.InputStream;
 import java.math.BigDecimal;
 import java.util.ArrayList;
@@ -19,13 +17,11 @@ import java.util.List;
 public class ExcelHelper {
 
     public static String TYPE = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
-    static String[] HEADERs = { "nr_Mag", "idPlatnika", "platnik_Nazwa", "idOdbiorcy", "odbiorca_Nazwa", "data", "wystawienia", "wk", "indeks", "nazwa", "jm", "ilosc", "iloscKG", "wartoscNetto"};
+//    static String[] HEADERs = { "nr_Mag", "idPlatnika", "platnik_Nazwa", "idOdbiorcy", "odbiorca_Nazwa", "data", "wystawienia", "wk", "indeks", "nazwa", "jm", "ilosc", "iloscKG", "wartoscNetto"};
     static String SHEET = "Sales";
 
     public static boolean hasExcelFormat(MultipartFile file){
-        if (!TYPE.equals(file.getContentType())) {
-            return false;
-        }return true;
+        return TYPE.equals(file.getContentType());
     }
 
     public static List<Sale> excelToSales(InputStream is) {

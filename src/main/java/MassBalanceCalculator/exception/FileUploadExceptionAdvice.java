@@ -1,6 +1,5 @@
 package MassBalanceCalculator.exception;
 
-
 import MassBalanceCalculator.message.ResponseMessage;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
