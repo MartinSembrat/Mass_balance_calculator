@@ -17,7 +17,7 @@ import java.util.stream.Stream;
 
 //uses ExcelHelper and ISaleRepository methods to save Excel data to db
 @Service
-public class ExcelService {
+public class MBService {
     @Autowired
     ISaleRepository ISaleRepository;
 

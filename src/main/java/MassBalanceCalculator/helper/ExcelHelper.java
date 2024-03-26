@@ -29,7 +29,6 @@ public class ExcelHelper {
         try {
             Workbook workBook = new XSSFWorkbook(is);
             Sheet sheet = workBook.getSheet(SHEET);
-            //npe
             Iterator<Row> rowIterator = sheet.iterator();
             //Omit column names in first row
             rowIterator.next();
@@ -39,7 +38,6 @@ public class ExcelHelper {
                 Row currentRow = rowIterator.next();
                 Iterator<Cell> cellIterator = currentRow.iterator();
                 Sale sale = new Sale();
-               // int rowIndex = currentRow.getRowNum();
 
                 while (cellIterator.hasNext()) {
                     Cell currentCell = cellIterator.next();
@@ -80,15 +78,15 @@ public class ExcelHelper {
                             sale.setIlosc(Float.parseFloat(currentCell.getStringCellValue()));
                             break;
                         case 11:
-//                            sale.setIloscKG((float)currentCell.getNumericCellValue());
                             sale.setIloscKG(Float.parseFloat(currentCell.getStringCellValue()));
                             break;
                         case 12:
                             sale.setWartoscNetto(BigDecimal.valueOf(currentCell.getNumericCellValue()).toBigInteger());
                             break;
                         default: break;
-                    } listSales.add(sale);
+                    }
                 }
+                listSales.add(sale);
             }
             workBook.close();
             long end = System.currentTimeMillis();
