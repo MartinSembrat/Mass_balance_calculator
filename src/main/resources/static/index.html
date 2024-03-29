@@ -1,10 +1,137 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Upload and Data Retrieval</title>
 </head>
 <body>
-$END$
+<!-- File Upload Section -->
+<h1>File Upload</h1>
+<form id="uploadForm" enctype="multipart/form-data">
+    <input type="file" name="file" id="fileInput" accept=".xls,.xlsx">
+    <button type="submit">Upload File</button>
+</form>
+<br>
+<!-- Data Retrieval Section -->
+<h1>Data Retrieval</h1>
+<label for="indexInput">Index:</label>
+<input type="text" id="indexInput">
+<button onclick="getAllSales()">Get All Sales</button>
+<button onclick="getRMContentInFG()">Get RM Content in FG</button>
+<button onclick="getRMContentInFGCakes()">Get RM Content in FG Cakes</button>
+<button onclick="getRMContentInFillings()">Get RM Content in Fillings</button>
+<button onclick="getRMContentInProductOverall()">Get RM Content in Product Overall</button>
+<br>
+<!-- Display Area for Response -->
+<div id="response"></div>
+
+<script type="text/javascript" language="javascript">
+  const uploadForm = document.getElementById('uploadForm');
+    const fileInput = document.getElementById('fileInput');
+    const indexInput = document.getElementById('indexInput');
+
+    // Event listener for file upload form submission
+    uploadForm.addEventListener('submit', (event) => {
+        event.preventDefault();
+        const formData = new FormData();
+        formData.append('file', fileInput.files[0]);
+
+        // Send file to server for upload
+        fetch('/api/upload', {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('response').innerText = data.message;
+        })
+        .catch(error => {
+            console.error('Error:', error);
+        });
+    });
+
+    // Function to retrieve all sales data
+    function getAllSales() {
+        fetchData('/api/sales');
+    }
+
+    // Function to retrieve RM content in FG
+    function getRMContentInFG() {
+        const index = indexInput.value;
+        fetchData(`/api/rmcontentinfg?index=${index}`);
+    }
+
+    // Function to retrieve RM content in FG Cakes
+    function getRMContentInFGCakes() {
+        const index = indexInput.value;
+        fetchData(`/api/rmcontentinfgcakes?index=${index}`);
+    }
+
+    // Function to retrieve RM content in Fillings
+    function getRMContentInFillings() {
+        const index = indexInput.value;
+        fetchData(`/api/rmcontentinfgfillings?index=${index}`);
+    }
+
+    // Function to retrieve RM content in Product Overall
+    function getRMContentInProductOverall() {
+        const index = indexInput.value;
+        fetchData(`/api/rmcontentinfgsum?index=${index}`);
+    }
+
+    // Function to make fetch request to specified URL
+    function fetchData(url) {
+        fetch(url)
+        .then(response => {
+            if (response.status === 204) {
+                clearResponse();
+            } else if (!response.ok) {
+                throw new Error('Network response was not ok');
+            } else {
+                return response.json();
+            }
+        })
+        .then(data => {
+            if (data) {
+                displayData(data);
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+        });
+    }
+
+    // Function to display response data in a user-friendly format
+    function displayData(data) {
+        const responseDiv = document.getElementById('response');
+        responseDiv.innerHTML = ''; // Clear previous content
+
+        // Create table to display data
+        const table = document.createElement('table');
+        const headerRow = table.insertRow(0);
+        Object.keys(data[0]).forEach(key => {
+            const headerCell = headerRow.insertCell();
+            headerCell.textContent = key;
+        });
+
+        // Populate table with data
+        data.forEach((item, index) => {
+            const row = table.insertRow(index + 1);
+            Object.values(item).forEach(value => {
+                const cell = row.insertCell();
+                cell.textContent = value;
+            });
+        });
+
+        // Append table to response div
+        responseDiv.appendChild(table);
+    }
+
+    // Function to clear response
+    function clearResponse() {
+        document.getElementById('response').innerHTML = '';
+    }
+    </script>
 </body>
 </html>
