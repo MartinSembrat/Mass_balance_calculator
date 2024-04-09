@@ -34,6 +34,10 @@ public class MBService {
         return ISaleRepository.findAll();
     }
 
+    public List<String> getAllRMIndexes() {
+        return ISaleRepository.findAllRMIndexes();
+    }
+
     public List<IRMContentInFG> findIRMContentInFG(String index) {
         return ISaleRepository.findIRMContentInFG(index);
     }
@@ -46,7 +50,7 @@ public class MBService {
         return ISaleRepository.findIRMContentInFGFillings(index);
     }
 
-    public List<IRMContentInFG> findIRMContentInProductOverall (String index){
+    public List<IRMContentInFG> findIRMContentInProductOverall(String index) {
         return Stream.of(
                 ISaleRepository.findIRMContentInFG(index),
                 ISaleRepository.findIRMContentInFGCakes(index),

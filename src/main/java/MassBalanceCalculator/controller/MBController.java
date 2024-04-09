@@ -50,6 +50,19 @@ public class MBController {
         }
     }
 
+    @GetMapping("/displayIndexes")
+    public ResponseEntity<List<String>> getAllRMIndexes() {
+        try {
+            List<String> indexes = fileService.getAllRMIndexes();
+            if (indexes.isEmpty()) {
+                return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+            }
+            return new ResponseEntity<>(indexes, HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
     @GetMapping("/rmcontentinfg")
     public ResponseEntity<List<IRMContentInFG>> getRMContentInFG(@RequestParam String index) {
         try {
