@@ -11,6 +11,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 import java.util.List;
+import java.util.Map;
 
 @org.springframework.stereotype.Controller
 @RequestMapping("/api")
@@ -50,7 +51,7 @@ public class MBController {
         }
     }
 
-    @GetMapping("/displayIndexes")
+    @GetMapping("/displayindexes")
     public ResponseEntity<List<String>> getAllRMIndexes() {
         try {
             List<String> indexes = fileService.getAllRMIndexes();
@@ -58,6 +59,19 @@ public class MBController {
                 return new ResponseEntity<>(HttpStatus.NO_CONTENT);
             }
             return new ResponseEntity<>(indexes, HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @GetMapping("/getIndexoccurs")
+    public ResponseEntity<Map<String, Integer>> getIndexOccurs() {
+        try {
+            Map<String, Integer>  getIndexOccurs = fileService.getIndexOccurs();
+            if (getIndexOccurs.isEmpty()) {
+                return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+            }
+            return new ResponseEntity<>(getIndexOccurs, HttpStatus.OK);
         } catch (Exception e) {
             return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
         }
@@ -114,4 +128,17 @@ public class MBController {
             return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
+    @GetMapping("/salerminfg")
+    public ResponseEntity<List<IRMContentInFG>> findIRMContentInProductOverallMultiplyBySalesVolume(@RequestParam String index) {
+        try {
+            List<IRMContentInFG> findIRMContentInProductOverallMultiplyBySalesVolume = fileService.findIRMContentInProductOverallMultiplyBySalesVolume(index);
+            if (findIRMContentInProductOverallMultiplyBySalesVolume.isEmpty()) {
+                return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+            }
+            return new ResponseEntity<>(findIRMContentInProductOverallMultiplyBySalesVolume, HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
 }

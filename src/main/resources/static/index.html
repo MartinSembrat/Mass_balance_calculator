@@ -22,6 +22,7 @@
 <button onclick="getRMContentInFGCakes()">Get RM Content in FG Cakes</button>
 <button onclick="getRMContentInFillings()">Get RM Content in Fillings</button>
 <button onclick="getRMContentInProductOverall()">Get RM Content in Product Overall</button>
+<button onclick="getSalerminfg()">Get Salerminfg</button>
 <br>
 <!-- Display Area for Response -->
 <div id="response"></div>
@@ -85,6 +86,13 @@
         fetchData(`/api/rmcontentinfgsum?index=${index}`);
     }
 
+      // Function to retrieve Salerminfg
+    function getSalerminfg() {
+        const index = indexInput.value;
+        fetchData(`/api/salerminfg?index=${index}`);
+    }
+
+
     // Function to make fetch request to specified URL
     function fetchData(url) {
         fetch(url)
@@ -140,7 +148,7 @@
 
     // Function to fetch and display RM indexes
     function displayRMIndexes() {
-        fetch('/api/displayIndexes')
+        fetch('/api/displayindexes')
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');

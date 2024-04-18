@@ -9,8 +9,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
-import java.util.Collection;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -38,6 +37,27 @@ public class MBService {
         return ISaleRepository.findAllRMIndexes();
     }
 
+    public Map<String, Integer> getIndexOccurs() {
+        List<String> allRMIndexes = getAllRMIndexes();
+
+        Map<String, Integer> resultMap = allRMIndexes.stream()
+                .collect(Collectors.toMap(
+                        index -> index,
+                        index -> {
+                            try {
+                                return findIRMContentInProductOverall(index).size();
+                            } catch (Exception e) {
+                                // Handle exception, for now, set value to 0
+                                e.printStackTrace();
+                                return 0;
+                            }
+                        },
+                        // Merge function to handle duplicate keys
+                        (existingValue, newValue) -> existingValue
+                ));
+        return resultMap;
+    }
+
     public List<IRMContentInFG> findIRMContentInFG(String index) {
         return ISaleRepository.findIRMContentInFG(index);
     }
@@ -56,5 +76,53 @@ public class MBService {
                 ISaleRepository.findIRMContentInFGCakes(index),
                 ISaleRepository.findIRMContentInFGFillings(index)
         ).flatMap(Collection::stream).collect(Collectors.toList());
+    }
+
+    //TODO to be check
+    public List<IRMContentInFG> findIRMContentInProductOverallMultiplyBySalesVolume(String index) {
+        List<IRMContentInFG> updatedList = findIRMContentInProductOverall(index).stream()
+                .flatMap(irm -> {
+                    Sale sale = getAllSales().stream()
+                            .filter(s -> s.getIndeks().equals(irm.getIndeks_CMJ()))
+                            .findFirst()
+                            .orElse(null);
+                    if (sale != null) {
+                        return Stream.of(new IRMContentInFG() {
+                            @Override
+                            public String getIndeks_CMJ() {
+                                return irm.getIndeks_CMJ();
+                            }
+
+                            @Override
+                            public String getIndex() {
+                                return irm.getIndex();
+                            }
+
+                            @Override
+                            public String getNazwa_wyrobu() {
+                                return null;
+                            }
+
+                            @Override
+                            public String getReceptura() {
+                                return null;
+                            }
+
+                            @Override
+                            public Float getAmount_for_primary() {
+                                return irm.getAmount_for_primary() * sale.getIlosc();
+                            }
+
+                            @Override
+                            public int getID_wyrobu() {
+                                return irm.getID_wyrobu();
+                            }
+                        });
+                    } else {
+                        return Stream.empty(); // Skip null values
+                    }
+                })
+                .collect(Collectors.toList());
+        return updatedList;
     }
 }
