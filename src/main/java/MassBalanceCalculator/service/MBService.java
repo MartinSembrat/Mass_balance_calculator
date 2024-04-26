@@ -100,7 +100,7 @@ public class MBService {
 
                             @Override
                             public String getNazwa_wyrobu() {
-                                return null;
+                                return irm.getNazwa_wyrobu();
                             }
 
                             @Override
