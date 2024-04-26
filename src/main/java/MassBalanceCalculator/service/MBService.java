@@ -78,7 +78,6 @@ public class MBService {
         ).flatMap(Collection::stream).collect(Collectors.toList());
     }
 
-    //TODO to be check
     public List<IRMContentInFG> findIRMContentInProductOverallMultiplyBySalesVolume(String index) {
         List<IRMContentInFG> updatedList = findIRMContentInProductOverall(index).stream()
                 .flatMap(irm -> {

@@ -78,9 +78,14 @@ Index options:
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+If the raw material index `34P02200` will be used followed by a number `Get RM Content in FG` button, it will display all the products that contain cake recipes with this particular raw material. 
+The result will include the name of the raw material, the number of the dough recipe which contains the raw material, and also the amount in grams of this ingredient present in one finished product.
+![Product Name Screen Shot][product-34P02200]
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+The buttons `GetRM Content in FG` will clear the list, as `34P02200` it's neither a direct ingredient in any finished product nor a part of any filling recipe. 
+`Get Sale RM in FG` will generate a list of finished goods that were sold with the specified raw material. 
+The value of `861.3106` for `Strawberry flavoured Swiss Roll` is derived from the multiplication of the content of 3.845g of the raw material in the product by the number of units sold 224.
+![Product Name Screen Shot][product-34P02200_sales]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,10 +97,7 @@ Project Link: [https://github.com/MartinSembrat/Mass_balance_calculator](https:/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
@@ -107,7 +109,6 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/MartinSembrat/Mass_balance_calculator.svg?style=for-the-badge
 [contributors-url]: https://github.com/MartinSembrat/Mass_balance_calculator/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/MartinSembrat/Mass_balance_calculator.svg?style=for-the-badge
@@ -119,6 +120,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/martin-sembrat/
 [product-screenshot]: src/main/resources/API_view.png
+[product-34P02200]: src/main/resources/34P02200.png
+[product-34P02200_sales]: src/main/resources/34P02200_sales.png
 [Spring-boot]: https://img.shields.io/badge/Spring-boot-000000?style=for-the-badge&logo=spring&logoColor=white
 [Spring-boot-url]: https://spring.io/
 [Maven]: https://img.shields.io/badge/Maven-20232A?style=for-the-badge&logo=maven&logoColor=61DAFB
